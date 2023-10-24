@@ -1,0 +1,3306 @@
+{
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle": {
+    "time": 1689692273625.412,
+    "uuid": "3f200e06-286a-40cd-a915-b94e26ffe75e",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/libs": {
+    "time": 1688523063337.5906,
+    "uuid": "8933b6e6-f35a-4e09-8031-4286fdb535bb",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/resources": {
+    "time": 1689691895255.7827,
+    "uuid": "11349493-059b-466d-8a63-bc29a4d895cd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script": {
+    "time": 1688523063339.683,
+    "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common": {
+    "time": 1688523063327.71,
+    "uuid": "b9dc5d89-1070-4f62-8a31-5b96306c192b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui": {
+    "time": 1689783616956.7673,
+    "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language": {
+    "time": 1689264076686.371,
+    "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/libs/seedrandom": {
+    "time": 1688523063337.8013,
+    "uuid": "c8895a8e-6fd7-4a9c-a18b-5c67d871ccca",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game": {
+    "time": 1688796446194.7834,
+    "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim": {
+    "time": 1688523063326.2483,
+    "uuid": "0b70ab49-9f2b-4cbb-b4cb-849b2e477598",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab": {
+    "time": 1688523063327.416,
+    "uuid": "853ce1af-fb40-4f30-aebb-f12234f3d7fe",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture": {
+    "time": 1689266245526.177,
+    "uuid": "0489d8e2-9e0b-4c7e-b5ec-647a864e9214",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading": {
+    "time": 1689606256671.5989,
+    "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json": {
+    "time": 1689954361994.5662,
+    "uuid": "92204c5e-0e0d-437c-9b83-4bc1d2994a5d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture": {
+    "time": 1689954386627.296,
+    "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common": {
+    "time": 1689784772005.0818,
+    "uuid": "357b1816-e65d-47e7-938e-a74526a54b65",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize": {
+    "time": 1688523063342.87,
+    "uuid": "b005e8c9-418f-4529-8b5c-862aeb5977b1",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture": {
+    "time": 1689607130414.1157,
+    "uuid": "9df30361-6dbb-444f-8809-df0b7fd3f29e",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/en": {
+    "time": 1688523063336.5647,
+    "uuid": "ec976edd-f0a0-4f29-a3f9-c803b92ef9be",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/zh": {
+    "time": 1688523063337.1528,
+    "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/config": {
+    "time": 1688523063341.2466,
+    "uuid": "7775e602-1231-4777-a927-a5cbb41c8518",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/table": {
+    "time": 1688523063341.6902,
+    "uuid": "cec5d176-d9f1-4cf6-95bc-e862683a7c2b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/bll": {
+    "time": 1688523063342.6587,
+    "uuid": "de5401a8-45c8-4249-aa4c-933102551227",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/view": {
+    "time": 1689606647820.9924,
+    "uuid": "a36c4006-66a4-4a3e-9f87-e64b179de4e5",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/Main.ts": {
+    "time": 1688523063339.3887,
+    "uuid": "0eec0b38-aab6-45ee-89cf-95806b0fecbe",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/SingletonModuleComp.ts": {
+    "time": 1688523063340.2568,
+    "uuid": "17a56bce-5501-4c31-aac0-371afa26f3fb",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/Initialize.ts": {
+    "time": 1688523063342.0369,
+    "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/config/GameEvent.ts": {
+    "time": 1689955585724.6099,
+    "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/config/GameUIConfig.ts": {
+    "time": 1689787019145.1577,
+    "uuid": "14663cf6-fb92-4921-8ba9-c836b2667737",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/table/TablePromptWindow.ts": {
+    "time": 1688523063341.6091,
+    "uuid": "1e3d7b9a-9e7e-4c46-8900-2f6c142e6f72",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/bll/InitRes.ts": {
+    "time": 1689872874700.93,
+    "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/view/LoadingViewComp.ts": {
+    "time": 1689870095407.7295,
+    "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle.meta": {
+    "time": 1688523063324.9768
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/libs.meta": {
+    "time": 1688523063337.334
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/resources.meta": {
+    "time": 1688523063338.2593
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script.meta": {
+    "time": 1688523063339.2039
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common.meta": {
+    "time": 1688523063325.1807
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui.meta": {
+    "time": 1688523063331.4705
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language.meta": {
+    "time": 1688523063334.9565
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/libs/seedrandom.meta": {
+    "time": 1688523063337.5178
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game.meta": {
+    "time": 1688523063339.6218
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim.meta": {
+    "time": 1688523063325.3767
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab.meta": {
+    "time": 1688523063326.442
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture.meta": {
+    "time": 1688523063327.64
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading.meta": {
+    "time": 1688523063332.1672
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json.meta": {
+    "time": 1688523063335.2783
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture.meta": {
+    "time": 1688523063335.9648
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common.meta": {
+    "time": 1688523063339.9238
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize.meta": {
+    "time": 1688523063341.8584
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture.meta": {
+    "time": 1688523063332.7183
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/en.meta": {
+    "time": 1688523063336.1467
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/zh.meta": {
+    "time": 1688523063336.7537
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/config.meta": {
+    "time": 1688523063340.5151
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/table.meta": {
+    "time": 1688523063341.4192
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/bll.meta": {
+    "time": 1688523063342.389
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/view.meta": {
+    "time": 1688523063342.8123
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/Main.ts.meta": {
+    "time": 1688523063339.5142
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/SingletonModuleComp.ts.meta": {
+    "time": 1688523063340.39
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/Initialize.ts.meta": {
+    "time": 1688523063342.1626
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/config/GameEvent.ts.meta": {
+    "time": 1688523063340.8245
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/config/GameUIConfig.ts.meta": {
+    "time": 1688523063341.0618
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/table/TablePromptWindow.ts.meta": {
+    "time": 1688523063341.7417
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/bll/InitRes.ts.meta": {
+    "time": 1688523063342.709
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/initialize/view/LoadingViewComp.ts.meta": {
+    "time": 1688523063343.1255
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/main.scene": {
+    "time": 1688561704139.9683,
+    "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/resources/config.json": {
+    "time": 1690128157367.4739,
+    "uuid": "0f8f84c7-5a96-49fe-a127-f66d9c90c822",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/libs/seedrandom/seedrandom.min.js": {
+    "time": 1688523063337.7231,
+    "uuid": "e5c18099-4502-4dc3-8d34-4a09cb0540b3",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim/button_scale_end.anim": {
+    "time": 1688523063325.6052,
+    "uuid": "0430e564-9665-435e-9895-7b8e19fcb0b9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim/button_scale_start.anim": {
+    "time": 1688523063325.8843,
+    "uuid": "99c3c7ad-3086-4333-81e6-19b82da0c89d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim/notify.anim": {
+    "time": 1688523063326.1677,
+    "uuid": "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab/netinstable.prefab": {
+    "time": 1688561704137.2634,
+    "uuid": "9cc71d8c-192a-4234-8204-352f42b95c65",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab/notify.prefab": {
+    "time": 1688561704137.2932,
+    "uuid": "10285c1d-979d-4a7e-80c0-86e0dc2a65d8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab/window.prefab": {
+    "time": 1688561704137.5159,
+    "uuid": "2501cdfd-ca13-49a6-9c23-ea51586c54c4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/auto-atlas.pac": {
+    "time": 1688523063327.837,
+    "uuid": "9fa4ce44-23c1-4a20-9b6c-29623ff951af",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/bg_window.png": {
+    "time": 1688523063328.348,
+    "uuid": "f9cfbca9-9f35-4dda-8925-64e34e6e9802",
+    "missing": true
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/btn_ok.png": {
+    "time": 1688523063328.669,
+    "uuid": "56a0bfc3-686d-4e85-bb26-5f5a6855ae06",
+    "missing": true
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/loading.png": {
+    "time": 1688523063328.9543,
+    "uuid": "06942a20-0474-4385-9a85-293366d2473e",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/toast.png": {
+    "time": 1688523063329.4365,
+    "uuid": "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json/en.json": {
+    "time": 1689958393042.7307,
+    "uuid": "2c0f4643-d84a-49b9-9069-8efe9434304c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json/zh.json": {
+    "time": 1689958303475.9941,
+    "uuid": "f39d9bde-aff1-4255-846f-cbc4169d5d45",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture/icon_loading_bar.png": {
+    "time": 1689299997000,
+    "uuid": "1ac049d7-c899-492a-89a7-4e8d85ce4cb1",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png": {
+    "time": 1689264543116.263,
+    "uuid": "a2001856-24f5-4ac7-9309-1207a3210cd8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/en/image.jpg": {
+    "time": 1688523063336.344,
+    "uuid": "3d5b607a-face-426b-8200-acf8384108db",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/zh/image.jpg": {
+    "time": 1688523063336.9407,
+    "uuid": "a65eaaec-d315-4134-a79e-23bb817d1939",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/libs/seedrandom/seedrandom.min.js.meta": {
+    "time": 1688523063337.8606
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/main.scene.meta": {
+    "time": 1688561704145.326
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim/button_scale_start.anim.meta": {
+    "time": 1688523063326.0251
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim/button_scale_end.anim.meta": {
+    "time": 1688523063325.7527
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/resources/config.json.meta": {
+    "time": 1688523063338.846
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/auto-atlas.pac.meta": {
+    "time": 1688523063327.9883
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/anim/notify.anim.meta": {
+    "time": 1688523063326.3115
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab/netinstable.prefab.meta": {
+    "time": 1688561704141.876
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab/notify.prefab.meta": {
+    "time": 1688561704142.707
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/prefab/window.prefab.meta": {
+    "time": 1688561704143.837
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/btn_ok.png.meta": {
+    "time": 1688523063328.8152
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/toast.png.meta": {
+    "time": 1688523063329.5845
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/loading.png.meta": {
+    "time": 1688523063329.0857
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/common/texture/bg_window.png.meta": {
+    "time": 1688523063328.5393
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json/en.json.meta": {
+    "time": 1688523063335.597
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json/zh.json.meta": {
+    "time": 1689958139211.0818
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture/icon_loading_bar.png.meta": {
+    "time": 1689607251702.42
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png.meta": {
+    "time": 1689264970477.8372
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/en/image.jpg.meta": {
+    "time": 1688523063336.4915
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/zh/image.jpg.meta": {
+    "time": 1688523063337.0872
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start.meta": {
+    "time": 1688523063331.659
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start": {
+    "time": 1688650063549.6794,
+    "uuid": "e05e3ca3-6657-4d57-8c14-544b16c49d9f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/start.prefab.meta": {
+    "time": 1688648025608.0847
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/start.prefab": {
+    "time": 1689958318976.944,
+    "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture.meta": {
+    "time": 1688650063551.047
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture": {
+    "time": 1689607674870.221,
+    "uuid": "21f8ff85-4a79-4ce6-b234-16abb39bb3a4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/logo.png.meta": {
+    "time": 1689607627541.565
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/logo.png": {
+    "time": 1689607627294.5105,
+    "uuid": "860feb94-5afc-4ea3-9d5f-24ce06676587",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/start.meta": {
+    "time": 1688651191862.076
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/start": {
+    "time": 1688652026008.3408,
+    "uuid": "a4da8022-fd87-433c-9f28-cd3300bed13d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/start/start.ts.meta": {
+    "time": 1688651219957.5833
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/start/start.ts": {
+    "time": 1689610540383.8682,
+    "uuid": "6a5e328d-071f-4408-bb80-7cccbbfe4563",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game.meta": {
+    "time": 1688523063331.1592
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game": {
+    "time": 1689695545403.646,
+    "uuid": "ce4f2740-a8dc-47cd-a6a0-2f1b5b45128a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture.meta": {
+    "time": 1688750400445.7485
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture": {
+    "time": 1689697141229.2126,
+    "uuid": "3f9bac5c-0273-4492-8475-3f6a57168102",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/game.prefab.meta": {
+    "time": 1688750413684.467
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/game.prefab": {
+    "time": 1690300636840.0305,
+    "uuid": "9db78d81-16a1-436f-8f98-afea62ae276f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/restart.png.meta": {
+    "time": 1689612163631.6008
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/restart.png": {
+    "time": 1689612163264.463,
+    "uuid": "bd549b53-74a8-482d-996e-4f9178c6d158",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/audio.png.meta": {
+    "time": 1689612163535.524
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/audio.png": {
+    "time": 1689612163263.045,
+    "uuid": "b769defd-1e87-4b43-b144-e52736a3fa78",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main.meta": {
+    "time": 1688796438495.3118
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main": {
+    "time": 1690301129567.0686,
+    "uuid": "c7bdb670-4224-47b1-9799-de2d0ec26c0b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/game.ts.meta": {
+    "time": 1688796458268.9277
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/game.ts": {
+    "time": 1690301129568.0488,
+    "uuid": "d744e0c6-d3bd-49a1-9d4d-af6edb75e100",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/audios.meta": {
+    "time": 1688795744929.7493
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/audios": {
+    "time": 1690123805533.9084,
+    "uuid": "0e0bcbaf-1323-4c5f-aeff-f1df66569327",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/audios/merge.mp3.meta": {
+    "time": 1688795965812.8953
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/audios/merge.mp3": {
+    "time": 1688795965773.8271,
+    "uuid": "45e0204f-4bb0-4d52-a1a9-dc62d95be021",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/audios/move.mp3.meta": {
+    "time": 1688795973791.0554
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/audios/move.mp3": {
+    "time": 1688795973781.6655,
+    "uuid": "e15f4df0-376c-4a94-aa2e-3e99e3bb371c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/mute.png.meta": {
+    "time": 1689612163611.047
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/mute.png": {
+    "time": 1689612163263.9895,
+    "uuid": "657b8178-3460-4bc4-abac-bf4a0ae67a88",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/mask.png.meta": {
+    "time": 1690299694392.8853
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/mask.png": {
+    "time": 1689612163263.8372,
+    "uuid": "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/block.prefab.meta": {
+    "time": 1688886320729.3823
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/block.prefab": {
+    "time": 1690299710728.9102,
+    "uuid": "374cd4db-5e0d-43a1-9fcc-92cdf01ce374",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/blockCtr.ts.meta": {
+    "time": 1688886804304.5437
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/blockCtr.ts": {
+    "time": 1689694021348.8247,
+    "uuid": "19bddfca-b13b-4e28-8e38-721acbf0842f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/gameover.ts.meta": {
+    "time": 1689005686934.9072
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/gameover.ts": {
+    "time": 1690299573613.533,
+    "uuid": "25368c3a-2c8b-4481-bc0e-4a1adc31093a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/font.meta": {
+    "time": 1688523063335.1548
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/font": {
+    "time": 1689698741578.172,
+    "uuid": "4e04435b-8879-4f78-9114-21d89189a7b9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf.meta": {
+    "time": 1689264200227.3557
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf": {
+    "time": 1689264200206.3958,
+    "uuid": "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture/loading_logo.png.meta": {
+    "time": 1689265009149.7175
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/texture/loading_logo.png": {
+    "time": 1689264915260.0361,
+    "uuid": "4482018a-51ca-44a0-80b5-3d325619e841",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common.meta": {
+    "time": 1689266240136.387
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common": {
+    "time": 1689784836618.8516,
+    "uuid": "b0d66969-c28b-450a-8a6f-2ac7142df120",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/loading.prefab.meta": {
+    "time": 1689606256671.7666
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/loading/loading.prefab": {
+    "time": 1689698732983.9163,
+    "uuid": "b3142304-c27f-4492-b94f-551d154a2bf4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/dan.png.meta": {
+    "time": 1689607641875.5693
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/btn_start.png.meta": {
+    "time": 1689607636476.257
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/frame.png.meta": {
+    "time": 1689607649307.5728
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/roll_down.png.meta": {
+    "time": 1689607657213.2686
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/roll_up.png.meta": {
+    "time": 1689607662980.6672
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/dan.png": {
+    "time": 1689607627292.396,
+    "uuid": "28146bfb-0afe-47cd-8f96-78b362fd750d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/btn_start.png": {
+    "time": 1689607627293.061,
+    "uuid": "cedb646c-8ab3-42cc-a8e7-acdab028157a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/frame.png": {
+    "time": 1689607627293.3235,
+    "uuid": "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/roll_down.png": {
+    "time": 1689607627293.8137,
+    "uuid": "0d6b709b-eae3-414e-8324-9e04528cd39d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/start/texture/roll_up.png": {
+    "time": 1689607627293.874,
+    "uuid": "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/2.png.meta": {
+    "time": 1690299694218.9612
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/4.png.meta": {
+    "time": 1690299694230.079
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/8.png.meta": {
+    "time": 1690299694218.4768
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/16.png.meta": {
+    "time": 1690299694231.8389
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/32.png.meta": {
+    "time": 1690299694233.7393
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/64.png.meta": {
+    "time": 1690299694273.56
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/128.png.meta": {
+    "time": 1690299694283.6855
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/256.png.meta": {
+    "time": 1690299694300.6995
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/512.png.meta": {
+    "time": 1690299694310.0913
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/1024.png.meta": {
+    "time": 1690299694310.6582
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/2048.png.meta": {
+    "time": 1690299694338.634
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/quan.png.meta": {
+    "time": 1689612293029.8496
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/best.png.meta": {
+    "time": 1689612271695.323
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/score.png.meta": {
+    "time": 1689612301442.88
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/set.png.meta": {
+    "time": 1689612306069.572
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/2.png": {
+    "time": 1689612163253.9993,
+    "uuid": "1b41aa80-6bd1-4917-b80a-e5f2711e17a8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/4.png": {
+    "time": 1689612163254.1628,
+    "uuid": "896cbe9d-ea5b-4739-b19a-5eae3afc73e5",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/8.png": {
+    "time": 1689612163254.2922,
+    "uuid": "8bd56246-f765-409b-ad1c-9c96d58e6983",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/16.png": {
+    "time": 1689612163254.572,
+    "uuid": "4f75d973-0f21-48e2-a95b-6c013e2222ca",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/32.png": {
+    "time": 1689612163254.6885,
+    "uuid": "09ecd061-feb9-42c4-84c4-4a0c832f671c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/64.png": {
+    "time": 1689612163254.7612,
+    "uuid": "502f1b1f-8ce4-48f3-a88e-5a735c461acb",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/128.png": {
+    "time": 1689612163259.886,
+    "uuid": "60664d8b-e742-4a27-b232-2a28ec0f55f0",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/256.png": {
+    "time": 1689612163260.235,
+    "uuid": "d4ce22ac-208e-4c88-b7a6-16e59e71fda6",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/512.png": {
+    "time": 1689612163260.806,
+    "uuid": "757838f8-cdef-4c51-83d0-82fee6fb6df2",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/1024.png": {
+    "time": 1689612163260.9338,
+    "uuid": "c219e32e-2916-4bda-8cef-2cd5e639f236",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/2048.png": {
+    "time": 1689612163261.0356,
+    "uuid": "3717dd1a-8821-4c2f-b5b1-755a05c06bc4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/quan.png": {
+    "time": 1689612163262.9148,
+    "uuid": "e7848603-0742-4fe3-8889-ed92daf00534",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/best.png": {
+    "time": 1689612163262.9453,
+    "uuid": "105e97b1-30f4-40e6-af84-25ac7e1ee9cd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/score.png": {
+    "time": 1689612163263.9834,
+    "uuid": "10b4a672-ea95-4e8c-ac7b-2efb393a0507",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/set.png": {
+    "time": 1689612163264.0576,
+    "uuid": "56825443-2c8c-47ce-80bd-271d461bc6f4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover.meta": {
+    "time": 1689691108185.1475
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/texture.meta": {
+    "time": 1689691122704.6614
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover": {
+    "time": 1690297998123.7117,
+    "uuid": "69e1e264-93fd-4c0d-8738-994bf33f257a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/texture": {
+    "time": 1690301016335.6602,
+    "uuid": "3ee9871a-2aa4-4f4f-88a2-212dc46be97a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/texture/end.png.meta": {
+    "time": 1689697248349.4688
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/texture/end.png": {
+    "time": 1690297585099.7942,
+    "uuid": "ebfec32d-d481-43a3-a7a2-e0a1035364c9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/16384.png.meta": {
+    "time": 1690299694371.2473
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/8192.png.meta": {
+    "time": 1690299694354.0754
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/32768.png.meta": {
+    "time": 1690299694372.249
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/4096.png.meta": {
+    "time": 1690299694347.8767
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/65536.png.meta": {
+    "time": 1690299694388.1074
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/131072.png.meta": {
+    "time": 1690299694394.9475
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/16384.png": {
+    "time": 1689693625341.3364,
+    "uuid": "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/8192.png": {
+    "time": 1689693625341.3472,
+    "uuid": "21a0bd37-ed72-4b3f-af81-5f351f048306",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/32768.png": {
+    "time": 1689693625341.263,
+    "uuid": "675cad25-2d95-413d-8da8-8621b79ccfbf",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/4096.png": {
+    "time": 1689693625341.3567,
+    "uuid": "1e93356e-5376-4b7c-bfa7-532cbda9ed0b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/65536.png": {
+    "time": 1689693625341.8245,
+    "uuid": "50be76da-3b08-47fb-9c51-4a05fa2a85a0",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/game/texture/131072.png": {
+    "time": 1689693625342.0188,
+    "uuid": "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/gameover.prefab.meta": {
+    "time": 1689004724454.9324
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/gameover.prefab": {
+    "time": 1690299633605.9304,
+    "uuid": "fba0b415-55c1-4e95-84f3-a568acf1ce74",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/texture/restrat.png.meta": {
+    "time": 1689697257776.0881
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/gameover/texture/restrat.png": {
+    "time": 1689697248295.3252,
+    "uuid": "b92e2883-54cb-43a7-b1c8-2b380ce46456",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting.meta": {
+    "time": 1689783616957.8098
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting": {
+    "time": 1689868488534.3037,
+    "uuid": "8bdc25f3-c268-45f9-a742-c01f5004cc56",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture.meta": {
+    "time": 1689783623870.0396
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture": {
+    "time": 1689868670935.6912,
+    "uuid": "6b9f83f3-51e2-4d2b-b4da-3cef8aab2f82",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/switch_button.prefab.meta": {
+    "time": 1689784719661.5103
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/switch_button.prefab": {
+    "time": 1689788031883.743,
+    "uuid": "f38ee660-66c7-4485-a8b8-9a00d5e7d396",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/buttonEx.meta": {
+    "time": 1689784772005.7888
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/buttonEx": {
+    "time": 1689784782980.4211,
+    "uuid": "e8612e7a-9dda-43b5-82c4-6c9d3682c442",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/buttonEx/SwitchController.ts.meta": {
+    "time": 1689784782980.6008
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/common/buttonEx/SwitchController.ts": {
+    "time": 1689959715503.4067,
+    "uuid": "8bba48a1-c9b7-4d3c-af6f-4e96bbb9b9c9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture.meta": {
+    "time": 1689784832389.6453
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture": {
+    "time": 1689787418207.223,
+    "uuid": "1b704e4a-5868-4b8f-ae1b-2552c607cc87",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/bg_1.png.meta": {
+    "time": 1689264923646.8203
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/bg_1.png": {
+    "time": 1689264751097.32,
+    "uuid": "ba9c5b49-8dfe-4463-acdf-9b24551adfc4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/bg_3.png.meta": {
+    "time": 1689780859856.0627
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/bg_3.png": {
+    "time": 1689780846477.1174,
+    "uuid": "d66417ac-96c6-445c-ae01-cde5a86a0c2b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/bg_2.png.meta": {
+    "time": 1689607405248.754
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/bg_2.png": {
+    "time": 1689607388385.6821,
+    "uuid": "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/setting.prefab.meta": {
+    "time": 1689784873970.2502
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/setting.prefab": {
+    "time": 1689959522593.6086,
+    "uuid": "ab7aaff6-bff9-404e-84ef-2ba5759a6da7",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/btn_save.png.meta": {
+    "time": 1689784967532.1162
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/img_arrow.png.meta": {
+    "time": 1689870327890.841
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/item_bg.png.meta": {
+    "time": 1689784967572.2322
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/close.png.meta": {
+    "time": 1689869087124.8372
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/list_item.png.meta": {
+    "time": 1689784967569.2605
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/setting_bg.png.meta": {
+    "time": 1689784967588.931
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/btn_save.png": {
+    "time": 1689784960392.4438,
+    "uuid": "47d910a9-7333-4ecb-9d81-633c7bf7a217",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/img_arrow.png": {
+    "time": 1689784960392.7659,
+    "uuid": "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/item_bg.png": {
+    "time": 1689784960393.2822,
+    "uuid": "bc1351f5-3476-4f71-832f-0d0d574ebac6",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/close.png": {
+    "time": 1689868636101.0422,
+    "uuid": "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/list_item.png": {
+    "time": 1689784960393.377,
+    "uuid": "fa37605a-ca2d-4fa7-9671-f2295c8a6b51",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/setting/texture/setting_bg.png": {
+    "time": 1689784960393.5435,
+    "uuid": "900826c3-b6f4-4002-8a83-fc15ab5a3c45",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/setting.ts.meta": {
+    "time": 1689787066611.555
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/script/game/main/setting.ts": {
+    "time": 1689959997775.4768,
+    "uuid": "825674d0-249d-47a7-bb0d-6b0770be4a09",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/img_off.png.meta": {
+    "time": 1689784967531.041
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/img_off.png": {
+    "time": 1689784960392.9172,
+    "uuid": "25030565-5712-408b-ac9c-1f0e7bae6290",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/switch_on.png.meta": {
+    "time": 1689784967579.505
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/switch_on.png": {
+    "time": 1689784960393.858,
+    "uuid": "2223c74d-8c44-4dc4-bf13-a510ecce3627",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/img_on.png.meta": {
+    "time": 1689784967533.08
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/img_on.png": {
+    "time": 1689784960392.955,
+    "uuid": "87bcd117-3f3e-4157-8bee-4c2641aad01c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/switch_off.png.meta": {
+    "time": 1689784967574.8425
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/gui/common/texture/switch_off.png": {
+    "time": 1689784960393.5676,
+    "uuid": "de4d8cdb-0ff3-41a0-88e9-544c46cf4621",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json/pt.json.meta": {
+    "time": 1689954358163.172
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/json/pt.json": {
+    "time": 1689958616434.691,
+    "uuid": "8af87612-6d3b-4a76-98ac-ac04b6f5d5ab",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/pt.meta": {
+    "time": 1689954384201.5273
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/pt": {
+    "time": 1689954384204.7778,
+    "uuid": "d5111be3-2c5f-4081-b908-a7db2148c056",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/pt/image.jpg.meta": {
+    "time": 1689954384233.4893
+  },
+  "/Users/caichuying/Work/casual_game/game_2048/assets/bundle/language/texture/pt/image.jpg": {
+    "time": 1689954384205.02,
+    "uuid": "e84a7686-e53d-4ded-be07-f3b34d78d254",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle": {
+    "time": 1691078537966.9656,
+    "uuid": "3f200e06-286a-40cd-a915-b94e26ffe75e",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/libs": {
+    "time": 1688523063337.5906,
+    "uuid": "8933b6e6-f35a-4e09-8031-4286fdb535bb",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/resources": {
+    "time": 1691077572018.4436,
+    "uuid": "11349493-059b-466d-8a63-bc29a4d895cd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script": {
+    "time": 1688523063339.683,
+    "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/audios": {
+    "time": 1690123805533.9084,
+    "uuid": "0e0bcbaf-1323-4c5f-aeff-f1df66569327",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common": {
+    "time": 1688523063327.71,
+    "uuid": "b9dc5d89-1070-4f62-8a31-5b96306c192b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui": {
+    "time": 1689783616956.7673,
+    "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language": {
+    "time": 1689264076686.371,
+    "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/libs/seedrandom": {
+    "time": 1688523063337.8013,
+    "uuid": "c8895a8e-6fd7-4a9c-a18b-5c67d871ccca",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game": {
+    "time": 1688796446194.7834,
+    "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim": {
+    "time": 1688523063326.2483,
+    "uuid": "0b70ab49-9f2b-4cbb-b4cb-849b2e477598",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab": {
+    "time": 1688523063327.416,
+    "uuid": "853ce1af-fb40-4f30-aebb-f12234f3d7fe",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture": {
+    "time": 1689266245526.177,
+    "uuid": "0489d8e2-9e0b-4c7e-b5ec-647a864e9214",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common": {
+    "time": 1689784836618.8516,
+    "uuid": "b0d66969-c28b-450a-8a6f-2ac7142df120",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game": {
+    "time": 1689695545403.646,
+    "uuid": "ce4f2740-a8dc-47cd-a6a0-2f1b5b45128a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover": {
+    "time": 1690297998123.7117,
+    "uuid": "69e1e264-93fd-4c0d-8738-994bf33f257a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading": {
+    "time": 1689606256671.5989,
+    "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting": {
+    "time": 1689868488534.3037,
+    "uuid": "8bdc25f3-c268-45f9-a742-c01f5004cc56",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start": {
+    "time": 1690984670576.1096,
+    "uuid": "e05e3ca3-6657-4d57-8c14-544b16c49d9f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/font": {
+    "time": 1689698741578.172,
+    "uuid": "4e04435b-8879-4f78-9114-21d89189a7b9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json": {
+    "time": 1689954361994.5662,
+    "uuid": "92204c5e-0e0d-437c-9b83-4bc1d2994a5d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture": {
+    "time": 1689954386627.296,
+    "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common": {
+    "time": 1689784772005.0818,
+    "uuid": "357b1816-e65d-47e7-938e-a74526a54b65",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize": {
+    "time": 1688523063342.87,
+    "uuid": "b005e8c9-418f-4529-8b5c-862aeb5977b1",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main": {
+    "time": 1690301129567.0686,
+    "uuid": "c7bdb670-4224-47b1-9799-de2d0ec26c0b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/start": {
+    "time": 1690563074849.2266,
+    "uuid": "a4da8022-fd87-433c-9f28-cd3300bed13d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture": {
+    "time": 1690614717853.0884,
+    "uuid": "1b704e4a-5868-4b8f-ae1b-2552c607cc87",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture": {
+    "time": 1689697141229.2126,
+    "uuid": "3f9bac5c-0273-4492-8475-3f6a57168102",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/texture": {
+    "time": 1690301016335.6602,
+    "uuid": "3ee9871a-2aa4-4f4f-88a2-212dc46be97a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture": {
+    "time": 1689607130414.1157,
+    "uuid": "9df30361-6dbb-444f-8809-df0b7fd3f29e",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture": {
+    "time": 1689868670935.6912,
+    "uuid": "6b9f83f3-51e2-4d2b-b4da-3cef8aab2f82",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture": {
+    "time": 1690614735398.545,
+    "uuid": "21f8ff85-4a79-4ce6-b234-16abb39bb3a4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/en": {
+    "time": 1688523063336.5647,
+    "uuid": "ec976edd-f0a0-4f29-a3f9-c803b92ef9be",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/pt": {
+    "time": 1689954384204.7778,
+    "uuid": "d5111be3-2c5f-4081-b908-a7db2148c056",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/zh": {
+    "time": 1688523063337.1528,
+    "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/buttonEx": {
+    "time": 1689784782980.4211,
+    "uuid": "e8612e7a-9dda-43b5-82c4-6c9d3682c442",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/config": {
+    "time": 1688523063341.2466,
+    "uuid": "7775e602-1231-4777-a927-a5cbb41c8518",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/table": {
+    "time": 1688523063341.6902,
+    "uuid": "cec5d176-d9f1-4cf6-95bc-e862683a7c2b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/bll": {
+    "time": 1688523063342.6587,
+    "uuid": "de5401a8-45c8-4249-aa4c-933102551227",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/view": {
+    "time": 1689606647820.9924,
+    "uuid": "a36c4006-66a4-4a3e-9f87-e64b179de4e5",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/Main.ts": {
+    "time": 1688523063339.3887,
+    "uuid": "0eec0b38-aab6-45ee-89cf-95806b0fecbe",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/SingletonModuleComp.ts": {
+    "time": 1688523063340.2568,
+    "uuid": "17a56bce-5501-4c31-aac0-371afa26f3fb",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/Initialize.ts": {
+    "time": 1688523063342.0369,
+    "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/blockCtr.ts": {
+    "time": 1689694021348.8247,
+    "uuid": "19bddfca-b13b-4e28-8e38-721acbf0842f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/game.ts": {
+    "time": 1690301129568.0488,
+    "uuid": "d744e0c6-d3bd-49a1-9d4d-af6edb75e100",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/gameover.ts": {
+    "time": 1690299573613.533,
+    "uuid": "25368c3a-2c8b-4481-bc0e-4a1adc31093a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/setting.ts": {
+    "time": 1689959997775.4768,
+    "uuid": "825674d0-249d-47a7-bb0d-6b0770be4a09",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/start/start.ts": {
+    "time": 1690984818989.8945,
+    "uuid": "6a5e328d-071f-4408-bb80-7cccbbfe4563",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/buttonEx/SwitchController.ts": {
+    "time": 1690623239826.569,
+    "uuid": "8bba48a1-c9b7-4d3c-af6f-4e96bbb9b9c9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/config/GameEvent.ts": {
+    "time": 1689955585724.6099,
+    "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/config/GameUIConfig.ts": {
+    "time": 1690984830033.933,
+    "uuid": "14663cf6-fb92-4921-8ba9-c836b2667737",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/table/TablePromptWindow.ts": {
+    "time": 1688523063341.6091,
+    "uuid": "1e3d7b9a-9e7e-4c46-8900-2f6c142e6f72",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/bll/InitRes.ts": {
+    "time": 1690984706044.5918,
+    "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/view/LoadingViewComp.ts": {
+    "time": 1689870095407.7295,
+    "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle.meta": {
+    "time": 1688523063324.9768
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/libs.meta": {
+    "time": 1688523063337.334
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/resources.meta": {
+    "time": 1688523063338.2593
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script.meta": {
+    "time": 1688523063339.2039
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/audios.meta": {
+    "time": 1688795744929.7493
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common.meta": {
+    "time": 1688523063325.1807
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui.meta": {
+    "time": 1688523063331.4705
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language.meta": {
+    "time": 1688523063334.9565
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/libs/seedrandom.meta": {
+    "time": 1688523063337.5178
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game.meta": {
+    "time": 1688523063339.6218
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim.meta": {
+    "time": 1688523063325.3767
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab.meta": {
+    "time": 1688523063326.442
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture.meta": {
+    "time": 1688523063327.64
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common.meta": {
+    "time": 1689266240136.387
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game.meta": {
+    "time": 1688523063331.1592
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover.meta": {
+    "time": 1689691108185.1475
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading.meta": {
+    "time": 1688523063332.1672
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting.meta": {
+    "time": 1689783616957.8098
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start.meta": {
+    "time": 1688523063331.659
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/font.meta": {
+    "time": 1688523063335.1548
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json.meta": {
+    "time": 1688523063335.2783
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture.meta": {
+    "time": 1688523063335.9648
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common.meta": {
+    "time": 1688523063339.9238
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize.meta": {
+    "time": 1688523063341.8584
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main.meta": {
+    "time": 1688796438495.3118
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/start.meta": {
+    "time": 1688651191862.076
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture.meta": {
+    "time": 1689784832389.6453
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture.meta": {
+    "time": 1688750400445.7485
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/texture.meta": {
+    "time": 1689691122704.6614
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture.meta": {
+    "time": 1688523063332.7183
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture.meta": {
+    "time": 1689783623870.0396
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture.meta": {
+    "time": 1688650063551.047
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/en.meta": {
+    "time": 1688523063336.1467
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/pt.meta": {
+    "time": 1689954384201.5273
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/zh.meta": {
+    "time": 1688523063336.7537
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/buttonEx.meta": {
+    "time": 1689784772005.7888
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/config.meta": {
+    "time": 1688523063340.5151
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/table.meta": {
+    "time": 1688523063341.4192
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/bll.meta": {
+    "time": 1688523063342.389
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/view.meta": {
+    "time": 1688523063342.8123
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/Main.ts.meta": {
+    "time": 1688523063339.5142
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/SingletonModuleComp.ts.meta": {
+    "time": 1688523063340.39
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/Initialize.ts.meta": {
+    "time": 1688523063342.1626
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/blockCtr.ts.meta": {
+    "time": 1688886804304.5437
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/game.ts.meta": {
+    "time": 1688796458268.9277
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/gameover.ts.meta": {
+    "time": 1689005686934.9072
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/main/setting.ts.meta": {
+    "time": 1689787066611.555
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/start/start.ts.meta": {
+    "time": 1688651219957.5833
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/buttonEx/SwitchController.ts.meta": {
+    "time": 1689784782980.6008
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/config/GameEvent.ts.meta": {
+    "time": 1688523063340.8245
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/config/GameUIConfig.ts.meta": {
+    "time": 1688523063341.0618
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/common/table/TablePromptWindow.ts.meta": {
+    "time": 1688523063341.7417
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/bll/InitRes.ts.meta": {
+    "time": 1688523063342.709
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/initialize/view/LoadingViewComp.ts.meta": {
+    "time": 1688523063343.1255
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/main.scene": {
+    "time": 1688561704139.9683,
+    "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/resources/config.json": {
+    "time": 1690128157367.4739,
+    "uuid": "0f8f84c7-5a96-49fe-a127-f66d9c90c822",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/audios/merge.mp3": {
+    "time": 1688795965773.8271,
+    "uuid": "45e0204f-4bb0-4d52-a1a9-dc62d95be021",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/audios/move.mp3": {
+    "time": 1688795973781.6655,
+    "uuid": "e15f4df0-376c-4a94-aa2e-3e99e3bb371c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/libs/seedrandom/seedrandom.min.js": {
+    "time": 1688523063337.7231,
+    "uuid": "e5c18099-4502-4dc3-8d34-4a09cb0540b3",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim/button_scale_end.anim": {
+    "time": 1688523063325.6052,
+    "uuid": "0430e564-9665-435e-9895-7b8e19fcb0b9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim/button_scale_start.anim": {
+    "time": 1688523063325.8843,
+    "uuid": "99c3c7ad-3086-4333-81e6-19b82da0c89d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim/notify.anim": {
+    "time": 1688523063326.1677,
+    "uuid": "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab/netinstable.prefab": {
+    "time": 1688561704137.2634,
+    "uuid": "9cc71d8c-192a-4234-8204-352f42b95c65",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab/notify.prefab": {
+    "time": 1690817945756.471,
+    "uuid": "10285c1d-979d-4a7e-80c0-86e0dc2a65d8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab/window.prefab": {
+    "time": 1688561704137.5159,
+    "uuid": "2501cdfd-ca13-49a6-9c23-ea51586c54c4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/auto-atlas.pac": {
+    "time": 1688523063327.837,
+    "uuid": "9fa4ce44-23c1-4a20-9b6c-29623ff951af",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/bg_window.png": {
+    "time": 1688523063328.348,
+    "uuid": "f9cfbca9-9f35-4dda-8925-64e34e6e9802",
+    "missing": true
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/btn_ok.png": {
+    "time": 1688523063328.669,
+    "uuid": "56a0bfc3-686d-4e85-bb26-5f5a6855ae06",
+    "missing": true
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/loading.png": {
+    "time": 1688523063328.9543,
+    "uuid": "06942a20-0474-4385-9a85-293366d2473e",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/toast.png": {
+    "time": 1688523063329.4365,
+    "uuid": "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/switch_button.prefab": {
+    "time": 1689788031883.743,
+    "uuid": "f38ee660-66c7-4485-a8b8-9a00d5e7d396",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/block.prefab": {
+    "time": 1690299710728.9102,
+    "uuid": "374cd4db-5e0d-43a1-9fcc-92cdf01ce374",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/game.prefab": {
+    "time": 1690300636840.0305,
+    "uuid": "9db78d81-16a1-436f-8f98-afea62ae276f",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/gameover.prefab": {
+    "time": 1690299633605.9304,
+    "uuid": "fba0b415-55c1-4e95-84f3-a568acf1ce74",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/loading.prefab": {
+    "time": 1689698732983.9163,
+    "uuid": "b3142304-c27f-4492-b94f-551d154a2bf4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/setting.prefab": {
+    "time": 1689959522593.6086,
+    "uuid": "ab7aaff6-bff9-404e-84ef-2ba5759a6da7",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/start.prefab": {
+    "time": 1690984836949.6655,
+    "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf": {
+    "time": 1689264200206.3958,
+    "uuid": "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json/en.json": {
+    "time": 1690819446211.7866,
+    "uuid": "2c0f4643-d84a-49b9-9069-8efe9434304c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json/pt.json": {
+    "time": 1690819432096.6643,
+    "uuid": "8af87612-6d3b-4a76-98ac-ac04b6f5d5ab",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json/zh.json": {
+    "time": 1690819419180.3586,
+    "uuid": "f39d9bde-aff1-4255-846f-cbc4169d5d45",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/bg_1.png": {
+    "time": 1689264751097.32,
+    "uuid": "ba9c5b49-8dfe-4463-acdf-9b24551adfc4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/bg_2.png": {
+    "time": 1689607388385.6821,
+    "uuid": "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/bg_3.png": {
+    "time": 1689780846477.1174,
+    "uuid": "d66417ac-96c6-445c-ae01-cde5a86a0c2b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/img_off.png": {
+    "time": 1689784960392.9172,
+    "uuid": "25030565-5712-408b-ac9c-1f0e7bae6290",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/img_on.png": {
+    "time": 1689784960392.955,
+    "uuid": "87bcd117-3f3e-4157-8bee-4c2641aad01c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/switch_off.png": {
+    "time": 1689784960393.5676,
+    "uuid": "de4d8cdb-0ff3-41a0-88e9-544c46cf4621",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/switch_on.png": {
+    "time": 1689784960393.858,
+    "uuid": "2223c74d-8c44-4dc4-bf13-a510ecce3627",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/1024.png": {
+    "time": 1689612163260.9338,
+    "uuid": "c219e32e-2916-4bda-8cef-2cd5e639f236",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/128.png": {
+    "time": 1689612163259.886,
+    "uuid": "60664d8b-e742-4a27-b232-2a28ec0f55f0",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/131072.png": {
+    "time": 1689693625342.0188,
+    "uuid": "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/16.png": {
+    "time": 1689612163254.572,
+    "uuid": "4f75d973-0f21-48e2-a95b-6c013e2222ca",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/16384.png": {
+    "time": 1689693625341.3364,
+    "uuid": "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/2.png": {
+    "time": 1689612163253.9993,
+    "uuid": "1b41aa80-6bd1-4917-b80a-e5f2711e17a8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/2048.png": {
+    "time": 1689612163261.0356,
+    "uuid": "3717dd1a-8821-4c2f-b5b1-755a05c06bc4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/256.png": {
+    "time": 1689612163260.235,
+    "uuid": "d4ce22ac-208e-4c88-b7a6-16e59e71fda6",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/32.png": {
+    "time": 1689612163254.6885,
+    "uuid": "09ecd061-feb9-42c4-84c4-4a0c832f671c",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/32768.png": {
+    "time": 1689693625341.263,
+    "uuid": "675cad25-2d95-413d-8da8-8621b79ccfbf",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/4.png": {
+    "time": 1689612163254.1628,
+    "uuid": "896cbe9d-ea5b-4739-b19a-5eae3afc73e5",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/4096.png": {
+    "time": 1689693625341.3567,
+    "uuid": "1e93356e-5376-4b7c-bfa7-532cbda9ed0b",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/512.png": {
+    "time": 1689612163260.806,
+    "uuid": "757838f8-cdef-4c51-83d0-82fee6fb6df2",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/64.png": {
+    "time": 1689612163254.7612,
+    "uuid": "502f1b1f-8ce4-48f3-a88e-5a735c461acb",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/65536.png": {
+    "time": 1689693625341.8245,
+    "uuid": "50be76da-3b08-47fb-9c51-4a05fa2a85a0",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/8.png": {
+    "time": 1689612163254.2922,
+    "uuid": "8bd56246-f765-409b-ad1c-9c96d58e6983",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/8192.png": {
+    "time": 1689693625341.3472,
+    "uuid": "21a0bd37-ed72-4b3f-af81-5f351f048306",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/audio.png": {
+    "time": 1689612163263.045,
+    "uuid": "b769defd-1e87-4b43-b144-e52736a3fa78",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/best.png": {
+    "time": 1689612163262.9453,
+    "uuid": "105e97b1-30f4-40e6-af84-25ac7e1ee9cd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/mask.png": {
+    "time": 1689612163263.8372,
+    "uuid": "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/mute.png": {
+    "time": 1689612163263.9895,
+    "uuid": "657b8178-3460-4bc4-abac-bf4a0ae67a88",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/quan.png": {
+    "time": 1689612163262.9148,
+    "uuid": "e7848603-0742-4fe3-8889-ed92daf00534",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/restart.png": {
+    "time": 1689612163264.463,
+    "uuid": "bd549b53-74a8-482d-996e-4f9178c6d158",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/score.png": {
+    "time": 1689612163263.9834,
+    "uuid": "10b4a672-ea95-4e8c-ac7b-2efb393a0507",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/set.png": {
+    "time": 1689612163264.0576,
+    "uuid": "56825443-2c8c-47ce-80bd-271d461bc6f4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/texture/end.png": {
+    "time": 1690297585099.7942,
+    "uuid": "ebfec32d-d481-43a3-a7a2-e0a1035364c9",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/texture/restrat.png": {
+    "time": 1689697248295.3252,
+    "uuid": "b92e2883-54cb-43a7-b1c8-2b380ce46456",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture/icon_loading_bar.png": {
+    "time": 1689299997000,
+    "uuid": "1ac049d7-c899-492a-89a7-4e8d85ce4cb1",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture/loading_logo.png": {
+    "time": 1689264915260.0361,
+    "uuid": "4482018a-51ca-44a0-80b5-3d325619e841",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png": {
+    "time": 1689264543116.263,
+    "uuid": "a2001856-24f5-4ac7-9309-1207a3210cd8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/btn_save.png": {
+    "time": 1689784960392.4438,
+    "uuid": "47d910a9-7333-4ecb-9d81-633c7bf7a217",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/close.png": {
+    "time": 1689868636101.0422,
+    "uuid": "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/img_arrow.png": {
+    "time": 1689784960392.7659,
+    "uuid": "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/item_bg.png": {
+    "time": 1689784960393.2822,
+    "uuid": "bc1351f5-3476-4f71-832f-0d0d574ebac6",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/list_item.png": {
+    "time": 1689784960393.377,
+    "uuid": "fa37605a-ca2d-4fa7-9671-f2295c8a6b51",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/setting_bg.png": {
+    "time": 1689784960393.5435,
+    "uuid": "900826c3-b6f4-4002-8a83-fc15ab5a3c45",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/btn_start.png": {
+    "time": 1689607627293.061,
+    "uuid": "cedb646c-8ab3-42cc-a8e7-acdab028157a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/dan.png": {
+    "time": 1689607627292.396,
+    "uuid": "28146bfb-0afe-47cd-8f96-78b362fd750d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/frame.png": {
+    "time": 1689607627293.3235,
+    "uuid": "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/logo.png": {
+    "time": 1689607627294.5105,
+    "uuid": "860feb94-5afc-4ea3-9d5f-24ce06676587",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/roll_down.png": {
+    "time": 1689607627293.8137,
+    "uuid": "0d6b709b-eae3-414e-8324-9e04528cd39d",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/roll_up.png": {
+    "time": 1689607627293.874,
+    "uuid": "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/en/image.jpg": {
+    "time": 1688523063336.344,
+    "uuid": "3d5b607a-face-426b-8200-acf8384108db",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/pt/image.jpg": {
+    "time": 1689954384205.02,
+    "uuid": "e84a7686-e53d-4ded-be07-f3b34d78d254",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/zh/image.jpg": {
+    "time": 1688523063336.9407,
+    "uuid": "a65eaaec-d315-4134-a79e-23bb817d1939",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/resources/config.json.meta": {
+    "time": 1688523063338.846
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/libs/seedrandom/seedrandom.min.js.meta": {
+    "time": 1688523063337.8606
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/main.scene.meta": {
+    "time": 1688561704145.326
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim/button_scale_end.anim.meta": {
+    "time": 1688523063325.7527
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim/button_scale_start.anim.meta": {
+    "time": 1688523063326.0251
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/anim/notify.anim.meta": {
+    "time": 1688523063326.3115
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/audios/move.mp3.meta": {
+    "time": 1688795973791.0554
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/audios/merge.mp3.meta": {
+    "time": 1688795965812.8953
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab/netinstable.prefab.meta": {
+    "time": 1688561704141.876
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab/notify.prefab.meta": {
+    "time": 1688561704142.707
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/auto-atlas.pac.meta": {
+    "time": 1688523063327.9883
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/prefab/window.prefab.meta": {
+    "time": 1688561704143.837
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/switch_button.prefab.meta": {
+    "time": 1689784719661.5103
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/block.prefab.meta": {
+    "time": 1688886320729.3823
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/btn_ok.png.meta": {
+    "time": 1688523063328.8152
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/toast.png.meta": {
+    "time": 1688523063329.5845
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/bg_window.png.meta": {
+    "time": 1688523063328.5393
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/common/texture/loading.png.meta": {
+    "time": 1688523063329.0857
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/game.prefab.meta": {
+    "time": 1688750413684.467
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/gameover.prefab.meta": {
+    "time": 1689004724454.9324
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/loading.prefab.meta": {
+    "time": 1689606256671.7666
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/setting.prefab.meta": {
+    "time": 1689784873970.2502
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/start.prefab.meta": {
+    "time": 1688648025608.0847
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json/en.json.meta": {
+    "time": 1688523063335.597
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json/pt.json.meta": {
+    "time": 1689954358163.172
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/json/zh.json.meta": {
+    "time": 1689958139211.0818
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf.meta": {
+    "time": 1689264200227.3557
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/img_off.png.meta": {
+    "time": 1689784967531.041
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/img_on.png.meta": {
+    "time": 1689784967533.08
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/bg_1.png.meta": {
+    "time": 1689264923646.8203
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/bg_2.png.meta": {
+    "time": 1689607405248.754
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/bg_3.png.meta": {
+    "time": 1689780859856.0627
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/switch_off.png.meta": {
+    "time": 1689784967574.8425
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/switch_on.png.meta": {
+    "time": 1689784967579.505
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/1024.png.meta": {
+    "time": 1690299694310.6582
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/128.png.meta": {
+    "time": 1690299694283.6855
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/131072.png.meta": {
+    "time": 1690299694394.9475
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/16.png.meta": {
+    "time": 1690299694231.8389
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/16384.png.meta": {
+    "time": 1690299694371.2473
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/2048.png.meta": {
+    "time": 1690299694338.634
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/2.png.meta": {
+    "time": 1690299694218.9612
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/256.png.meta": {
+    "time": 1690299694300.6995
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/32.png.meta": {
+    "time": 1690299694233.7393
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/32768.png.meta": {
+    "time": 1690299694372.249
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/4.png.meta": {
+    "time": 1690299694230.079
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/512.png.meta": {
+    "time": 1690299694310.0913
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/4096.png.meta": {
+    "time": 1690299694347.8767
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/64.png.meta": {
+    "time": 1690299694273.56
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/65536.png.meta": {
+    "time": 1690299694388.1074
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/8192.png.meta": {
+    "time": 1690299694354.0754
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/8.png.meta": {
+    "time": 1690299694218.4768
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/audio.png.meta": {
+    "time": 1689612163535.524
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/mask.png.meta": {
+    "time": 1690299694392.8853
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/best.png.meta": {
+    "time": 1689612271695.323
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/restart.png.meta": {
+    "time": 1689612163631.6008
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/quan.png.meta": {
+    "time": 1689612293029.8496
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/mute.png.meta": {
+    "time": 1689612163611.047
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/score.png.meta": {
+    "time": 1689612301442.88
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/game/texture/set.png.meta": {
+    "time": 1689612306069.572
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/texture/end.png.meta": {
+    "time": 1689697248349.4688
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture/icon_loading_bar.png.meta": {
+    "time": 1689607251702.42
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/gameover/texture/restrat.png.meta": {
+    "time": 1689697257776.0881
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture/loading_logo.png.meta": {
+    "time": 1689265009149.7175
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png.meta": {
+    "time": 1689264970477.8372
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/close.png.meta": {
+    "time": 1689869087124.8372
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/btn_save.png.meta": {
+    "time": 1689784967532.1162
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/img_arrow.png.meta": {
+    "time": 1689870327890.841
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/list_item.png.meta": {
+    "time": 1689784967569.2605
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/item_bg.png.meta": {
+    "time": 1689784967572.2322
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/btn_start.png.meta": {
+    "time": 1689607636476.257
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/setting/texture/setting_bg.png.meta": {
+    "time": 1689784967588.931
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/logo.png.meta": {
+    "time": 1689607627541.565
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/dan.png.meta": {
+    "time": 1689607641875.5693
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/frame.png.meta": {
+    "time": 1689607649307.5728
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/roll_down.png.meta": {
+    "time": 1689607657213.2686
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/roll_up.png.meta": {
+    "time": 1689607662980.6672
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/en/image.jpg.meta": {
+    "time": 1688523063336.4915
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/pt/image.jpg.meta": {
+    "time": 1689954384233.4893
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/language/texture/zh/image.jpg.meta": {
+    "time": 1688523063337.0872
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/start/protocol.ts.meta": {
+    "time": 1690563074850.729
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/script/game/start/protocol.ts": {
+    "time": 1691078480803.4575,
+    "uuid": "08813125-3fde-44d1-9c35-4e3e7587c1dd",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/pop_bg.png.meta": {
+    "time": 1690616347168.4504
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/common/texture/pop_bg.png": {
+    "time": 1690614717852.1055,
+    "uuid": "fbe164bd-089e-4d8e-901e-fe96028d8077",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/btn_ok.png.meta": {
+    "time": 1690616303976.3901
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/texture/btn_ok.png": {
+    "time": 1690614735397.6775,
+    "uuid": "0e97de5e-c471-4a3b-8668-e6448ac74976",
+    "missing": false
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/private.prefab.meta": {
+    "time": 1690616921238.9626
+  },
+  "/Users/caichuying/Work/casual_game/danzai_2048/assets/bundle/gui/start/private.prefab": {
+    "time": 1690987055849.3088,
+    "uuid": "568c6932-7100-4333-b010-ede9348a5a10",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle": {
+    "time": 1692880248597.5469,
+    "uuid": "3f200e06-286a-40cd-a915-b94e26ffe75e",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/libs": {
+    "time": 1688523063000,
+    "uuid": "8933b6e6-f35a-4e09-8031-4286fdb535bb",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/resources": {
+    "time": 1692867514175.3608,
+    "uuid": "11349493-059b-466d-8a63-bc29a4d895cd",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script": {
+    "time": 1696907179280.1616,
+    "uuid": "c71845dc-9d65-4d6d-8aca-dcb8079e4aae",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/audios": {
+    "time": 1690123805000,
+    "uuid": "0e0bcbaf-1323-4c5f-aeff-f1df66569327",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common": {
+    "time": 1692880109307.7717,
+    "uuid": "b9dc5d89-1070-4f62-8a31-5b96306c192b",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui": {
+    "time": 1689783616000,
+    "uuid": "8082dcd2-510f-4867-b2f1-c377843e16b4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language": {
+    "time": 1696751991564.3855,
+    "uuid": "212e9f36-3089-49a2-80d3-28e93d0d19f1",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/libs/seedrandom": {
+    "time": 1688523063000,
+    "uuid": "c8895a8e-6fd7-4a9c-a18b-5c67d871ccca",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game": {
+    "time": 1692859041160.8218,
+    "uuid": "b8688d91-9274-40b5-a605-23ee4e5a4eec",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim": {
+    "time": 1688523063000,
+    "uuid": "0b70ab49-9f2b-4cbb-b4cb-849b2e477598",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab": {
+    "time": 1688523063000,
+    "uuid": "853ce1af-fb40-4f30-aebb-f12234f3d7fe",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture": {
+    "time": 1692880468895.557,
+    "uuid": "0489d8e2-9e0b-4c7e-b5ec-647a864e9214",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common": {
+    "time": 1692880109305.5798,
+    "uuid": "b0d66969-c28b-450a-8a6f-2ac7142df120",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game": {
+    "time": 1689695545000,
+    "uuid": "ce4f2740-a8dc-47cd-a6a0-2f1b5b45128a",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover": {
+    "time": 1690297998000,
+    "uuid": "69e1e264-93fd-4c0d-8738-994bf33f257a",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading": {
+    "time": 1689606256000,
+    "uuid": "c2392cff-8a0b-4baa-95de-e3bfe2999f3c",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting": {
+    "time": 1689868488000,
+    "uuid": "8bdc25f3-c268-45f9-a742-c01f5004cc56",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start": {
+    "time": 1690984670000,
+    "uuid": "e05e3ca3-6657-4d57-8c14-544b16c49d9f",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/font": {
+    "time": 1689698741000,
+    "uuid": "4e04435b-8879-4f78-9114-21d89189a7b9",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json": {
+    "time": 1689954361000,
+    "uuid": "92204c5e-0e0d-437c-9b83-4bc1d2994a5d",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture": {
+    "time": 1689954386000,
+    "uuid": "b67a859f-640d-4a5a-825e-51971fed24a5",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common": {
+    "time": 1697011448063.2493,
+    "uuid": "357b1816-e65d-47e7-938e-a74526a54b65",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize": {
+    "time": 1692859043982.9521,
+    "uuid": "b005e8c9-418f-4529-8b5c-862aeb5977b1",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main": {
+    "time": 1691725595232.883,
+    "uuid": "c7bdb670-4224-47b1-9799-de2d0ec26c0b",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/start": {
+    "time": 1691725558030.9265,
+    "uuid": "a4da8022-fd87-433c-9f28-cd3300bed13d",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture": {
+    "time": 1690614717000,
+    "uuid": "1b704e4a-5868-4b8f-ae1b-2552c607cc87",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture": {
+    "time": 1689697141000,
+    "uuid": "3f9bac5c-0273-4492-8475-3f6a57168102",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/texture": {
+    "time": 1690301016000,
+    "uuid": "3ee9871a-2aa4-4f4f-88a2-212dc46be97a",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture": {
+    "time": 1689607130000,
+    "uuid": "9df30361-6dbb-444f-8809-df0b7fd3f29e",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture": {
+    "time": 1689868670000,
+    "uuid": "6b9f83f3-51e2-4d2b-b4da-3cef8aab2f82",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture": {
+    "time": 1690614735000,
+    "uuid": "21f8ff85-4a79-4ce6-b234-16abb39bb3a4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/en": {
+    "time": 1688523063000,
+    "uuid": "ec976edd-f0a0-4f29-a3f9-c803b92ef9be",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/pt": {
+    "time": 1689954384000,
+    "uuid": "d5111be3-2c5f-4081-b908-a7db2148c056",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/zh": {
+    "time": 1688523063000,
+    "uuid": "c03f86e4-9b94-4703-a944-93c83c0c07fd",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/buttonEx": {
+    "time": 1689784782000,
+    "uuid": "e8612e7a-9dda-43b5-82c4-6c9d3682c442",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/config": {
+    "time": 1688523063000,
+    "uuid": "7775e602-1231-4777-a927-a5cbb41c8518",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/table": {
+    "time": 1688523063000,
+    "uuid": "cec5d176-d9f1-4cf6-95bc-e862683a7c2b",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/bll": {
+    "time": 1688523063000,
+    "uuid": "de5401a8-45c8-4249-aa4c-933102551227",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view": {
+    "time": 1692859512815.5503,
+    "uuid": "a36c4006-66a4-4a3e-9f87-e64b179de4e5",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/Main.ts": {
+    "time": 1696907179280.0442,
+    "uuid": "0eec0b38-aab6-45ee-89cf-95806b0fecbe",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/SingletonModuleComp.ts": {
+    "time": 1688523063000,
+    "uuid": "17a56bce-5501-4c31-aac0-371afa26f3fb",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/Initialize.ts": {
+    "time": 1688523063000,
+    "uuid": "ffbce42c-e99f-48a0-8e73-ea6b756af330",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/blockCtr.ts": {
+    "time": 1689694021000,
+    "uuid": "19bddfca-b13b-4e28-8e38-721acbf0842f",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/game.ts": {
+    "time": 1692873874015.2334,
+    "uuid": "d744e0c6-d3bd-49a1-9d4d-af6edb75e100",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/gameover.ts": {
+    "time": 1690299573000,
+    "uuid": "25368c3a-2c8b-4481-bc0e-4a1adc31093a",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/setting.ts": {
+    "time": 1689959997000,
+    "uuid": "825674d0-249d-47a7-bb0d-6b0770be4a09",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/start/protocol.ts": {
+    "time": 1691078480000,
+    "uuid": "08813125-3fde-44d1-9c35-4e3e7587c1dd",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/start/start.ts": {
+    "time": 1692871138954.617,
+    "uuid": "6a5e328d-071f-4408-bb80-7cccbbfe4563",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/buttonEx/SwitchController.ts": {
+    "time": 1690623239000,
+    "uuid": "8bba48a1-c9b7-4d3c-af6f-4e96bbb9b9c9",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/config/GameEvent.ts": {
+    "time": 1689955585000,
+    "uuid": "28ac0ad6-53bf-471a-9256-ae7c8ad351a7",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/config/GameUIConfig.ts": {
+    "time": 1690984830000,
+    "uuid": "14663cf6-fb92-4921-8ba9-c836b2667737",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/table/TablePromptWindow.ts": {
+    "time": 1688523063000,
+    "uuid": "1e3d7b9a-9e7e-4c46-8900-2f6c142e6f72",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/bll/InitRes.ts": {
+    "time": 1690984706000,
+    "uuid": "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view/LoadingViewComp.ts": {
+    "time": 1696995194693.8752,
+    "uuid": "92429ca4-4e7c-450a-b706-c96e7c2568e3",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/libs.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/resources.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/audios.meta": {
+    "time": 1688795744000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/libs/seedrandom.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common.meta": {
+    "time": 1689266240000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover.meta": {
+    "time": 1689691108000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting.meta": {
+    "time": 1689783616000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/font.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main.meta": {
+    "time": 1688796438000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/start.meta": {
+    "time": 1688651191000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture.meta": {
+    "time": 1689784832000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture.meta": {
+    "time": 1688750400000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/texture.meta": {
+    "time": 1689691122000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture.meta": {
+    "time": 1689783623000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture.meta": {
+    "time": 1688650063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/en.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/pt.meta": {
+    "time": 1689954384000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/zh.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/buttonEx.meta": {
+    "time": 1689784772000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/config.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/table.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/bll.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/Main.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/SingletonModuleComp.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/Initialize.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/blockCtr.ts.meta": {
+    "time": 1688886804000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/game.ts.meta": {
+    "time": 1688796458000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/gameover.ts.meta": {
+    "time": 1689005686000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/main/setting.ts.meta": {
+    "time": 1689787066000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/start/protocol.ts.meta": {
+    "time": 1690563074000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/start/start.ts.meta": {
+    "time": 1688651219000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/buttonEx/SwitchController.ts.meta": {
+    "time": 1689784782000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/config/GameEvent.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/config/GameUIConfig.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/table/TablePromptWindow.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/bll/InitRes.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view/LoadingViewComp.ts.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/main.scene": {
+    "time": 1696906544727.104,
+    "uuid": "ba0b085f-f8d5-40b0-9964-2fd25728d707",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/resources/config.json": {
+    "time": 1690128157000,
+    "uuid": "0f8f84c7-5a96-49fe-a127-f66d9c90c822",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/audios/merge.mp3": {
+    "time": 1688795965000,
+    "uuid": "45e0204f-4bb0-4d52-a1a9-dc62d95be021",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/audios/move.mp3": {
+    "time": 1688795973000,
+    "uuid": "e15f4df0-376c-4a94-aa2e-3e99e3bb371c",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/libs/seedrandom/seedrandom.min.js": {
+    "time": 1688523063000,
+    "uuid": "e5c18099-4502-4dc3-8d34-4a09cb0540b3",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim/button_scale_end.anim": {
+    "time": 1688523063000,
+    "uuid": "0430e564-9665-435e-9895-7b8e19fcb0b9",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim/button_scale_start.anim": {
+    "time": 1688523063000,
+    "uuid": "99c3c7ad-3086-4333-81e6-19b82da0c89d",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim/notify.anim": {
+    "time": 1688523063000,
+    "uuid": "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab/netinstable.prefab": {
+    "time": 1688561704000,
+    "uuid": "9cc71d8c-192a-4234-8204-352f42b95c65",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab/notify.prefab": {
+    "time": 1690817945000,
+    "uuid": "10285c1d-979d-4a7e-80c0-86e0dc2a65d8",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab/window.prefab": {
+    "time": 1692881153420.3855,
+    "uuid": "2501cdfd-ca13-49a6-9c23-ea51586c54c4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/auto-atlas.pac": {
+    "time": 1688523063000,
+    "uuid": "9fa4ce44-23c1-4a20-9b6c-29623ff951af",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/bg_window.png": {
+    "time": 1690614717000,
+    "uuid": "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/btn_ok.png": {
+    "time": 1689784960000,
+    "uuid": "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/loading.png": {
+    "time": 1688523063000,
+    "uuid": "06942a20-0474-4385-9a85-293366d2473e",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/toast.png": {
+    "time": 1688523063000,
+    "uuid": "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/switch_button.prefab": {
+    "time": 1696923245625.57,
+    "uuid": "f38ee660-66c7-4485-a8b8-9a00d5e7d396",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/block.prefab": {
+    "time": 1690299710000,
+    "uuid": "374cd4db-5e0d-43a1-9fcc-92cdf01ce374",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/game.prefab": {
+    "time": 1691725548111.8374,
+    "uuid": "9db78d81-16a1-436f-8f98-afea62ae276f",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/gameover.prefab": {
+    "time": 1690299633000,
+    "uuid": "fba0b415-55c1-4e95-84f3-a568acf1ce74",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/loading.prefab": {
+    "time": 1696995117249.3994,
+    "uuid": "b3142304-c27f-4492-b94f-551d154a2bf4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/setting.prefab": {
+    "time": 1689959522000,
+    "uuid": "ab7aaff6-bff9-404e-84ef-2ba5759a6da7",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/private.prefab": {
+    "time": 1690987055000,
+    "uuid": "568c6932-7100-4333-b010-ede9348a5a10",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/start.prefab": {
+    "time": 1698134515980.0505,
+    "uuid": "5b6511a4-181b-4c81-9f9c-51e4c21b4d64",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf": {
+    "time": 1689264200000,
+    "uuid": "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json/en.json": {
+    "time": 1692946138896.9158,
+    "uuid": "2c0f4643-d84a-49b9-9069-8efe9434304c",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json/pt.json": {
+    "time": 1692946115506.0266,
+    "uuid": "8af87612-6d3b-4a76-98ac-ac04b6f5d5ab",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json/zh.json": {
+    "time": 1692946108676.0818,
+    "uuid": "f39d9bde-aff1-4255-846f-cbc4169d5d45",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/bg_1.png": {
+    "time": 1689264751000,
+    "uuid": "ba9c5b49-8dfe-4463-acdf-9b24551adfc4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/bg_2.png": {
+    "time": 1689607388000,
+    "uuid": "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/bg_3.png": {
+    "time": 1689780846000,
+    "uuid": "d66417ac-96c6-445c-ae01-cde5a86a0c2b",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/img_off.png": {
+    "time": 1689784960000,
+    "uuid": "25030565-5712-408b-ac9c-1f0e7bae6290",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/img_on.png": {
+    "time": 1689784960000,
+    "uuid": "87bcd117-3f3e-4157-8bee-4c2641aad01c",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/pop_bg.png": {
+    "time": 1690614717000,
+    "uuid": "fbe164bd-089e-4d8e-901e-fe96028d8077",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/switch_off.png": {
+    "time": 1689784960000,
+    "uuid": "de4d8cdb-0ff3-41a0-88e9-544c46cf4621",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/switch_on.png": {
+    "time": 1689784960000,
+    "uuid": "2223c74d-8c44-4dc4-bf13-a510ecce3627",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/1024.png": {
+    "time": 1689612163000,
+    "uuid": "c219e32e-2916-4bda-8cef-2cd5e639f236",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/128.png": {
+    "time": 1689612163000,
+    "uuid": "60664d8b-e742-4a27-b232-2a28ec0f55f0",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/131072.png": {
+    "time": 1689693625000,
+    "uuid": "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/16.png": {
+    "time": 1689612163000,
+    "uuid": "4f75d973-0f21-48e2-a95b-6c013e2222ca",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/16384.png": {
+    "time": 1689693625000,
+    "uuid": "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/2.png": {
+    "time": 1689612163000,
+    "uuid": "1b41aa80-6bd1-4917-b80a-e5f2711e17a8",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/2048.png": {
+    "time": 1689612163000,
+    "uuid": "3717dd1a-8821-4c2f-b5b1-755a05c06bc4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/256.png": {
+    "time": 1689612163000,
+    "uuid": "d4ce22ac-208e-4c88-b7a6-16e59e71fda6",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/32.png": {
+    "time": 1689612163000,
+    "uuid": "09ecd061-feb9-42c4-84c4-4a0c832f671c",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/32768.png": {
+    "time": 1689693625000,
+    "uuid": "675cad25-2d95-413d-8da8-8621b79ccfbf",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/4.png": {
+    "time": 1689612163000,
+    "uuid": "896cbe9d-ea5b-4739-b19a-5eae3afc73e5",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/4096.png": {
+    "time": 1689693625000,
+    "uuid": "1e93356e-5376-4b7c-bfa7-532cbda9ed0b",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/512.png": {
+    "time": 1689612163000,
+    "uuid": "757838f8-cdef-4c51-83d0-82fee6fb6df2",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/64.png": {
+    "time": 1689612163000,
+    "uuid": "502f1b1f-8ce4-48f3-a88e-5a735c461acb",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/65536.png": {
+    "time": 1689693625000,
+    "uuid": "50be76da-3b08-47fb-9c51-4a05fa2a85a0",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/8.png": {
+    "time": 1689612163000,
+    "uuid": "8bd56246-f765-409b-ad1c-9c96d58e6983",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/8192.png": {
+    "time": 1689693625000,
+    "uuid": "21a0bd37-ed72-4b3f-af81-5f351f048306",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/audio.png": {
+    "time": 1689612163000,
+    "uuid": "b769defd-1e87-4b43-b144-e52736a3fa78",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/best.png": {
+    "time": 1689612163000,
+    "uuid": "105e97b1-30f4-40e6-af84-25ac7e1ee9cd",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/mask.png": {
+    "time": 1689612163000,
+    "uuid": "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/mute.png": {
+    "time": 1689612163000,
+    "uuid": "657b8178-3460-4bc4-abac-bf4a0ae67a88",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/quan.png": {
+    "time": 1689612163000,
+    "uuid": "e7848603-0742-4fe3-8889-ed92daf00534",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/restart.png": {
+    "time": 1689612163000,
+    "uuid": "bd549b53-74a8-482d-996e-4f9178c6d158",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/score.png": {
+    "time": 1689612163000,
+    "uuid": "10b4a672-ea95-4e8c-ac7b-2efb393a0507",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/set.png": {
+    "time": 1689612163000,
+    "uuid": "56825443-2c8c-47ce-80bd-271d461bc6f4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/texture/end.png": {
+    "time": 1690297585000,
+    "uuid": "ebfec32d-d481-43a3-a7a2-e0a1035364c9",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/texture/restrat.png": {
+    "time": 1689697248000,
+    "uuid": "b92e2883-54cb-43a7-b1c8-2b380ce46456",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture/icon_loading_bar.png": {
+    "time": 1689299997000,
+    "uuid": "1ac049d7-c899-492a-89a7-4e8d85ce4cb1",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture/loading_logo.png": {
+    "time": 1689264915000,
+    "uuid": "4482018a-51ca-44a0-80b5-3d325619e841",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png": {
+    "time": 1689264543000,
+    "uuid": "a2001856-24f5-4ac7-9309-1207a3210cd8",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/btn_save.png": {
+    "time": 1689784960000,
+    "uuid": "47d910a9-7333-4ecb-9d81-633c7bf7a217",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/close.png": {
+    "time": 1689868636000,
+    "uuid": "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/img_arrow.png": {
+    "time": 1689784960000,
+    "uuid": "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/item_bg.png": {
+    "time": 1689784960000,
+    "uuid": "bc1351f5-3476-4f71-832f-0d0d574ebac6",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/list_item.png": {
+    "time": 1689784960000,
+    "uuid": "fa37605a-ca2d-4fa7-9671-f2295c8a6b51",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/setting_bg.png": {
+    "time": 1689784960000,
+    "uuid": "900826c3-b6f4-4002-8a83-fc15ab5a3c45",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/btn_ok.png": {
+    "time": 1690614735000,
+    "uuid": "0e97de5e-c471-4a3b-8668-e6448ac74976",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/btn_start.png": {
+    "time": 1689607627000,
+    "uuid": "cedb646c-8ab3-42cc-a8e7-acdab028157a",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/dan.png": {
+    "time": 1689607627000,
+    "uuid": "28146bfb-0afe-47cd-8f96-78b362fd750d",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/frame.png": {
+    "time": 1689607627000,
+    "uuid": "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/logo.png": {
+    "time": 1689607627000,
+    "uuid": "860feb94-5afc-4ea3-9d5f-24ce06676587",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/roll_down.png": {
+    "time": 1689607627000,
+    "uuid": "0d6b709b-eae3-414e-8324-9e04528cd39d",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/roll_up.png": {
+    "time": 1689607627000,
+    "uuid": "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/en/image.jpg": {
+    "time": 1688523063000,
+    "uuid": "3d5b607a-face-426b-8200-acf8384108db",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/pt/image.jpg": {
+    "time": 1689954384000,
+    "uuid": "e84a7686-e53d-4ded-be07-f3b34d78d254",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/zh/image.jpg": {
+    "time": 1688523063000,
+    "uuid": "a65eaaec-d315-4134-a79e-23bb817d1939",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/resources/config.json.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/main.scene.meta": {
+    "time": 1688561704000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/libs/seedrandom/seedrandom.min.js.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim/button_scale_end.anim.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim/button_scale_start.anim.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/anim/notify.anim.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/audios/merge.mp3.meta": {
+    "time": 1688795965000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/audios/move.mp3.meta": {
+    "time": 1688795973000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab/netinstable.prefab.meta": {
+    "time": 1688561704000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab/notify.prefab.meta": {
+    "time": 1688561704000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/prefab/window.prefab.meta": {
+    "time": 1688561704000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/auto-atlas.pac.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/switch_button.prefab.meta": {
+    "time": 1689784719000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/block.prefab.meta": {
+    "time": 1688886320000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/btn_ok.png.meta": {
+    "time": 1692880749455.419
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/game.prefab.meta": {
+    "time": 1688750413000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/loading.png.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/toast.png.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/common/texture/bg_window.png.meta": {
+    "time": 1692880735814.1658
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/gameover.prefab.meta": {
+    "time": 1689004724000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/loading.prefab.meta": {
+    "time": 1689606256000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/setting.prefab.meta": {
+    "time": 1689784873000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/private.prefab.meta": {
+    "time": 1690616921000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/start.prefab.meta": {
+    "time": 1688648025000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json/en.json.meta": {
+    "time": 1692882696451.1152
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json/pt.json.meta": {
+    "time": 1689954358000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/json/zh.json.meta": {
+    "time": 1689958139000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf.meta": {
+    "time": 1689264200000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/img_off.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/img_on.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/bg_2.png.meta": {
+    "time": 1689607405000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/bg_1.png.meta": {
+    "time": 1689264923000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/bg_3.png.meta": {
+    "time": 1689780859000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/switch_off.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/pop_bg.png.meta": {
+    "time": 1690616347000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/common/texture/switch_on.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/1024.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/128.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/131072.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/16.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/2.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/16384.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/2048.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/256.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/32.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/4.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/32768.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/4096.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/512.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/64.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/65536.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/8.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/8192.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/mask.png.meta": {
+    "time": 1690299694000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/audio.png.meta": {
+    "time": 1689612163000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/best.png.meta": {
+    "time": 1689612271000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/quan.png.meta": {
+    "time": 1689612293000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/mute.png.meta": {
+    "time": 1689612163000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/restart.png.meta": {
+    "time": 1689612163000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/set.png.meta": {
+    "time": 1689612306000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/texture/end.png.meta": {
+    "time": 1689697248000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/gameover/texture/restrat.png.meta": {
+    "time": 1689697257000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/game/texture/score.png.meta": {
+    "time": 1689612301000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture/icon_loading_bar.png.meta": {
+    "time": 1689607251000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png.meta": {
+    "time": 1689264970000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/close.png.meta": {
+    "time": 1689869087000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/loading/texture/loading_logo.png.meta": {
+    "time": 1689265009000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/btn_save.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/img_arrow.png.meta": {
+    "time": 1689870327000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/item_bg.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/list_item.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/btn_ok.png.meta": {
+    "time": 1690616303000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/btn_start.png.meta": {
+    "time": 1689607636000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/setting/texture/setting_bg.png.meta": {
+    "time": 1689784967000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/dan.png.meta": {
+    "time": 1689607641000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/frame.png.meta": {
+    "time": 1689607649000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/logo.png.meta": {
+    "time": 1689607627000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/roll_down.png.meta": {
+    "time": 1689607657000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/gui/start/texture/roll_up.png.meta": {
+    "time": 1689607662000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/en/image.jpg.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/pt/image.jpg.meta": {
+    "time": 1689954384000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/language/texture/zh/image.jpg.meta": {
+    "time": 1688523063000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/prompt.meta": {
+    "time": 1692859512816.6084
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/prompt/TipsManager.ts.meta": {
+    "time": 1692693806000
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view/Hot.ts.meta": {
+    "time": 1692859512817.5088
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view/HotUpdate.ts.meta": {
+    "time": 1692859512817.8337
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/prompt": {
+    "time": 1692693806000,
+    "uuid": "b550d979-c080-43c3-9d89-28591f2578df",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/common/prompt/TipsManager.ts": {
+    "time": 1692693806000,
+    "uuid": "9748eae2-11c2-4ea7-a392-76767faa1b39",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view/Hot.ts": {
+    "time": 1692693806000,
+    "uuid": "d7944b59-d342-478b-ae25-354422dc9fec",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/script/game/initialize/view/HotUpdate.ts": {
+    "time": 1692693806000,
+    "uuid": "43def4a8-4be7-48a3-a8f9-c297c1c472bc",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/project.manifest.meta": {
+    "time": 1692880248637.6824
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/version.manifest.meta": {
+    "time": 1692880248636.72
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/version.manifest": {
+    "time": 1692873829101.102,
+    "uuid": "25dca65c-1076-491c-bf5c-5e1d7e4d5596",
+    "missing": false
+  },
+  "/Users/chenxu/Project/2023-3-4/AndroidProject/danzai_2048/assets/bundle/project.manifest": {
+    "time": 1692873829100.7917,
+    "uuid": "f1492c77-10f3-4f07-842e-20b5dd826ab1",
+    "missing": false
+  }
+}

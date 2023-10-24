@@ -1,0 +1,108 @@
+{
+  "__version__": "1.0.0",
+  "builder": {
+    "taskOptionsMap": {
+      "1688994180558": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.0",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      },
+      "1689007691652": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.0",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      },
+      "1689698192860": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.0",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      },
+      "1689961351698": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.0",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      },
+      "1689961395884": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.0",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      },
+      "1690121494562": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 2,
+        "__version__": "1.0.0"
+      },
+      "1690178619109": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 2,
+        "__version__": "1.0.0"
+      },
+      "1690621547554": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 3,
+        "__version__": "1.0.0"
+      },
+      "1690622614598": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 3,
+        "__version__": "1.0.0"
+      },
+      "1690623517111": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 3,
+        "__version__": "1.0.0"
+      },
+      "1690623864167": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      },
+      "1690626019545": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://192.168.8.17:8090/hotupdate",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 3,
+        "__version__": "1.0.0"
+      },
+      "1696938856449": {
+        "hotUpdateEnable": false,
+        "hotUpdateAddress": "http://127.0.0.1",
+        "hotUpdateVersion": "1.0.0",
+        "hotUpdateBuildNum": 1,
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.5",
+    "options": {
+      "android": {
+        "hotUpdateEnable": true,
+        "hotUpdateAddress": "http://192.168.8.17:8090/hotupdate",
+        "hotUpdateVersion": "1.0.1",
+        "hotUpdateBuildNum": 3,
+        "__version__": "1.0.0"
+      }
+    }
+  }
+}

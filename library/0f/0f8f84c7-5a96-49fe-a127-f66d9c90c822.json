@@ -1,0 +1,34 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "config",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "config": {
+      "version": "1.0.2",
+      "package": "com.danzai.game",
+      "localDataKey": "danzai",
+      "localDataIv": "framework",
+      "httpServer": "http://192.168.0.150/main/",
+      "httpTimeout": 10000,
+      "frameRate": 60
+    },
+    "language": {
+      "type": [
+        "zh",
+        "en",
+        "pt"
+      ],
+      "path": {
+        "json": "language/json",
+        "texture": "language/texture"
+      }
+    },
+    "bundle": {
+      "enable": false,
+      "server": "https://127.0.0.1:8080/bundle",
+      "name": "bundle",
+      "version": "b727c"
+    }
+  }
+}

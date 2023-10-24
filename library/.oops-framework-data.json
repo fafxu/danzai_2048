@@ -1,0 +1,720 @@
+{
+  "e71a8cee-5af4-474d-bf5b-957d7bb98394": {
+    "url": "db://oops-framework/core",
+    "value": {}
+  },
+  "4c7fe81d-df44-445a-9e8c-7af85e9f31a1": {
+    "url": "db://oops-framework/libs",
+    "value": {}
+  },
+  "160e4538-8053-451b-ad7e-8d51300731bb": {
+    "url": "db://oops-framework/module",
+    "value": {}
+  },
+  "c0dd7e2e-f8c5-4520-9fda-21942756751a": {
+    "url": "db://oops-framework/core/common",
+    "value": {}
+  },
+  "8e279ff4-2659-4fc1-8026-816ebfa0a20e": {
+    "url": "db://oops-framework/core/game",
+    "value": {}
+  },
+  "dedee4cf-1d22-402a-833a-0bdc09ebbdea": {
+    "url": "db://oops-framework/core/gui",
+    "value": {}
+  },
+  "8e3fa3cb-980f-4686-b184-32af596cfe06": {
+    "url": "db://oops-framework/core/utils",
+    "value": {}
+  },
+  "911fe66e-4dbf-47e1-ba3e-801b854d7951": {
+    "url": "db://oops-framework/libs/animator",
+    "value": {}
+  },
+  "7c043979-41cd-4cbb-bb03-7387b119e1eb": {
+    "url": "db://oops-framework/libs/animator-effect",
+    "value": {}
+  },
+  "a85d2783-4119-4001-87eb-ddfaae4e57b5": {
+    "url": "db://oops-framework/libs/animator-move",
+    "value": {}
+  },
+  "35da123e-70e4-45cd-98d0-29e99627b1da": {
+    "url": "db://oops-framework/libs/behavior-tree",
+    "value": {}
+  },
+  "dd53d0d3-732e-4f54-a0c3-ac16c6be68f6": {
+    "url": "db://oops-framework/libs/camera",
+    "value": {}
+  },
+  "40f8c594-1d00-40b5-b7f5-63a75a839132": {
+    "url": "db://oops-framework/libs/collection",
+    "value": {}
+  },
+  "1a67473d-eb8f-4021-9e62-a4fe85df465e": {
+    "url": "db://oops-framework/libs/ecs",
+    "value": {}
+  },
+  "dcfddb63-9e21-45f1-bfdd-80a34b817bf5": {
+    "url": "db://oops-framework/libs/gui",
+    "value": {}
+  },
+  "731608ed-fdd6-4eff-ae23-667a860d4c18": {
+    "url": "db://oops-framework/libs/model-view",
+    "value": {}
+  },
+  "2b3f701c-188a-4390-94a5-b5d3781f54f9": {
+    "url": "db://oops-framework/libs/network",
+    "value": {}
+  },
+  "3bca001e-cfaa-4501-ae7c-75670697beb8": {
+    "url": "db://oops-framework/libs/render-texture",
+    "value": {}
+  },
+  "0bb68e2b-ea6e-4969-9d2c-c6751d909f6d": {
+    "url": "db://oops-framework/module/common",
+    "value": {}
+  },
+  "ca1994dc-b0e8-4b45-8748-976ae4f5d0b9": {
+    "url": "db://oops-framework/module/config",
+    "value": {}
+  },
+  "a643bc0f-eea9-46d6-8771-708dbdda9583": {
+    "url": "db://oops-framework/core/common/audio",
+    "value": {}
+  },
+  "1e590879-0446-4a14-b8c2-0929fe3b3b19": {
+    "url": "db://oops-framework/core/common/event",
+    "value": {}
+  },
+  "074d3901-63e8-4820-8993-a69e1ef2b408": {
+    "url": "db://oops-framework/core/common/loader",
+    "value": {}
+  },
+  "7c2cf855-b48b-48f4-bfa5-857a91624a09": {
+    "url": "db://oops-framework/core/common/log",
+    "value": {}
+  },
+  "3378e15d-0afd-4825-bc3c-6d61128da4c9": {
+    "url": "db://oops-framework/core/common/random",
+    "value": {}
+  },
+  "40b31022-d422-493f-a40d-2621c96ec9f2": {
+    "url": "db://oops-framework/core/common/storage",
+    "value": {}
+  },
+  "7f902b11-1772-41e8-8f6c-68dc641a1c93": {
+    "url": "db://oops-framework/core/common/timer",
+    "value": {}
+  },
+  "7ebfb1c8-171b-4e1b-94e3-9921824f003c": {
+    "url": "db://oops-framework/core/gui/layer",
+    "value": {}
+  },
+  "56d96adb-6a7b-4758-8408-b6bcadb8e425": {
+    "url": "db://oops-framework/core/gui/prompt",
+    "value": {}
+  },
+  "3179d94b-41d4-44b2-b73e-65f63e91da80": {
+    "url": "db://oops-framework/libs/animator/core",
+    "value": {}
+  },
+  "90020e7a-dea3-499a-b1dd-fc4564d2ecbd": {
+    "url": "db://oops-framework/libs/animator-effect/2d",
+    "value": {}
+  },
+  "d5df6d89-615e-469b-8dcd-a7b33716abbe": {
+    "url": "db://oops-framework/libs/animator-effect/3d",
+    "value": {}
+  },
+  "df85f52f-c354-483d-af86-9cd0b96cdc96": {
+    "url": "db://oops-framework/libs/gui/badge",
+    "value": {}
+  },
+  "c35d33a8-9290-47c3-8f06-35fb298a5556": {
+    "url": "db://oops-framework/libs/gui/button",
+    "value": {}
+  },
+  "bff487ed-c8aa-446b-a2a4-24408ef0480c": {
+    "url": "db://oops-framework/libs/gui/label",
+    "value": {}
+  },
+  "4d72408b-5cb6-4ca1-aad9-d73b890db1a0": {
+    "url": "db://oops-framework/libs/gui/language",
+    "value": {}
+  },
+  "db5db990-a4e8-45f0-9d71-86130657dc43": {
+    "url": "db://oops-framework/libs/model-view/ui",
+    "value": {}
+  },
+  "922e2501-4a6b-4f54-852c-28e24c3fc5b8": {
+    "url": "db://oops-framework/libs/network/protocol",
+    "value": {}
+  },
+  "d7e7035f-248d-4a35-852d-bb7c86170848": {
+    "url": "db://oops-framework/libs/animator-effect/3d/geometry",
+    "value": {}
+  },
+  "cbae5c33-7d26-46cd-932e-c9e01eb527e0": {
+    "url": "db://oops-framework/core/Oops.ts",
+    "value": {}
+  },
+  "90b9c3a6-9660-429e-90a9-12982f76b42b": {
+    "url": "db://oops-framework/core/Root.ts",
+    "value": {}
+  },
+  "8edaa9bc-5a17-4111-8478-82eb257cd87f": {
+    "url": "db://oops-framework/core/game/GameCollision.ts",
+    "value": {}
+  },
+  "9e3f843c-2206-43f5-9b19-27b3ab93159d": {
+    "url": "db://oops-framework/core/game/GameComponent.ts",
+    "value": {}
+  },
+  "73fa0084-7ce8-4c74-9528-670a05208655": {
+    "url": "db://oops-framework/core/game/GameManager.ts",
+    "value": {}
+  },
+  "9461c77f-7463-4418-ae48-e49db8c58e8b": {
+    "url": "db://oops-framework/core/gui/GUI.ts",
+    "value": {}
+  },
+  "4613bdb3-63f7-4c49-a18f-046a3a7ad8b7": {
+    "url": "db://oops-framework/core/utils/ArrayUtil.ts",
+    "value": {}
+  },
+  "95c77410-a69d-448c-a8fc-50114209d2ae": {
+    "url": "db://oops-framework/core/utils/CameraUtil.ts",
+    "value": {}
+  },
+  "46d12071-e097-4a9c-8607-85cbcd93a4b5": {
+    "url": "db://oops-framework/core/utils/EncryptUtil.ts",
+    "value": {}
+  },
+  "ebdf3ad1-9c47-4862-92a0-19d5bc812999": {
+    "url": "db://oops-framework/core/utils/ImageUtil.ts",
+    "value": {}
+  },
+  "1a24a9e4-e274-42e3-a8df-cda21f3a6b50": {
+    "url": "db://oops-framework/core/utils/JsonUtil.ts",
+    "value": {}
+  },
+  "b7a86e19-a5be-4de1-99bb-a27584d62f43": {
+    "url": "db://oops-framework/core/utils/LayerUtil.ts",
+    "value": {}
+  },
+  "8c615652-e0f4-4c3c-a3c0-f59a8a8e2242": {
+    "url": "db://oops-framework/core/utils/MathUtil.ts",
+    "value": {}
+  },
+  "8682740b-1524-4ced-9a23-b31d16a96b90": {
+    "url": "db://oops-framework/core/utils/ObjectUtil.ts",
+    "value": {}
+  },
+  "c15849ee-bc8f-47b4-9e48-1dc985101cd1": {
+    "url": "db://oops-framework/core/utils/PhysicsUtil.ts",
+    "value": {}
+  },
+  "c0822f63-9e67-4f3f-9bd1-ef6d4de861bd": {
+    "url": "db://oops-framework/core/utils/PlatformUtil.ts",
+    "value": {}
+  },
+  "dec9b54f-8a01-4298-acb9-35593ed32ee1": {
+    "url": "db://oops-framework/core/utils/RegexUtil.ts",
+    "value": {}
+  },
+  "10332e24-afbe-478b-977b-45909c46ddcf": {
+    "url": "db://oops-framework/core/utils/RotateUtil.ts",
+    "value": {}
+  },
+  "aa843e4b-481b-4047-91cf-b237ba209db0": {
+    "url": "db://oops-framework/core/utils/StringUtil.ts",
+    "value": {}
+  },
+  "389478a1-f1de-4443-b1c6-e1bbae83e491": {
+    "url": "db://oops-framework/core/utils/Vec3Util.ts",
+    "value": {}
+  },
+  "f607c0a3-0046-4754-a559-fc5c91b396c0": {
+    "url": "db://oops-framework/core/utils/ViewUtil.ts",
+    "value": {}
+  },
+  "64571432-fd39-4211-923f-dbc471206f84": {
+    "url": "db://oops-framework/libs/animator/AnimatorAnimation.ts",
+    "value": {}
+  },
+  "fe7ae993-76f1-4178-9940-982fba5e9854": {
+    "url": "db://oops-framework/libs/animator/AnimatorCustomization.ts",
+    "value": {}
+  },
+  "dc324274-de9b-41f1-bd89-57d2e376ece1": {
+    "url": "db://oops-framework/libs/animator/AnimatorDragonBones.ts",
+    "value": {}
+  },
+  "8c5458c1-9f8c-45ec-b597-8e5e74e9abe2": {
+    "url": "db://oops-framework/libs/animator/AnimatorSkeletal.ts",
+    "value": {}
+  },
+  "7fde8c89-11fc-4c32-ace3-83e578515913": {
+    "url": "db://oops-framework/libs/animator/AnimatorSpine.ts",
+    "value": {}
+  },
+  "e4711dac-f5cf-4ac2-8f17-410e0a496d1c": {
+    "url": "db://oops-framework/libs/animator/AnimatorSpineSecondary.ts",
+    "value": {}
+  },
+  "f04f9d94-358d-49df-850f-03456b108b07": {
+    "url": "db://oops-framework/libs/animator-effect/Effect2DFollow3D.ts",
+    "value": {}
+  },
+  "013597ef-c651-4964-ac7b-04b51c4d2592": {
+    "url": "db://oops-framework/libs/animator-effect/EffectDelayRelease.ts",
+    "value": {}
+  },
+  "44587e42-cf24-4a68-b892-5d3607eba966": {
+    "url": "db://oops-framework/libs/animator-effect/EffectEvent.ts",
+    "value": {}
+  },
+  "a751f99a-c8be-4931-81f4-0f8b89a0ae47": {
+    "url": "db://oops-framework/libs/animator-effect/EffectFinishedRelease.ts",
+    "value": {}
+  },
+  "bf33867e-a18c-4851-b778-6cf444c3d51d": {
+    "url": "db://oops-framework/libs/animator-effect/EffectSingleCase.ts",
+    "value": {}
+  },
+  "4e8ce764-59e2-4311-9a14-32d6ae69cfcc": {
+    "url": "db://oops-framework/libs/animator-move/MoveRigidBody.ts",
+    "value": {}
+  },
+  "5e22afaa-594a-48e9-91d2-551463d83613": {
+    "url": "db://oops-framework/libs/animator-move/MoveTo.ts",
+    "value": {}
+  },
+  "e6266d76-cc29-4b3b-8399-0c45af4fe7eb": {
+    "url": "db://oops-framework/libs/animator-move/MoveTranslate.ts",
+    "value": {}
+  },
+  "f0aeea40-c277-493f-bc25-a4fe902b1d3a": {
+    "url": "db://oops-framework/libs/behavior-tree/BTreeNode.ts",
+    "value": {}
+  },
+  "22a9144f-ddf3-46fe-b596-017966338053": {
+    "url": "db://oops-framework/libs/behavior-tree/BehaviorTree.ts",
+    "value": {}
+  },
+  "beafa0cc-b30f-4509-b183-a4b56631f6b5": {
+    "url": "db://oops-framework/libs/behavior-tree/BranchNode.ts",
+    "value": {}
+  },
+  "0455a831-b1bc-4795-895e-24f0e9257de5": {
+    "url": "db://oops-framework/libs/behavior-tree/Decorator.ts",
+    "value": {}
+  },
+  "584504f2-1372-41d3-af4a-3bc3f9fa1978": {
+    "url": "db://oops-framework/libs/behavior-tree/IControl.ts",
+    "value": {}
+  },
+  "f75550d2-a63f-4b6d-8a51-0e2f3f50a74d": {
+    "url": "db://oops-framework/libs/behavior-tree/Priority.ts",
+    "value": {}
+  },
+  "904705ea-4ff1-461e-8fcf-45092d2dc632": {
+    "url": "db://oops-framework/libs/behavior-tree/Selector.ts",
+    "value": {}
+  },
+  "1ef806e0-6190-4f5e-a083-229cc7a5b049": {
+    "url": "db://oops-framework/libs/behavior-tree/Sequence.ts",
+    "value": {}
+  },
+  "95087421-114d-46d4-b5a7-3360fb85a4d0": {
+    "url": "db://oops-framework/libs/behavior-tree/Task.ts",
+    "value": {}
+  },
+  "962575d8-bab7-484d-b5a1-c847fb4256e7": {
+    "url": "db://oops-framework/libs/behavior-tree/index.ts",
+    "value": {}
+  },
+  "6c841994-fb82-4dbe-ac07-cb9b49b09874": {
+    "url": "db://oops-framework/libs/camera/FreeFlightCamera.ts",
+    "value": {}
+  },
+  "4e4541bf-390d-4d07-bb63-cc051fdbaf54": {
+    "url": "db://oops-framework/libs/camera/OrbitCamera.ts",
+    "value": {}
+  },
+  "8c48b04d-e76d-49cc-8c61-21326e9c58e2": {
+    "url": "db://oops-framework/libs/collection/AsyncQueue.ts",
+    "value": {}
+  },
+  "1dcf502d-4105-4adc-a43f-da31c70f9822": {
+    "url": "db://oops-framework/libs/collection/Collection.ts",
+    "value": {}
+  },
+  "be87f4fb-ea99-4b91-a50a-118a64b95d27": {
+    "url": "db://oops-framework/libs/ecs/ECS.ts",
+    "value": {}
+  },
+  "3d017661-0194-47e1-b3df-a4baf9fbef05": {
+    "url": "db://oops-framework/libs/ecs/ECSComp.ts",
+    "value": {}
+  },
+  "1fb62582-dcf6-4fbc-b863-a1941fad1109": {
+    "url": "db://oops-framework/libs/ecs/ECSEntity.ts",
+    "value": {}
+  },
+  "c21a2de8-f4fe-4534-96a6-70c9a86167ec": {
+    "url": "db://oops-framework/libs/ecs/ECSGroup.ts",
+    "value": {}
+  },
+  "d1869e0f-3dbb-46b3-9229-828fef689057": {
+    "url": "db://oops-framework/libs/ecs/ECSMask.ts",
+    "value": {}
+  },
+  "37e8aae5-a8f9-4ded-a999-6321c5bc1229": {
+    "url": "db://oops-framework/libs/ecs/ECSMatcher.ts",
+    "value": {}
+  },
+  "1d60e80c-eabf-46b5-ae0e-a7754005218c": {
+    "url": "db://oops-framework/libs/ecs/ECSModel.ts",
+    "value": {}
+  },
+  "9261f456-8364-4163-9931-6c526c635402": {
+    "url": "db://oops-framework/libs/ecs/ECSSystem.ts",
+    "value": {}
+  },
+  "000b0d0b-c75f-4a7b-8840-15cf7f4259e1": {
+    "url": "db://oops-framework/libs/model-view/JsonOb.ts",
+    "value": {}
+  },
+  "85fe819c-ea1e-40bd-af89-b1d6c1b3c711": {
+    "url": "db://oops-framework/libs/model-view/StringFormat.ts",
+    "value": {}
+  },
+  "2f6f3e88-bd47-4f3b-bc72-9e75533e0cdb": {
+    "url": "db://oops-framework/libs/model-view/VMBase.ts",
+    "value": {}
+  },
+  "2359e157-285e-4715-84bb-e0aed8d7bfd4": {
+    "url": "db://oops-framework/libs/model-view/VMCompsEdit.ts",
+    "value": {}
+  },
+  "ce6627f0-b125-4f2c-aa66-1f1f8aa1c16e": {
+    "url": "db://oops-framework/libs/model-view/VMCustom.ts",
+    "value": {}
+  },
+  "fdf7243d-d4f7-425e-93d0-fbadacd6e7e2": {
+    "url": "db://oops-framework/libs/model-view/VMEnv.ts",
+    "value": {}
+  },
+  "a9ce791f-f176-4978-b3e5-4f68969f6cc3": {
+    "url": "db://oops-framework/libs/model-view/VMEvent.ts",
+    "value": {}
+  },
+  "545c0e57-b06f-460c-98ac-a441962af62f": {
+    "url": "db://oops-framework/libs/model-view/VMLabel.ts",
+    "value": {}
+  },
+  "7d2a4be8-68e2-4918-9651-5853c6e8193b": {
+    "url": "db://oops-framework/libs/model-view/VMModify.ts",
+    "value": {}
+  },
+  "15ccc88e-f994-47e3-beac-3ca0ff2ef07b": {
+    "url": "db://oops-framework/libs/model-view/VMParent.ts",
+    "value": {}
+  },
+  "2a50ea88-ec96-4d57-94a1-d32fd077d0ba": {
+    "url": "db://oops-framework/libs/model-view/VMProgress.ts",
+    "value": {}
+  },
+  "47052bb0-fd8e-4ed4-b5da-2ce6e3e00471": {
+    "url": "db://oops-framework/libs/model-view/VMState.ts",
+    "value": {}
+  },
+  "54f75938-5fe4-4fd2-a697-3b3adf672b0b": {
+    "url": "db://oops-framework/libs/model-view/ViewModel.ts",
+    "value": {}
+  },
+  "806e5b7c-51eb-45cb-8b29-9fcf5d9ee6a7": {
+    "url": "db://oops-framework/libs/network/HttpRequest.ts",
+    "value": {}
+  },
+  "d9f8bf82-57af-45c8-ac27-51d0a33ad69d": {
+    "url": "db://oops-framework/libs/network/NetInterface.ts",
+    "value": {}
+  },
+  "d8cd57a5-e860-464d-84d6-f8df1bf04b89": {
+    "url": "db://oops-framework/libs/network/NetManager.ts",
+    "value": {}
+  },
+  "57f0f07d-d243-4150-9f7c-cb2bbe8f18f1": {
+    "url": "db://oops-framework/libs/network/NetNode.ts",
+    "value": {}
+  },
+  "88ae0948-8390-4559-bd4e-d44f3f12dc22": {
+    "url": "db://oops-framework/libs/network/NetProtocolPako.ts",
+    "value": {}
+  },
+  "5714abb2-1adb-4e4a-b397-795b2f200533": {
+    "url": "db://oops-framework/libs/network/NetProtocolProtobuf.ts",
+    "value": {}
+  },
+  "70df255b-214f-41eb-a16b-fa8a7c14a269": {
+    "url": "db://oops-framework/libs/network/WebSock.ts",
+    "value": {}
+  },
+  "dbd7d310-62eb-43b3-b23b-ba3fb7cc8894": {
+    "url": "db://oops-framework/libs/render-texture/RtToModel.ts",
+    "value": {}
+  },
+  "f608c743-5813-4428-b20b-54d05c418bdf": {
+    "url": "db://oops-framework/libs/render-texture/RtToSprite.ts",
+    "value": {}
+  },
+  "dd2077e2-c862-4b7f-9afe-6e488c83076d": {
+    "url": "db://oops-framework/module/common/CCComp.ts",
+    "value": {}
+  },
+  "5908a4e6-3359-48b6-95e0-a3b44ea50790": {
+    "url": "db://oops-framework/module/common/CCVMParentComp.ts",
+    "value": {}
+  },
+  "21a39ff8-1dc8-4974-9912-40a28a90b87d": {
+    "url": "db://oops-framework/module/config/BuildTimeConstants.ts",
+    "value": {}
+  },
+  "5034d11e-ce8e-45ae-be9d-8591958264e1": {
+    "url": "db://oops-framework/module/config/Config.ts",
+    "value": {}
+  },
+  "54585cc1-b26b-467d-9103-7332c6dd21f9": {
+    "url": "db://oops-framework/module/config/GameConfig.ts",
+    "value": {}
+  },
+  "d09ac531-714e-4783-8914-8cac551162f2": {
+    "url": "db://oops-framework/module/config/GameQueryConfig.ts",
+    "value": {}
+  },
+  "e52d2cac-6350-446e-9713-d82cf45b0b2c": {
+    "url": "db://oops-framework/core/common/audio/AudioEffect.ts",
+    "value": {}
+  },
+  "252f0cfe-bcf3-4bf1-8fe3-b0b626a26b70": {
+    "url": "db://oops-framework/core/common/audio/AudioManager.ts",
+    "value": {}
+  },
+  "5c1f392a-19eb-4188-8bf8-f3f0afb9a42f": {
+    "url": "db://oops-framework/core/common/audio/AudioMusic.ts",
+    "value": {}
+  },
+  "c680a7f9-88f3-4a78-83b8-700adfffdd26": {
+    "url": "db://oops-framework/core/common/event/EventDispatcher.ts",
+    "value": {}
+  },
+  "beea7bbd-c672-43e2-b323-eae6bf2d3705": {
+    "url": "db://oops-framework/core/common/event/EventMessage.ts",
+    "value": {}
+  },
+  "a401f63e-c23f-4db2-a380-0a867b672fd1": {
+    "url": "db://oops-framework/core/common/event/MessageManager.ts",
+    "value": {}
+  },
+  "1a2e48c5-7dfa-47ad-88eb-a716e70bbeb4": {
+    "url": "db://oops-framework/core/common/loader/ResLoader.ts",
+    "value": {}
+  },
+  "479cd240-34fe-4a68-9814-fbccf40dd484": {
+    "url": "db://oops-framework/core/common/log/Logger.ts",
+    "value": {}
+  },
+  "3e09e241-c1f6-41b0-b3ea-16ccd92ef312": {
+    "url": "db://oops-framework/core/common/random/RandomManager.ts",
+    "value": {}
+  },
+  "ed22680b-17ce-4eca-bf96-840f532592d7": {
+    "url": "db://oops-framework/core/common/storage/StorageManager.ts",
+    "value": {}
+  },
+  "6021f72d-d6e8-49b0-8984-ba1745582d1f": {
+    "url": "db://oops-framework/core/common/timer/Timer.ts",
+    "value": {}
+  },
+  "7360054b-b080-4b38-a84e-85deed7783fc": {
+    "url": "db://oops-framework/core/common/timer/TimerManager.ts",
+    "value": {}
+  },
+  "82d3af5c-ef52-4490-8f79-777aac7079bc": {
+    "url": "db://oops-framework/core/gui/layer/Defines.ts",
+    "value": {}
+  },
+  "d8f1f191-0fb7-41cc-8781-4a43a977f3f2": {
+    "url": "db://oops-framework/core/gui/layer/DelegateComponent.ts",
+    "value": {}
+  },
+  "dcad5c3c-c079-440c-9a48-289e2053110f": {
+    "url": "db://oops-framework/core/gui/layer/LayerDialog.ts",
+    "value": {}
+  },
+  "7ba67e71-1467-47a8-83b2-913cac37312e": {
+    "url": "db://oops-framework/core/gui/layer/LayerManager.ts",
+    "value": {}
+  },
+  "da14ac7e-076c-4db0-bdad-69014e87bc1e": {
+    "url": "db://oops-framework/core/gui/layer/LayerNotify.ts",
+    "value": {}
+  },
+  "25d07050-0421-400d-a4ac-87f2371ab4d7": {
+    "url": "db://oops-framework/core/gui/layer/LayerPopup.ts",
+    "value": {}
+  },
+  "bc8b8e81-afd7-4678-ac5e-2e28e4c89284": {
+    "url": "db://oops-framework/core/gui/layer/LayerUI.ts",
+    "value": {}
+  },
+  "1bd03820-b48b-4821-a8e8-a9dd08e1518b": {
+    "url": "db://oops-framework/core/gui/layer/UIMap.ts",
+    "value": {}
+  },
+  "653bff15-3c2e-459f-8f73-14916a5d5831": {
+    "url": "db://oops-framework/core/gui/prompt/CommonPrompt.ts",
+    "value": {}
+  },
+  "9514333f-f363-4238-b286-cf0d78265992": {
+    "url": "db://oops-framework/core/gui/prompt/LoadingIndicator.ts",
+    "value": {}
+  },
+  "01391329-e97d-469f-9e78-ae4cdabcde0a": {
+    "url": "db://oops-framework/core/gui/prompt/Notify.ts",
+    "value": {}
+  },
+  "7ff1434e-ba0d-4d00-8075-5e04250bd19c": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorBase.ts",
+    "value": {}
+  },
+  "8ade2876-0bf6-40f3-ab61-848d0d36eaae": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorCondition.ts",
+    "value": {}
+  },
+  "01df948c-0634-42c9-80c4-ed281b671b9a": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorController.ts",
+    "value": {}
+  },
+  "13926c6b-c834-4f5c-9e74-9429cbbf2e09": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorParams.ts",
+    "value": {}
+  },
+  "bd2d1fc4-ef52-4bd4-98f7-1f3b181fcd87": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorState.ts",
+    "value": {}
+  },
+  "b06fb777-51d3-4abe-8a00-51e0e2f544dc": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorStateLogic.ts",
+    "value": {}
+  },
+  "39224c51-224a-441b-b86f-3c994aa060f2": {
+    "url": "db://oops-framework/libs/animator/core/AnimatorTransition.ts",
+    "value": {}
+  },
+  "73c69187-f4cf-45d8-896c-9b47ef8d3097": {
+    "url": "db://oops-framework/libs/animator-effect/2d/Ambilight.ts",
+    "value": {}
+  },
+  "61de7a4f-8623-45e6-9957-479a5529f5ee": {
+    "url": "db://oops-framework/libs/animator-effect/2d/FlashSpine.ts",
+    "value": {}
+  },
+  "a7a9e5d6-6d4a-49de-b38d-aa581460263f": {
+    "url": "db://oops-framework/libs/animator-effect/2d/FlashSprite.ts",
+    "value": {}
+  },
+  "9589e281-fd16-4a5e-9c68-621cf94b20bb": {
+    "url": "db://oops-framework/libs/animator-effect/2d/SpineFinishedRelease.ts",
+    "value": {}
+  },
+  "41dced17-0943-4823-be09-d3349e68351f": {
+    "url": "db://oops-framework/libs/animator-effect/3d/NavLine.ts",
+    "value": {}
+  },
+  "bac76a30-f785-48f8-8a40-0750d050a7ea": {
+    "url": "db://oops-framework/libs/gui/badge/Badge.ts",
+    "value": {}
+  },
+  "da0f8081-4246-43a9-a7a4-36e111a8a8c0": {
+    "url": "db://oops-framework/libs/gui/badge/RoundRectMask.ts",
+    "value": {}
+  },
+  "1be3686b-18ee-4ecf-a11a-a60eb2816d37": {
+    "url": "db://oops-framework/libs/gui/button/ButtonEffect.ts",
+    "value": {}
+  },
+  "8d645c8e-6d7d-45bc-97e4-dac6e2d2bc69": {
+    "url": "db://oops-framework/libs/gui/button/ButtonSimple.ts",
+    "value": {}
+  },
+  "da96e9fb-598a-4f4d-a3c8-90ed65fcdbb1": {
+    "url": "db://oops-framework/libs/gui/button/ButtonTouchLong.ts",
+    "value": {}
+  },
+  "fff0f2f0-54d8-4d7b-9f55-8ab59308f149": {
+    "url": "db://oops-framework/libs/gui/label/LabelChange.ts",
+    "value": {}
+  },
+  "f7b4317b-d018-4f96-bcf8-20f8591a6b0b": {
+    "url": "db://oops-framework/libs/gui/label/LabelNumber.ts",
+    "value": {}
+  },
+  "5778618c-37a4-4f6d-a013-f5bf51997d7c": {
+    "url": "db://oops-framework/libs/gui/label/LabelTime.ts",
+    "value": {}
+  },
+  "3757cc59-a8b6-4e6c-876f-3ff810e98ba3": {
+    "url": "db://oops-framework/libs/gui/language/Language.ts",
+    "value": {}
+  },
+  "27fb3b23-0fcd-4994-83f6-2854d2594a78": {
+    "url": "db://oops-framework/libs/gui/language/LanguageData.ts",
+    "value": {}
+  },
+  "110c8bc4-7793-443c-bfcd-f66786427697": {
+    "url": "db://oops-framework/libs/gui/language/LanguageLabel.ts",
+    "value": {}
+  },
+  "2ffebca3-e7dc-4873-8bf8-059b72f120e6": {
+    "url": "db://oops-framework/libs/gui/language/LanguagePack.ts",
+    "value": {}
+  },
+  "11b9693f-4486-45e7-b2e8-7a1c7297a1ec": {
+    "url": "db://oops-framework/libs/gui/language/LanguageSprite.ts",
+    "value": {}
+  },
+  "41df6efa-2f9e-4bbc-9e76-bb1910a5fc49": {
+    "url": "db://oops-framework/libs/model-view/ui/BhvButtonGroup.ts",
+    "value": {}
+  },
+  "c238ec1f-2765-499d-9f06-6fc610b394ec": {
+    "url": "db://oops-framework/libs/model-view/ui/BhvFrameIndex.ts",
+    "value": {}
+  },
+  "72d13770-986f-4b4b-8824-2614ae029dc5": {
+    "url": "db://oops-framework/libs/model-view/ui/BhvRollNumber.ts",
+    "value": {}
+  },
+  "b3d08de4-9dca-433e-a573-b4cb62aba0ce": {
+    "url": "db://oops-framework/libs/model-view/ui/BhvSwitchPage.ts",
+    "value": {}
+  },
+  "ea0c1dde-7fa5-4be3-9d46-64b5a00ed95e": {
+    "url": "db://oops-framework/libs/animator-effect/3d/geometry/DrawMeshSector.ts",
+    "value": {}
+  },
+  "60e799a8-4bb9-4e3d-8b8c-ab86909f9eb8": {
+    "url": "db://oops-framework/libs/network/protocol/pako.min.js",
+    "value": {}
+  },
+  "75bee78b-9817-4c58-a8a2-ac3626541dc2": {
+    "url": "db://oops-framework/libs/model-view/README.md",
+    "value": {
+      "depends": []
+    }
+  }
+}

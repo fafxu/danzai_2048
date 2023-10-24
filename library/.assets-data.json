@@ -1,0 +1,2338 @@
+{
+  "3f200e06-286a-40cd-a915-b94e26ffe75e": {
+    "url": "db://assets/bundle",
+    "value": {}
+  },
+  "8933b6e6-f35a-4e09-8031-4286fdb535bb": {
+    "url": "db://assets/libs",
+    "value": {}
+  },
+  "11349493-059b-466d-8a63-bc29a4d895cd": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "c71845dc-9d65-4d6d-8aca-dcb8079e4aae": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "b9dc5d89-1070-4f62-8a31-5b96306c192b": {
+    "url": "db://assets/bundle/common",
+    "value": {}
+  },
+  "11938e97-a8b3-4375-9632-5313d684e918": {
+    "url": "db://assets/bundle/config",
+    "value": {}
+  },
+  "ce4f2740-a8dc-47cd-a6a0-2f1b5b45128a": {
+    "url": "db://assets/bundle/gui/game",
+    "value": {}
+  },
+  "8082dcd2-510f-4867-b2f1-c377843e16b4": {
+    "url": "db://assets/bundle/gui",
+    "value": {}
+  },
+  "212e9f36-3089-49a2-80d3-28e93d0d19f1": {
+    "url": "db://assets/bundle/language",
+    "value": {}
+  },
+  "c8895a8e-6fd7-4a9c-a18b-5c67d871ccca": {
+    "url": "db://assets/libs/seedrandom",
+    "value": {}
+  },
+  "b8688d91-9274-40b5-a605-23ee4e5a4eec": {
+    "url": "db://assets/script/game",
+    "value": {}
+  },
+  "0b70ab49-9f2b-4cbb-b4cb-849b2e477598": {
+    "url": "db://assets/bundle/common/anim",
+    "value": {}
+  },
+  "853ce1af-fb40-4f30-aebb-f12234f3d7fe": {
+    "url": "db://assets/bundle/common/prefab",
+    "value": {}
+  },
+  "0489d8e2-9e0b-4c7e-b5ec-647a864e9214": {
+    "url": "db://assets/bundle/common/texture",
+    "value": {}
+  },
+  "a2c06fee-9cbe-4e3b-b9ff-a29cdd9e6646": {
+    "url": "db://assets/bundle/config/game",
+    "value": {}
+  },
+  "e05e3ca3-6657-4d57-8c14-544b16c49d9f": {
+    "url": "db://assets/bundle/gui/start",
+    "value": {}
+  },
+  "c2392cff-8a0b-4baa-95de-e3bfe2999f3c": {
+    "url": "db://assets/bundle/gui/loading",
+    "value": {}
+  },
+  "92204c5e-0e0d-437c-9b83-4bc1d2994a5d": {
+    "url": "db://assets/bundle/language/json",
+    "value": {}
+  },
+  "b67a859f-640d-4a5a-825e-51971fed24a5": {
+    "url": "db://assets/bundle/language/texture",
+    "value": {}
+  },
+  "357b1816-e65d-47e7-938e-a74526a54b65": {
+    "url": "db://assets/script/game/common",
+    "value": {}
+  },
+  "b005e8c9-418f-4529-8b5c-862aeb5977b1": {
+    "url": "db://assets/script/game/initialize",
+    "value": {}
+  },
+  "9df30361-6dbb-444f-8809-df0b7fd3f29e": {
+    "url": "db://assets/bundle/gui/loading/texture",
+    "value": {}
+  },
+  "ec976edd-f0a0-4f29-a3f9-c803b92ef9be": {
+    "url": "db://assets/bundle/language/texture/en",
+    "value": {}
+  },
+  "c03f86e4-9b94-4703-a944-93c83c0c07fd": {
+    "url": "db://assets/bundle/language/texture/zh",
+    "value": {}
+  },
+  "7775e602-1231-4777-a927-a5cbb41c8518": {
+    "url": "db://assets/script/game/common/config",
+    "value": {}
+  },
+  "cec5d176-d9f1-4cf6-95bc-e862683a7c2b": {
+    "url": "db://assets/script/game/common/table",
+    "value": {}
+  },
+  "de5401a8-45c8-4249-aa4c-933102551227": {
+    "url": "db://assets/script/game/initialize/bll",
+    "value": {}
+  },
+  "a36c4006-66a4-4a3e-9f87-e64b179de4e5": {
+    "url": "db://assets/script/game/initialize/view",
+    "value": {}
+  },
+  "0eec0b38-aab6-45ee-89cf-95806b0fecbe": {
+    "url": "db://assets/script/Main.ts",
+    "value": {}
+  },
+  "17a56bce-5501-4c31-aac0-371afa26f3fb": {
+    "url": "db://assets/script/game/common/SingletonModuleComp.ts",
+    "value": {}
+  },
+  "ffbce42c-e99f-48a0-8e73-ea6b756af330": {
+    "url": "db://assets/script/game/initialize/Initialize.ts",
+    "value": {}
+  },
+  "28ac0ad6-53bf-471a-9256-ae7c8ad351a7": {
+    "url": "db://assets/script/game/common/config/GameEvent.ts",
+    "value": {}
+  },
+  "14663cf6-fb92-4921-8ba9-c836b2667737": {
+    "url": "db://assets/script/game/common/config/GameUIConfig.ts",
+    "value": {}
+  },
+  "1e3d7b9a-9e7e-4c46-8900-2f6c142e6f72": {
+    "url": "db://assets/script/game/common/table/TablePromptWindow.ts",
+    "value": {}
+  },
+  "2ee0cf3e-ed1f-4414-a41b-f8e3e7f66964": {
+    "url": "db://assets/script/game/initialize/bll/InitRes.ts",
+    "value": {}
+  },
+  "92429ca4-4e7c-450a-b706-c96e7c2568e3": {
+    "url": "db://assets/script/game/initialize/view/LoadingViewComp.ts",
+    "value": {}
+  },
+  "ba0b085f-f8d5-40b0-9964-2fd25728d707": {
+    "url": "db://assets/main.scene",
+    "value": {
+      "depends": [
+        "ba0b085f-f8d5-40b0-9964-2fd25728d707",
+        "ba0b085f-f8d5-40b0-9964-2fd25728d707"
+      ]
+    }
+  },
+  "0f8f84c7-5a96-49fe-a127-f66d9c90c822": {
+    "url": "db://assets/resources/config.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "e5c18099-4502-4dc3-8d34-4a09cb0540b3": {
+    "url": "db://assets/libs/seedrandom/seedrandom.min.js",
+    "value": {}
+  },
+  "0430e564-9665-435e-9895-7b8e19fcb0b9": {
+    "url": "db://assets/bundle/common/anim/button_scale_end.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "99c3c7ad-3086-4333-81e6-19b82da0c89d": {
+    "url": "db://assets/bundle/common/anim/button_scale_start.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "4cecde51-d46d-4b20-b02e-e58f063ec56f": {
+    "url": "db://assets/bundle/common/anim/notify.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "9cc71d8c-192a-4234-8204-352f42b95c65": {
+    "url": "db://assets/bundle/common/prefab/netinstable.prefab",
+    "value": {
+      "depends": [
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "06942a20-0474-4385-9a85-293366d2473e@f9941"
+      ]
+    }
+  },
+  "10285c1d-979d-4a7e-80c0-86e0dc2a65d8": {
+    "url": "db://assets/bundle/common/prefab/notify.prefab",
+    "value": {
+      "depends": [
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@f9941",
+        "4cecde51-d46d-4b20-b02e-e58f063ec56f",
+        "4cecde51-d46d-4b20-b02e-e58f063ec56f"
+      ]
+    }
+  },
+  "2501cdfd-ca13-49a6-9c23-ea51586c54c4": {
+    "url": "db://assets/bundle/common/prefab/window.prefab",
+    "value": {
+      "depends": [
+        "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@f9941",
+        "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@f9941",
+        "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@f9941",
+        "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@f9941",
+        "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56@f9941"
+      ]
+    }
+  },
+  "9fa4ce44-23c1-4a20-9b6c-29623ff951af": {
+    "url": "db://assets/bundle/common/texture/auto-atlas.pac",
+    "value": {
+      "depends": []
+    }
+  },
+  "f9cfbca9-9f35-4dda-8925-64e34e6e9802": {
+    "url": "db://assets/bundle/common/texture/bg_window.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "56a0bfc3-686d-4e85-bb26-5f5a6855ae06": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "06942a20-0474-4385-9a85-293366d2473e": {
+    "url": "db://assets/bundle/common/texture/loading.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc": {
+    "url": "db://assets/bundle/common/texture/toast.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "632275d6-db6d-4335-9d55-31da137fb8f6": {
+    "url": "db://assets/bundle/config/game/NetCode.json",
+    "value": {}
+  },
+  "f563a1f3-e357-40cf-9fdb-28ad8b1b1d1d": {
+    "url": "db://assets/bundle/config/game/PromptWindow.json",
+    "value": {}
+  },
+  "f9cfbca9-9f35-4dda-8925-64e34e6e9802@6c48a": {
+    "url": "db://assets/bundle/common/texture/bg_window.png@6c48a",
+    "value": {
+      "depends": [
+        "f9cfbca9-9f35-4dda-8925-64e34e6e9802"
+      ]
+    }
+  },
+  "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@6c48a": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png@6c48a",
+    "value": {
+      "depends": [
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06"
+      ]
+    }
+  },
+  "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@6c48a": {
+    "url": "db://assets/bundle/common/texture/toast.png@6c48a",
+    "value": {
+      "depends": [
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc"
+      ]
+    }
+  },
+  "eb411176-ba54-4d62-86db-4cc4035d1540": {
+    "url": "db://assets/bundle/config/game/RoleJob.json",
+    "value": {}
+  },
+  "06942a20-0474-4385-9a85-293366d2473e@6c48a": {
+    "url": "db://assets/bundle/common/texture/loading.png@6c48a",
+    "value": {
+      "depends": [
+        "06942a20-0474-4385-9a85-293366d2473e"
+      ]
+    }
+  },
+  "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@f9941": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png@f9941",
+    "value": {
+      "depends": [
+        "56a0bfc3-686d-4e85-bb26-5f5a6855ae06@6c48a"
+      ]
+    }
+  },
+  "358eb9a8-5c38-47d1-ab37-2ce2a50e6d6c": {
+    "url": "db://assets/bundle/config/game/RoleLevelUp.json",
+    "value": {}
+  },
+  "5b6511a4-181b-4c81-9f9c-51e4c21b4d64": {
+    "url": "db://assets/bundle/gui/start/start.prefab",
+    "value": {
+      "depends": [
+        "860feb94-5afc-4ea3-9d5f-24ce06676587@f9941",
+        "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a@f9941",
+        "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a@f9941",
+        "0d6b709b-eae3-414e-8324-9e04528cd39d@f9941",
+        "0d6b709b-eae3-414e-8324-9e04528cd39d@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525@f9941",
+        "28146bfb-0afe-47cd-8f96-78b362fd750d@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a@f9941",
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a@f9941",
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a@f9941",
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a@f9941",
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673@f9941"
+      ]
+    }
+  },
+  "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@f9941": {
+    "url": "db://assets/bundle/common/texture/toast.png@f9941",
+    "value": {
+      "depends": [
+        "ef58b575-d5bd-4b6b-ac05-6364e90ff8fc@6c48a"
+      ]
+    }
+  },
+  "b3142304-c27f-4492-b94f-551d154a2bf4": {
+    "url": "db://assets/bundle/gui/loading/loading.prefab",
+    "value": {
+      "depends": [
+        "ba9c5b49-8dfe-4463-acdf-9b24551adfc4@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "1ac049d7-c899-492a-89a7-4e8d85ce4cb1@f9941",
+        "4482018a-51ca-44a0-80b5-3d325619e841@f9941",
+        "a2001856-24f5-4ac7-9309-1207a3210cd8@f9941"
+      ]
+    }
+  },
+  "06942a20-0474-4385-9a85-293366d2473e@f9941": {
+    "url": "db://assets/bundle/common/texture/loading.png@f9941",
+    "value": {
+      "depends": [
+        "06942a20-0474-4385-9a85-293366d2473e@6c48a"
+      ]
+    }
+  },
+  "2c0f4643-d84a-49b9-9069-8efe9434304c": {
+    "url": "db://assets/bundle/language/json/en.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "f39d9bde-aff1-4255-846f-cbc4169d5d45": {
+    "url": "db://assets/bundle/language/json/zh.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "f9cfbca9-9f35-4dda-8925-64e34e6e9802@f9941": {
+    "url": "db://assets/bundle/common/texture/bg_window.png@f9941",
+    "value": {
+      "depends": [
+        "f9cfbca9-9f35-4dda-8925-64e34e6e9802@6c48a"
+      ]
+    }
+  },
+  "0021cb5a-e4f0-4709-b0b6-5e21875720b7": {
+    "url": "db://assets/bundle/gui/loading/texture/bg.png",
+    "value": {}
+  },
+  "1ac049d7-c899-492a-89a7-4e8d85ce4cb1": {
+    "url": "db://assets/bundle/gui/loading/texture/icon_loading_bar.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a2001856-24f5-4ac7-9309-1207a3210cd8": {
+    "url": "db://assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3d5b607a-face-426b-8200-acf8384108db": {
+    "url": "db://assets/bundle/language/texture/en/image.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "a65eaaec-d315-4134-a79e-23bb817d1939": {
+    "url": "db://assets/bundle/language/texture/zh/image.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "1ac049d7-c899-492a-89a7-4e8d85ce4cb1@6c48a": {
+    "url": "db://assets/bundle/gui/loading/texture/icon_loading_bar.png@6c48a",
+    "value": {
+      "depends": [
+        "1ac049d7-c899-492a-89a7-4e8d85ce4cb1"
+      ]
+    }
+  },
+  "a2001856-24f5-4ac7-9309-1207a3210cd8@6c48a": {
+    "url": "db://assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png@6c48a",
+    "value": {
+      "depends": [
+        "a2001856-24f5-4ac7-9309-1207a3210cd8"
+      ]
+    }
+  },
+  "0021cb5a-e4f0-4709-b0b6-5e21875720b7@6c48a": {
+    "url": "db://assets/bundle/gui/loading/texture/bg.png@6c48a",
+    "value": {
+      "depends": [
+        "0021cb5a-e4f0-4709-b0b6-5e21875720b7"
+      ]
+    }
+  },
+  "3d5b607a-face-426b-8200-acf8384108db@6c48a": {
+    "url": "db://assets/bundle/language/texture/en/image.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3d5b607a-face-426b-8200-acf8384108db"
+      ]
+    }
+  },
+  "a65eaaec-d315-4134-a79e-23bb817d1939@6c48a": {
+    "url": "db://assets/bundle/language/texture/zh/image.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a65eaaec-d315-4134-a79e-23bb817d1939"
+      ]
+    }
+  },
+  "1ac049d7-c899-492a-89a7-4e8d85ce4cb1@f9941": {
+    "url": "db://assets/bundle/gui/loading/texture/icon_loading_bar.png@f9941",
+    "value": {
+      "depends": [
+        "1ac049d7-c899-492a-89a7-4e8d85ce4cb1@6c48a"
+      ]
+    }
+  },
+  "a2001856-24f5-4ac7-9309-1207a3210cd8@f9941": {
+    "url": "db://assets/bundle/gui/loading/texture/panel_loading_bottom_frame.png@f9941",
+    "value": {
+      "depends": [
+        "a2001856-24f5-4ac7-9309-1207a3210cd8@6c48a"
+      ]
+    }
+  },
+  "3d5b607a-face-426b-8200-acf8384108db@f9941": {
+    "url": "db://assets/bundle/language/texture/en/image.jpg@f9941",
+    "value": {
+      "depends": [
+        "3d5b607a-face-426b-8200-acf8384108db@6c48a"
+      ]
+    }
+  },
+  "a65eaaec-d315-4134-a79e-23bb817d1939@f9941": {
+    "url": "db://assets/bundle/language/texture/zh/image.jpg@f9941",
+    "value": {
+      "depends": [
+        "a65eaaec-d315-4134-a79e-23bb817d1939@6c48a"
+      ]
+    }
+  },
+  "0021cb5a-e4f0-4709-b0b6-5e21875720b7@f9941": {
+    "url": "db://assets/bundle/gui/loading/texture/bg.png@f9941",
+    "value": {
+      "depends": [
+        "0021cb5a-e4f0-4709-b0b6-5e21875720b7@6c48a"
+      ]
+    }
+  },
+  "21f8ff85-4a79-4ce6-b234-16abb39bb3a4": {
+    "url": "db://assets/bundle/gui/start/texture",
+    "value": {}
+  },
+  "860feb94-5afc-4ea3-9d5f-24ce06676587": {
+    "url": "db://assets/bundle/gui/start/texture/logo.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c39a38e1-786a-466a-aa24-43c24ef91d69": {
+    "url": "db://assets/bundle/gui/start/texture/start.png",
+    "value": {}
+  },
+  "c39a38e1-786a-466a-aa24-43c24ef91d69@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/start.png@6c48a",
+    "value": {
+      "depends": [
+        "c39a38e1-786a-466a-aa24-43c24ef91d69"
+      ]
+    }
+  },
+  "860feb94-5afc-4ea3-9d5f-24ce06676587@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/logo.png@6c48a",
+    "value": {
+      "depends": [
+        "860feb94-5afc-4ea3-9d5f-24ce06676587"
+      ]
+    }
+  },
+  "860feb94-5afc-4ea3-9d5f-24ce06676587@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/logo.png@f9941",
+    "value": {
+      "depends": [
+        "860feb94-5afc-4ea3-9d5f-24ce06676587@6c48a"
+      ]
+    }
+  },
+  "c39a38e1-786a-466a-aa24-43c24ef91d69@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/start.png@f9941",
+    "value": {
+      "depends": [
+        "c39a38e1-786a-466a-aa24-43c24ef91d69@6c48a"
+      ]
+    }
+  },
+  "a4da8022-fd87-433c-9f28-cd3300bed13d": {
+    "url": "db://assets/script/game/start",
+    "value": {}
+  },
+  "6a5e328d-071f-4408-bb80-7cccbbfe4563": {
+    "url": "db://assets/script/game/start/start.ts",
+    "value": {}
+  },
+  "edfc9ca1-781f-4903-8ddb-39d6166ac244": {
+    "url": "db://assets/script/game/start/Module.ts",
+    "value": {}
+  },
+  "a4ad62ef-ad2d-463d-855f-85af5ccc8a97": {
+    "url": "db://assets/bundle/gui/start/texture/play.prefab",
+    "value": {}
+  },
+  "3f9bac5c-0273-4492-8475-3f6a57168102": {
+    "url": "db://assets/bundle/gui/game/texture",
+    "value": {}
+  },
+  "b42cdaaa-0d53-4529-8823-b75dc068d1ba": {
+    "url": "db://assets/bundle/gui/game/texture/logo.png",
+    "value": {}
+  },
+  "03f788a3-412f-4bb9-bf61-3dd16562d2fc": {
+    "url": "db://assets/bundle/gui/game/texture/start.png",
+    "value": {}
+  },
+  "03f788a3-412f-4bb9-bf61-3dd16562d2fc@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/start.png@6c48a",
+    "value": {
+      "depends": [
+        "03f788a3-412f-4bb9-bf61-3dd16562d2fc"
+      ]
+    }
+  },
+  "b42cdaaa-0d53-4529-8823-b75dc068d1ba@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/logo.png@6c48a",
+    "value": {
+      "depends": [
+        "b42cdaaa-0d53-4529-8823-b75dc068d1ba"
+      ]
+    }
+  },
+  "03f788a3-412f-4bb9-bf61-3dd16562d2fc@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/start.png@f9941",
+    "value": {
+      "depends": [
+        "03f788a3-412f-4bb9-bf61-3dd16562d2fc@6c48a"
+      ]
+    }
+  },
+  "b42cdaaa-0d53-4529-8823-b75dc068d1ba@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/logo.png@f9941",
+    "value": {
+      "depends": [
+        "b42cdaaa-0d53-4529-8823-b75dc068d1ba@6c48a"
+      ]
+    }
+  },
+  "9db78d81-16a1-436f-8f98-afea62ae276f": {
+    "url": "db://assets/bundle/gui/game/game.prefab",
+    "value": {
+      "depends": [
+        "e7848603-0742-4fe3-8889-ed92daf00534@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "10b4a672-ea95-4e8c-ac7b-2efb393a0507@f9941",
+        "e7848603-0742-4fe3-8889-ed92daf00534@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "105e97b1-30f4-40e6-af84-25ac7e1ee9cd@f9941",
+        "b769defd-1e87-4b43-b144-e52736a3fa78@f9941",
+        "b769defd-1e87-4b43-b144-e52736a3fa78@f9941",
+        "b769defd-1e87-4b43-b144-e52736a3fa78@f9941",
+        "b769defd-1e87-4b43-b144-e52736a3fa78@f9941",
+        "b769defd-1e87-4b43-b144-e52736a3fa78@f9941",
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88@f9941",
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88@f9941",
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88@f9941",
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88@f9941",
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "bd549b53-74a8-482d-996e-4f9178c6d158@f9941",
+        "bd549b53-74a8-482d-996e-4f9178c6d158@f9941",
+        "bd549b53-74a8-482d-996e-4f9178c6d158@f9941",
+        "bd549b53-74a8-482d-996e-4f9178c6d158@f9941",
+        "bd549b53-74a8-482d-996e-4f9178c6d158@f9941",
+        "56825443-2c8c-47ce-80bd-271d461bc6f4@f9941",
+        "56825443-2c8c-47ce-80bd-271d461bc6f4@f9941",
+        "56825443-2c8c-47ce-80bd-271d461bc6f4@f9941",
+        "56825443-2c8c-47ce-80bd-271d461bc6f4@f9941",
+        "56825443-2c8c-47ce-80bd-271d461bc6f4@f9941",
+        "d66417ac-96c6-445c-ae01-cde5a86a0c2b@f9941",
+        "374cd4db-5e0d-43a1-9fcc-92cdf01ce374"
+      ]
+    }
+  },
+  "b77846c9-cd3c-4a61-8e26-7be24ae018df": {
+    "url": "db://assets/bundle/gui/game/texture/logo.png",
+    "value": {}
+  },
+  "b77846c9-cd3c-4a61-8e26-7be24ae018df@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/logo.png@6c48a",
+    "value": {
+      "depends": [
+        "b77846c9-cd3c-4a61-8e26-7be24ae018df"
+      ]
+    }
+  },
+  "b77846c9-cd3c-4a61-8e26-7be24ae018df@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/logo.png@f9941",
+    "value": {
+      "depends": [
+        "b77846c9-cd3c-4a61-8e26-7be24ae018df@6c48a"
+      ]
+    }
+  },
+  "bd549b53-74a8-482d-996e-4f9178c6d158": {
+    "url": "db://assets/bundle/gui/game/texture/restart.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bd549b53-74a8-482d-996e-4f9178c6d158@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/restart.png@6c48a",
+    "value": {
+      "depends": [
+        "bd549b53-74a8-482d-996e-4f9178c6d158"
+      ]
+    }
+  },
+  "bd549b53-74a8-482d-996e-4f9178c6d158@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/restart.png@f9941",
+    "value": {
+      "depends": [
+        "bd549b53-74a8-482d-996e-4f9178c6d158@6c48a"
+      ]
+    }
+  },
+  "b769defd-1e87-4b43-b144-e52736a3fa78": {
+    "url": "db://assets/bundle/gui/game/texture/audio.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b769defd-1e87-4b43-b144-e52736a3fa78@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/audio.png@6c48a",
+    "value": {
+      "depends": [
+        "b769defd-1e87-4b43-b144-e52736a3fa78"
+      ]
+    }
+  },
+  "b769defd-1e87-4b43-b144-e52736a3fa78@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/audio.png@f9941",
+    "value": {
+      "depends": [
+        "b769defd-1e87-4b43-b144-e52736a3fa78@6c48a"
+      ]
+    }
+  },
+  "0e0bcbaf-1323-4c5f-aeff-f1df66569327": {
+    "url": "db://assets/bundle/audios",
+    "value": {}
+  },
+  "45e0204f-4bb0-4d52-a1a9-dc62d95be021": {
+    "url": "db://assets/bundle/audios/merge.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "e15f4df0-376c-4a94-aa2e-3e99e3bb371c": {
+    "url": "db://assets/bundle/audios/move.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "c7bdb670-4224-47b1-9799-de2d0ec26c0b": {
+    "url": "db://assets/script/game/main",
+    "value": {}
+  },
+  "d744e0c6-d3bd-49a1-9d4d-af6edb75e100": {
+    "url": "db://assets/script/game/main/game.ts",
+    "value": {}
+  },
+  "d0d4d969-8db9-4024-86e4-527d8b354ead": {
+    "url": "db://assets/bundle/audios/nocturne.mp3",
+    "value": {}
+  },
+  "657b8178-3460-4bc4-abac-bf4a0ae67a88": {
+    "url": "db://assets/bundle/gui/game/texture/mute.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "657b8178-3460-4bc4-abac-bf4a0ae67a88@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/mute.png@6c48a",
+    "value": {
+      "depends": [
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88"
+      ]
+    }
+  },
+  "657b8178-3460-4bc4-abac-bf4a0ae67a88@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/mute.png@f9941",
+    "value": {
+      "depends": [
+        "657b8178-3460-4bc4-abac-bf4a0ae67a88@6c48a"
+      ]
+    }
+  },
+  "65686cc5-cf25-46bd-941a-7cbf6f18acf3": {
+    "url": "db://assets/bundle/gui/game/block.prefab",
+    "value": {}
+  },
+  "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00": {
+    "url": "db://assets/bundle/gui/game/texture/mask.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/mask.png@6c48a",
+    "value": {
+      "depends": [
+        "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00"
+      ]
+    }
+  },
+  "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/mask.png@f9941",
+    "value": {
+      "depends": [
+        "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00@6c48a"
+      ]
+    }
+  },
+  "374cd4db-5e0d-43a1-9fcc-92cdf01ce374": {
+    "url": "db://assets/bundle/gui/game/block.prefab",
+    "value": {
+      "depends": [
+        "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "c1fd17ee-c42d-4e40-8a72-6846b6ca3e00@f9941",
+        "1b41aa80-6bd1-4917-b80a-e5f2711e17a8@f9941",
+        "896cbe9d-ea5b-4739-b19a-5eae3afc73e5@f9941",
+        "8bd56246-f765-409b-ad1c-9c96d58e6983@f9941",
+        "4f75d973-0f21-48e2-a95b-6c013e2222ca@f9941",
+        "09ecd061-feb9-42c4-84c4-4a0c832f671c@f9941",
+        "502f1b1f-8ce4-48f3-a88e-5a735c461acb@f9941",
+        "60664d8b-e742-4a27-b232-2a28ec0f55f0@f9941",
+        "d4ce22ac-208e-4c88-b7a6-16e59e71fda6@f9941",
+        "757838f8-cdef-4c51-83d0-82fee6fb6df2@f9941",
+        "c219e32e-2916-4bda-8cef-2cd5e639f236@f9941",
+        "3717dd1a-8821-4c2f-b5b1-755a05c06bc4@f9941",
+        "1e93356e-5376-4b7c-bfa7-532cbda9ed0b@f9941",
+        "21a0bd37-ed72-4b3f-af81-5f351f048306@f9941",
+        "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906@f9941",
+        "675cad25-2d95-413d-8da8-8621b79ccfbf@f9941",
+        "50be76da-3b08-47fb-9c51-4a05fa2a85a0@f9941",
+        "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7@f9941"
+      ]
+    }
+  },
+  "19bddfca-b13b-4e28-8e38-721acbf0842f": {
+    "url": "db://assets/script/game/main/blockCtr.ts",
+    "value": {}
+  },
+  "fba0b415-55c1-4e95-84f3-a568acf1ce74": {
+    "url": "db://assets/bundle/gui/gameover/gameover.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456@f9941",
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456@f9941",
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456@f9941",
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456@f9941",
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456@f9941",
+        "ebfec32d-d481-43a3-a7a2-e0a1035364c9@f9941"
+      ]
+    }
+  },
+  "bdf7ba15-08e7-4087-ad0c-321770c36b5c": {
+    "url": "db://assets/bundle/gui/game/texture/cover.png",
+    "value": {}
+  },
+  "bdf7ba15-08e7-4087-ad0c-321770c36b5c@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/cover.png@6c48a",
+    "value": {
+      "depends": [
+        "bdf7ba15-08e7-4087-ad0c-321770c36b5c"
+      ]
+    }
+  },
+  "bdf7ba15-08e7-4087-ad0c-321770c36b5c@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/cover.png@f9941",
+    "value": {
+      "depends": [
+        "bdf7ba15-08e7-4087-ad0c-321770c36b5c@6c48a"
+      ]
+    }
+  },
+  "ebfec32d-d481-43a3-a7a2-e0a1035364c9": {
+    "url": "db://assets/bundle/gui/gameover/texture/end.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ebfec32d-d481-43a3-a7a2-e0a1035364c9@6c48a": {
+    "url": "db://assets/bundle/gui/gameover/texture/end.png@6c48a",
+    "value": {
+      "depends": [
+        "ebfec32d-d481-43a3-a7a2-e0a1035364c9"
+      ]
+    }
+  },
+  "ebfec32d-d481-43a3-a7a2-e0a1035364c9@f9941": {
+    "url": "db://assets/bundle/gui/gameover/texture/end.png@f9941",
+    "value": {
+      "depends": [
+        "ebfec32d-d481-43a3-a7a2-e0a1035364c9@6c48a"
+      ]
+    }
+  },
+  "25368c3a-2c8b-4481-bc0e-4a1adc31093a": {
+    "url": "db://assets/script/game/main/gameover.ts",
+    "value": {}
+  },
+  "4e04435b-8879-4f78-9114-21d89189a7b9": {
+    "url": "db://assets/bundle/language/font",
+    "value": {}
+  },
+  "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c": {
+    "url": "db://assets/bundle/language/font/Alibaba-PuHuiTi-Heavy.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "e15d79c4-e877-4ee3-9b08-a91a22d8d305": {
+    "url": "db://assets/bundle/language/font/Alibaba-PuHuiTi-Bold.ttf",
+    "value": {}
+  },
+  "68bbbd01-8c01-4e42-8c3c-bc7479de3792": {
+    "url": "db://assets/bundle/language/font/Alibaba-PuHuiTi-Light.ttf",
+    "value": {}
+  },
+  "39b4e44c-48ef-4376-a32d-f5662fbde8d7": {
+    "url": "db://assets/bundle/language/font/Alibaba-PuHuiTi-Medium.ttf",
+    "value": {}
+  },
+  "8b7efee6-823b-4607-bbb3-1263d380ad6c": {
+    "url": "db://assets/bundle/language/font/Alibaba-PuHuiTi-Regular.ttf",
+    "value": {}
+  },
+  "ba9c5b49-8dfe-4463-acdf-9b24551adfc4": {
+    "url": "db://assets/bundle/gui/common/texture/bg_1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba9c5b49-8dfe-4463-acdf-9b24551adfc4@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/bg_1.png@6c48a",
+    "value": {
+      "depends": [
+        "ba9c5b49-8dfe-4463-acdf-9b24551adfc4"
+      ]
+    }
+  },
+  "4482018a-51ca-44a0-80b5-3d325619e841": {
+    "url": "db://assets/bundle/gui/loading/texture/loading_logo.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4482018a-51ca-44a0-80b5-3d325619e841@6c48a": {
+    "url": "db://assets/bundle/gui/loading/texture/loading_logo.png@6c48a",
+    "value": {
+      "depends": [
+        "4482018a-51ca-44a0-80b5-3d325619e841"
+      ]
+    }
+  },
+  "ba9c5b49-8dfe-4463-acdf-9b24551adfc4@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/bg_1.png@f9941",
+    "value": {
+      "depends": [
+        "ba9c5b49-8dfe-4463-acdf-9b24551adfc4@6c48a"
+      ]
+    }
+  },
+  "4482018a-51ca-44a0-80b5-3d325619e841@f9941": {
+    "url": "db://assets/bundle/gui/loading/texture/loading_logo.png@f9941",
+    "value": {
+      "depends": [
+        "4482018a-51ca-44a0-80b5-3d325619e841@6c48a"
+      ]
+    }
+  },
+  "b0d66969-c28b-450a-8a6f-2ac7142df120": {
+    "url": "db://assets/bundle/gui/common",
+    "value": {}
+  },
+  "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673": {
+    "url": "db://assets/bundle/gui/common/texture/bg_2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/bg_2.png@6c48a",
+    "value": {
+      "depends": [
+        "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673"
+      ]
+    }
+  },
+  "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/bg_2.png@f9941",
+    "value": {
+      "depends": [
+        "28d2a0b4-5a7f-468e-b423-c0f0bfdcb673@6c48a"
+      ]
+    }
+  },
+  "28146bfb-0afe-47cd-8f96-78b362fd750d": {
+    "url": "db://assets/bundle/gui/start/texture/dan.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "28146bfb-0afe-47cd-8f96-78b362fd750d@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/dan.png@6c48a",
+    "value": {
+      "depends": [
+        "28146bfb-0afe-47cd-8f96-78b362fd750d"
+      ]
+    }
+  },
+  "cedb646c-8ab3-42cc-a8e7-acdab028157a": {
+    "url": "db://assets/bundle/gui/start/texture/btn_start.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cedb646c-8ab3-42cc-a8e7-acdab028157a@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/btn_start.png@6c48a",
+    "value": {
+      "depends": [
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a"
+      ]
+    }
+  },
+  "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525": {
+    "url": "db://assets/bundle/gui/start/texture/frame.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/frame.png@6c48a",
+    "value": {
+      "depends": [
+        "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525"
+      ]
+    }
+  },
+  "0d6b709b-eae3-414e-8324-9e04528cd39d": {
+    "url": "db://assets/bundle/gui/start/texture/roll_down.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0d6b709b-eae3-414e-8324-9e04528cd39d@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/roll_down.png@6c48a",
+    "value": {
+      "depends": [
+        "0d6b709b-eae3-414e-8324-9e04528cd39d"
+      ]
+    }
+  },
+  "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a": {
+    "url": "db://assets/bundle/gui/start/texture/roll_up.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/roll_up.png@6c48a",
+    "value": {
+      "depends": [
+        "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a"
+      ]
+    }
+  },
+  "cedb646c-8ab3-42cc-a8e7-acdab028157a@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/btn_start.png@f9941",
+    "value": {
+      "depends": [
+        "cedb646c-8ab3-42cc-a8e7-acdab028157a@6c48a"
+      ]
+    }
+  },
+  "28146bfb-0afe-47cd-8f96-78b362fd750d@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/dan.png@f9941",
+    "value": {
+      "depends": [
+        "28146bfb-0afe-47cd-8f96-78b362fd750d@6c48a"
+      ]
+    }
+  },
+  "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/frame.png@f9941",
+    "value": {
+      "depends": [
+        "1dbd5d5e-4ccf-4c78-8e73-2ea1f8590525@6c48a"
+      ]
+    }
+  },
+  "0d6b709b-eae3-414e-8324-9e04528cd39d@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/roll_down.png@f9941",
+    "value": {
+      "depends": [
+        "0d6b709b-eae3-414e-8324-9e04528cd39d@6c48a"
+      ]
+    }
+  },
+  "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/roll_up.png@f9941",
+    "value": {
+      "depends": [
+        "c94f1c83-8e11-42cc-ad82-3b04a25c2c1a@6c48a"
+      ]
+    }
+  },
+  "1b41aa80-6bd1-4917-b80a-e5f2711e17a8": {
+    "url": "db://assets/bundle/gui/game/texture/2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1b41aa80-6bd1-4917-b80a-e5f2711e17a8@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/2.png@6c48a",
+    "value": {
+      "depends": [
+        "1b41aa80-6bd1-4917-b80a-e5f2711e17a8"
+      ]
+    }
+  },
+  "896cbe9d-ea5b-4739-b19a-5eae3afc73e5": {
+    "url": "db://assets/bundle/gui/game/texture/4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "896cbe9d-ea5b-4739-b19a-5eae3afc73e5@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/4.png@6c48a",
+    "value": {
+      "depends": [
+        "896cbe9d-ea5b-4739-b19a-5eae3afc73e5"
+      ]
+    }
+  },
+  "8bd56246-f765-409b-ad1c-9c96d58e6983": {
+    "url": "db://assets/bundle/gui/game/texture/8.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8bd56246-f765-409b-ad1c-9c96d58e6983@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/8.png@6c48a",
+    "value": {
+      "depends": [
+        "8bd56246-f765-409b-ad1c-9c96d58e6983"
+      ]
+    }
+  },
+  "4f75d973-0f21-48e2-a95b-6c013e2222ca": {
+    "url": "db://assets/bundle/gui/game/texture/16.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4f75d973-0f21-48e2-a95b-6c013e2222ca@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/16.png@6c48a",
+    "value": {
+      "depends": [
+        "4f75d973-0f21-48e2-a95b-6c013e2222ca"
+      ]
+    }
+  },
+  "09ecd061-feb9-42c4-84c4-4a0c832f671c": {
+    "url": "db://assets/bundle/gui/game/texture/32.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "09ecd061-feb9-42c4-84c4-4a0c832f671c@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/32.png@6c48a",
+    "value": {
+      "depends": [
+        "09ecd061-feb9-42c4-84c4-4a0c832f671c"
+      ]
+    }
+  },
+  "502f1b1f-8ce4-48f3-a88e-5a735c461acb": {
+    "url": "db://assets/bundle/gui/game/texture/64.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "502f1b1f-8ce4-48f3-a88e-5a735c461acb@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/64.png@6c48a",
+    "value": {
+      "depends": [
+        "502f1b1f-8ce4-48f3-a88e-5a735c461acb"
+      ]
+    }
+  },
+  "60664d8b-e742-4a27-b232-2a28ec0f55f0": {
+    "url": "db://assets/bundle/gui/game/texture/128.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "60664d8b-e742-4a27-b232-2a28ec0f55f0@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/128.png@6c48a",
+    "value": {
+      "depends": [
+        "60664d8b-e742-4a27-b232-2a28ec0f55f0"
+      ]
+    }
+  },
+  "d4ce22ac-208e-4c88-b7a6-16e59e71fda6": {
+    "url": "db://assets/bundle/gui/game/texture/256.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d4ce22ac-208e-4c88-b7a6-16e59e71fda6@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/256.png@6c48a",
+    "value": {
+      "depends": [
+        "d4ce22ac-208e-4c88-b7a6-16e59e71fda6"
+      ]
+    }
+  },
+  "757838f8-cdef-4c51-83d0-82fee6fb6df2": {
+    "url": "db://assets/bundle/gui/game/texture/512.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "757838f8-cdef-4c51-83d0-82fee6fb6df2@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/512.png@6c48a",
+    "value": {
+      "depends": [
+        "757838f8-cdef-4c51-83d0-82fee6fb6df2"
+      ]
+    }
+  },
+  "c219e32e-2916-4bda-8cef-2cd5e639f236": {
+    "url": "db://assets/bundle/gui/game/texture/1024.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c219e32e-2916-4bda-8cef-2cd5e639f236@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/1024.png@6c48a",
+    "value": {
+      "depends": [
+        "c219e32e-2916-4bda-8cef-2cd5e639f236"
+      ]
+    }
+  },
+  "3717dd1a-8821-4c2f-b5b1-755a05c06bc4": {
+    "url": "db://assets/bundle/gui/game/texture/2048.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3717dd1a-8821-4c2f-b5b1-755a05c06bc4@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/2048.png@6c48a",
+    "value": {
+      "depends": [
+        "3717dd1a-8821-4c2f-b5b1-755a05c06bc4"
+      ]
+    }
+  },
+  "e7848603-0742-4fe3-8889-ed92daf00534": {
+    "url": "db://assets/bundle/gui/game/texture/quan.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e7848603-0742-4fe3-8889-ed92daf00534@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/quan.png@6c48a",
+    "value": {
+      "depends": [
+        "e7848603-0742-4fe3-8889-ed92daf00534"
+      ]
+    }
+  },
+  "105e97b1-30f4-40e6-af84-25ac7e1ee9cd": {
+    "url": "db://assets/bundle/gui/game/texture/best.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "105e97b1-30f4-40e6-af84-25ac7e1ee9cd@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/best.png@6c48a",
+    "value": {
+      "depends": [
+        "105e97b1-30f4-40e6-af84-25ac7e1ee9cd"
+      ]
+    }
+  },
+  "10b4a672-ea95-4e8c-ac7b-2efb393a0507": {
+    "url": "db://assets/bundle/gui/game/texture/score.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "10b4a672-ea95-4e8c-ac7b-2efb393a0507@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/score.png@6c48a",
+    "value": {
+      "depends": [
+        "10b4a672-ea95-4e8c-ac7b-2efb393a0507"
+      ]
+    }
+  },
+  "56825443-2c8c-47ce-80bd-271d461bc6f4": {
+    "url": "db://assets/bundle/gui/game/texture/set.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "56825443-2c8c-47ce-80bd-271d461bc6f4@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/set.png@6c48a",
+    "value": {
+      "depends": [
+        "56825443-2c8c-47ce-80bd-271d461bc6f4"
+      ]
+    }
+  },
+  "7a0cf7d9-c1b4-49e7-a81d-9dab38f055ca": {
+    "url": "db://assets/bundle/gui/game/texture/auto-atlas.pac",
+    "value": {}
+  },
+  "1b41aa80-6bd1-4917-b80a-e5f2711e17a8@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/2.png@f9941",
+    "value": {
+      "depends": [
+        "1b41aa80-6bd1-4917-b80a-e5f2711e17a8@6c48a"
+      ]
+    }
+  },
+  "4f75d973-0f21-48e2-a95b-6c013e2222ca@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/16.png@f9941",
+    "value": {
+      "depends": [
+        "4f75d973-0f21-48e2-a95b-6c013e2222ca@6c48a"
+      ]
+    }
+  },
+  "8bd56246-f765-409b-ad1c-9c96d58e6983@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/8.png@f9941",
+    "value": {
+      "depends": [
+        "8bd56246-f765-409b-ad1c-9c96d58e6983@6c48a"
+      ]
+    }
+  },
+  "896cbe9d-ea5b-4739-b19a-5eae3afc73e5@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/4.png@f9941",
+    "value": {
+      "depends": [
+        "896cbe9d-ea5b-4739-b19a-5eae3afc73e5@6c48a"
+      ]
+    }
+  },
+  "09ecd061-feb9-42c4-84c4-4a0c832f671c@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/32.png@f9941",
+    "value": {
+      "depends": [
+        "09ecd061-feb9-42c4-84c4-4a0c832f671c@6c48a"
+      ]
+    }
+  },
+  "60664d8b-e742-4a27-b232-2a28ec0f55f0@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/128.png@f9941",
+    "value": {
+      "depends": [
+        "60664d8b-e742-4a27-b232-2a28ec0f55f0@6c48a"
+      ]
+    }
+  },
+  "502f1b1f-8ce4-48f3-a88e-5a735c461acb@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/64.png@f9941",
+    "value": {
+      "depends": [
+        "502f1b1f-8ce4-48f3-a88e-5a735c461acb@6c48a"
+      ]
+    }
+  },
+  "d4ce22ac-208e-4c88-b7a6-16e59e71fda6@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/256.png@f9941",
+    "value": {
+      "depends": [
+        "d4ce22ac-208e-4c88-b7a6-16e59e71fda6@6c48a"
+      ]
+    }
+  },
+  "757838f8-cdef-4c51-83d0-82fee6fb6df2@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/512.png@f9941",
+    "value": {
+      "depends": [
+        "757838f8-cdef-4c51-83d0-82fee6fb6df2@6c48a"
+      ]
+    }
+  },
+  "c219e32e-2916-4bda-8cef-2cd5e639f236@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/1024.png@f9941",
+    "value": {
+      "depends": [
+        "c219e32e-2916-4bda-8cef-2cd5e639f236@6c48a"
+      ]
+    }
+  },
+  "3717dd1a-8821-4c2f-b5b1-755a05c06bc4@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/2048.png@f9941",
+    "value": {
+      "depends": [
+        "3717dd1a-8821-4c2f-b5b1-755a05c06bc4@6c48a"
+      ]
+    }
+  },
+  "105e97b1-30f4-40e6-af84-25ac7e1ee9cd@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/best.png@f9941",
+    "value": {
+      "depends": [
+        "105e97b1-30f4-40e6-af84-25ac7e1ee9cd@6c48a"
+      ]
+    }
+  },
+  "e7848603-0742-4fe3-8889-ed92daf00534@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/quan.png@f9941",
+    "value": {
+      "depends": [
+        "e7848603-0742-4fe3-8889-ed92daf00534@6c48a"
+      ]
+    }
+  },
+  "10b4a672-ea95-4e8c-ac7b-2efb393a0507@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/score.png@f9941",
+    "value": {
+      "depends": [
+        "10b4a672-ea95-4e8c-ac7b-2efb393a0507@6c48a"
+      ]
+    }
+  },
+  "56825443-2c8c-47ce-80bd-271d461bc6f4@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/set.png@f9941",
+    "value": {
+      "depends": [
+        "56825443-2c8c-47ce-80bd-271d461bc6f4@6c48a"
+      ]
+    }
+  },
+  "e21429d6-59ed-421b-930f-4b4328cbe88a": {
+    "url": "db://assets/bundle/gui/game/texture/egg_bg.pac",
+    "value": {}
+  },
+  "69e1e264-93fd-4c0d-8738-994bf33f257a": {
+    "url": "db://assets/bundle/gui/gameover",
+    "value": {}
+  },
+  "3ee9871a-2aa4-4f4f-88a2-212dc46be97a": {
+    "url": "db://assets/bundle/gui/gameover/texture",
+    "value": {}
+  },
+  "eef52e31-aa62-41d9-9eb2-f4771d887e5a": {
+    "url": "db://assets/bundle/resources/2.png",
+    "value": {}
+  },
+  "eef52e31-aa62-41d9-9eb2-f4771d887e5a@6c48a": {
+    "url": "db://assets/bundle/resources/2.png@6c48a",
+    "value": {
+      "depends": [
+        "eef52e31-aa62-41d9-9eb2-f4771d887e5a"
+      ]
+    }
+  },
+  "eef52e31-aa62-41d9-9eb2-f4771d887e5a@f9941": {
+    "url": "db://assets/bundle/resources/2.png@f9941",
+    "value": {
+      "depends": [
+        "eef52e31-aa62-41d9-9eb2-f4771d887e5a@6c48a"
+      ]
+    }
+  },
+  "9f1eac7b-ff58-4f12-ba0d-6bc977c6895e": {
+    "url": "db://assets/bundle/resources",
+    "value": {}
+  },
+  "30b34a86-9dcc-450b-88cc-27af73a2ae6b": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "30b34a86-9dcc-450b-88cc-27af73a2ae6b@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png@6c48a",
+    "value": {
+      "depends": [
+        "30b34a86-9dcc-450b-88cc-27af73a2ae6b"
+      ]
+    }
+  },
+  "642e5b2a-5126-419a-8158-2b3bce7a81e9": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "642e5b2a-5126-419a-8158-2b3bce7a81e9@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png@6c48a",
+    "value": {
+      "depends": [
+        "642e5b2a-5126-419a-8158-2b3bce7a81e9"
+      ]
+    }
+  },
+  "de0ff62b-ce9f-4dec-8bbe-1e800b5c5d87": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "de0ff62b-ce9f-4dec-8bbe-1e800b5c5d87@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png@6c48a",
+    "value": {
+      "depends": [
+        "de0ff62b-ce9f-4dec-8bbe-1e800b5c5d87"
+      ]
+    }
+  },
+  "9e080712-b61b-416f-8e0a-c68ffc4ecf3e": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9e080712-b61b-416f-8e0a-c68ffc4ecf3e@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png@6c48a",
+    "value": {
+      "depends": [
+        "9e080712-b61b-416f-8e0a-c68ffc4ecf3e"
+      ]
+    }
+  },
+  "0ed1e883-ef99-4c0b-a052-7c336793dec2": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ed1e883-ef99-4c0b-a052-7c336793dec2@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png@6c48a",
+    "value": {
+      "depends": [
+        "0ed1e883-ef99-4c0b-a052-7c336793dec2"
+      ]
+    }
+  },
+  "be2efab4-d9e4-476c-9dab-6fd4e2c26c19": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "be2efab4-d9e4-476c-9dab-6fd4e2c26c19@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png@6c48a",
+    "value": {
+      "depends": [
+        "be2efab4-d9e4-476c-9dab-6fd4e2c26c19"
+      ]
+    }
+  },
+  "665e574e-2f15-4e2c-855f-1bb3072359a6": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png",
+    "value": {}
+  },
+  "13a7c622-b19b-43f0-9ae7-edd34b835997": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png",
+    "value": {}
+  },
+  "18a3fadb-8912-473f-9348-d86d54ca9b38": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png",
+    "value": {}
+  },
+  "1850bc63-1241-4b81-87d0-6795361d81b4": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png",
+    "value": {}
+  },
+  "c2e51b5c-8a54-4400-a382-a2debc06afee": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png",
+    "value": {}
+  },
+  "18a3fadb-8912-473f-9348-d86d54ca9b38@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png@6c48a",
+    "value": {
+      "depends": [
+        "18a3fadb-8912-473f-9348-d86d54ca9b38"
+      ]
+    }
+  },
+  "13a7c622-b19b-43f0-9ae7-edd34b835997@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png@6c48a",
+    "value": {
+      "depends": [
+        "13a7c622-b19b-43f0-9ae7-edd34b835997"
+      ]
+    }
+  },
+  "5e30f61a-cac7-4a1b-bcb8-8cfc26730158": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png",
+    "value": {}
+  },
+  "665e574e-2f15-4e2c-855f-1bb3072359a6@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png@6c48a",
+    "value": {
+      "depends": [
+        "665e574e-2f15-4e2c-855f-1bb3072359a6"
+      ]
+    }
+  },
+  "c2e51b5c-8a54-4400-a382-a2debc06afee@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png@6c48a",
+    "value": {
+      "depends": [
+        "c2e51b5c-8a54-4400-a382-a2debc06afee"
+      ]
+    }
+  },
+  "1850bc63-1241-4b81-87d0-6795361d81b4@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png@6c48a",
+    "value": {
+      "depends": [
+        "1850bc63-1241-4b81-87d0-6795361d81b4"
+      ]
+    }
+  },
+  "5e30f61a-cac7-4a1b-bcb8-8cfc26730158@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png@6c48a",
+    "value": {
+      "depends": [
+        "5e30f61a-cac7-4a1b-bcb8-8cfc26730158"
+      ]
+    }
+  },
+  "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png@6c48a",
+    "value": {
+      "depends": [
+        "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906"
+      ]
+    }
+  },
+  "21a0bd37-ed72-4b3f-af81-5f351f048306": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "21a0bd37-ed72-4b3f-af81-5f351f048306@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png@6c48a",
+    "value": {
+      "depends": [
+        "21a0bd37-ed72-4b3f-af81-5f351f048306"
+      ]
+    }
+  },
+  "675cad25-2d95-413d-8da8-8621b79ccfbf": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "675cad25-2d95-413d-8da8-8621b79ccfbf@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png@6c48a",
+    "value": {
+      "depends": [
+        "675cad25-2d95-413d-8da8-8621b79ccfbf"
+      ]
+    }
+  },
+  "1e93356e-5376-4b7c-bfa7-532cbda9ed0b": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1e93356e-5376-4b7c-bfa7-532cbda9ed0b@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png@6c48a",
+    "value": {
+      "depends": [
+        "1e93356e-5376-4b7c-bfa7-532cbda9ed0b"
+      ]
+    }
+  },
+  "50be76da-3b08-47fb-9c51-4a05fa2a85a0": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "50be76da-3b08-47fb-9c51-4a05fa2a85a0@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png@6c48a",
+    "value": {
+      "depends": [
+        "50be76da-3b08-47fb-9c51-4a05fa2a85a0"
+      ]
+    }
+  },
+  "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7@6c48a": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png@6c48a",
+    "value": {
+      "depends": [
+        "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7"
+      ]
+    }
+  },
+  "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/16384.png@f9941",
+    "value": {
+      "depends": [
+        "4325c1e5-d6c5-4b33-9cc4-ab26e6d16906@6c48a"
+      ]
+    }
+  },
+  "675cad25-2d95-413d-8da8-8621b79ccfbf@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/32768.png@f9941",
+    "value": {
+      "depends": [
+        "675cad25-2d95-413d-8da8-8621b79ccfbf@6c48a"
+      ]
+    }
+  },
+  "1e93356e-5376-4b7c-bfa7-532cbda9ed0b@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/4096.png@f9941",
+    "value": {
+      "depends": [
+        "1e93356e-5376-4b7c-bfa7-532cbda9ed0b@6c48a"
+      ]
+    }
+  },
+  "21a0bd37-ed72-4b3f-af81-5f351f048306@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/8192.png@f9941",
+    "value": {
+      "depends": [
+        "21a0bd37-ed72-4b3f-af81-5f351f048306@6c48a"
+      ]
+    }
+  },
+  "50be76da-3b08-47fb-9c51-4a05fa2a85a0@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/65536.png@f9941",
+    "value": {
+      "depends": [
+        "50be76da-3b08-47fb-9c51-4a05fa2a85a0@6c48a"
+      ]
+    }
+  },
+  "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7@f9941": {
+    "url": "db://assets/bundle/gui/game/texture/131072.png@f9941",
+    "value": {
+      "depends": [
+        "2bac7fc6-fb2a-4000-8d62-f9f01f85c0a7@6c48a"
+      ]
+    }
+  },
+  "b92e2883-54cb-43a7-b1c8-2b380ce46456": {
+    "url": "db://assets/bundle/gui/gameover/texture/restrat.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b92e2883-54cb-43a7-b1c8-2b380ce46456@6c48a": {
+    "url": "db://assets/bundle/gui/gameover/texture/restrat.png@6c48a",
+    "value": {
+      "depends": [
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456"
+      ]
+    }
+  },
+  "b92e2883-54cb-43a7-b1c8-2b380ce46456@f9941": {
+    "url": "db://assets/bundle/gui/gameover/texture/restrat.png@f9941",
+    "value": {
+      "depends": [
+        "b92e2883-54cb-43a7-b1c8-2b380ce46456@6c48a"
+      ]
+    }
+  },
+  "d66417ac-96c6-445c-ae01-cde5a86a0c2b": {
+    "url": "db://assets/bundle/gui/common/texture/bg_3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d66417ac-96c6-445c-ae01-cde5a86a0c2b@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/bg_3.png@6c48a",
+    "value": {
+      "depends": [
+        "d66417ac-96c6-445c-ae01-cde5a86a0c2b"
+      ]
+    }
+  },
+  "d66417ac-96c6-445c-ae01-cde5a86a0c2b@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/bg_3.png@f9941",
+    "value": {
+      "depends": [
+        "d66417ac-96c6-445c-ae01-cde5a86a0c2b@6c48a"
+      ]
+    }
+  },
+  "8bdc25f3-c268-45f9-a742-c01f5004cc56": {
+    "url": "db://assets/bundle/gui/setting",
+    "value": {}
+  },
+  "6b9f83f3-51e2-4d2b-b4da-3cef8aab2f82": {
+    "url": "db://assets/bundle/gui/setting/texture",
+    "value": {}
+  },
+  "f38ee660-66c7-4485-a8b8-9a00d5e7d396": {
+    "url": "db://assets/bundle/gui/common/switch_button.prefab",
+    "value": {
+      "depends": [
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941",
+        "25030565-5712-408b-ac9c-1f0e7bae6290@f9941",
+        "de4d8cdb-0ff3-41a0-88e9-544c46cf4621@f9941",
+        "de4d8cdb-0ff3-41a0-88e9-544c46cf4621@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "87bcd117-3f3e-4157-8bee-4c2641aad01c@f9941",
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941",
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941",
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941",
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941",
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941",
+        "de4d8cdb-0ff3-41a0-88e9-544c46cf4621@f9941"
+      ]
+    }
+  },
+  "e8612e7a-9dda-43b5-82c4-6c9d3682c442": {
+    "url": "db://assets/script/game/common/buttonEx",
+    "value": {}
+  },
+  "8bba48a1-c9b7-4d3c-af6f-4e96bbb9b9c9": {
+    "url": "db://assets/script/game/common/buttonEx/SwitchController.ts",
+    "value": {}
+  },
+  "1b704e4a-5868-4b8f-ae1b-2552c607cc87": {
+    "url": "db://assets/bundle/gui/common/texture",
+    "value": {}
+  },
+  "ab7aaff6-bff9-404e-84ef-2ba5759a6da7": {
+    "url": "db://assets/bundle/gui/setting/setting.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@f9941",
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@f9941",
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@f9941",
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@f9941",
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "f38ee660-66c7-4485-a8b8-9a00d5e7d396",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217@f9941",
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217@f9941",
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217@f9941",
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217@f9941",
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941",
+        "900826c3-b6f4-4002-8a83-fc15ab5a3c45@f9941"
+      ]
+    }
+  },
+  "47d910a9-7333-4ecb-9d81-633c7bf7a217": {
+    "url": "db://assets/bundle/gui/setting/texture/btn_save.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "47d910a9-7333-4ecb-9d81-633c7bf7a217@6c48a": {
+    "url": "db://assets/bundle/gui/setting/texture/btn_save.png@6c48a",
+    "value": {
+      "depends": [
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217"
+      ]
+    }
+  },
+  "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4": {
+    "url": "db://assets/bundle/gui/setting/texture/img_arrow.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4@6c48a": {
+    "url": "db://assets/bundle/gui/setting/texture/img_arrow.png@6c48a",
+    "value": {
+      "depends": [
+        "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4"
+      ]
+    }
+  },
+  "25030565-5712-408b-ac9c-1f0e7bae6290": {
+    "url": "db://assets/bundle/gui/common/texture/img_off.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "25030565-5712-408b-ac9c-1f0e7bae6290@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/img_off.png@6c48a",
+    "value": {
+      "depends": [
+        "25030565-5712-408b-ac9c-1f0e7bae6290"
+      ]
+    }
+  },
+  "87bcd117-3f3e-4157-8bee-4c2641aad01c": {
+    "url": "db://assets/bundle/gui/common/texture/img_on.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "87bcd117-3f3e-4157-8bee-4c2641aad01c@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/img_on.png@6c48a",
+    "value": {
+      "depends": [
+        "87bcd117-3f3e-4157-8bee-4c2641aad01c"
+      ]
+    }
+  },
+  "bc1351f5-3476-4f71-832f-0d0d574ebac6": {
+    "url": "db://assets/bundle/gui/setting/texture/item_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bc1351f5-3476-4f71-832f-0d0d574ebac6@6c48a": {
+    "url": "db://assets/bundle/gui/setting/texture/item_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6"
+      ]
+    }
+  },
+  "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8": {
+    "url": "db://assets/bundle/gui/setting/texture/close.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@6c48a": {
+    "url": "db://assets/bundle/gui/setting/texture/close.png@6c48a",
+    "value": {
+      "depends": [
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8"
+      ]
+    }
+  },
+  "fa37605a-ca2d-4fa7-9671-f2295c8a6b51": {
+    "url": "db://assets/bundle/gui/setting/texture/list_item.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@6c48a": {
+    "url": "db://assets/bundle/gui/setting/texture/list_item.png@6c48a",
+    "value": {
+      "depends": [
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51"
+      ]
+    }
+  },
+  "de4d8cdb-0ff3-41a0-88e9-544c46cf4621": {
+    "url": "db://assets/bundle/gui/common/texture/switch_off.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "de4d8cdb-0ff3-41a0-88e9-544c46cf4621@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/switch_off.png@6c48a",
+    "value": {
+      "depends": [
+        "de4d8cdb-0ff3-41a0-88e9-544c46cf4621"
+      ]
+    }
+  },
+  "900826c3-b6f4-4002-8a83-fc15ab5a3c45": {
+    "url": "db://assets/bundle/gui/setting/texture/setting_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "900826c3-b6f4-4002-8a83-fc15ab5a3c45@6c48a": {
+    "url": "db://assets/bundle/gui/setting/texture/setting_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "900826c3-b6f4-4002-8a83-fc15ab5a3c45"
+      ]
+    }
+  },
+  "2223c74d-8c44-4dc4-bf13-a510ecce3627": {
+    "url": "db://assets/bundle/gui/common/texture/switch_on.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2223c74d-8c44-4dc4-bf13-a510ecce3627@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/switch_on.png@6c48a",
+    "value": {
+      "depends": [
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627"
+      ]
+    }
+  },
+  "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4@f9941": {
+    "url": "db://assets/bundle/gui/setting/texture/img_arrow.png@f9941",
+    "value": {
+      "depends": [
+        "d2d2185d-7abe-4f0c-85c1-ebf9f5a1f0d4@6c48a"
+      ]
+    }
+  },
+  "25030565-5712-408b-ac9c-1f0e7bae6290@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/img_off.png@f9941",
+    "value": {
+      "depends": [
+        "25030565-5712-408b-ac9c-1f0e7bae6290@6c48a"
+      ]
+    }
+  },
+  "47d910a9-7333-4ecb-9d81-633c7bf7a217@f9941": {
+    "url": "db://assets/bundle/gui/setting/texture/btn_save.png@f9941",
+    "value": {
+      "depends": [
+        "47d910a9-7333-4ecb-9d81-633c7bf7a217@6c48a"
+      ]
+    }
+  },
+  "87bcd117-3f3e-4157-8bee-4c2641aad01c@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/img_on.png@f9941",
+    "value": {
+      "depends": [
+        "87bcd117-3f3e-4157-8bee-4c2641aad01c@6c48a"
+      ]
+    }
+  },
+  "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@f9941": {
+    "url": "db://assets/bundle/gui/setting/texture/close.png@f9941",
+    "value": {
+      "depends": [
+        "1cf8d9f9-0fe9-4937-86ae-a6c479438ba8@6c48a"
+      ]
+    }
+  },
+  "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@f9941": {
+    "url": "db://assets/bundle/gui/setting/texture/list_item.png@f9941",
+    "value": {
+      "depends": [
+        "fa37605a-ca2d-4fa7-9671-f2295c8a6b51@6c48a"
+      ]
+    }
+  },
+  "bc1351f5-3476-4f71-832f-0d0d574ebac6@f9941": {
+    "url": "db://assets/bundle/gui/setting/texture/item_bg.png@f9941",
+    "value": {
+      "depends": [
+        "bc1351f5-3476-4f71-832f-0d0d574ebac6@6c48a"
+      ]
+    }
+  },
+  "de4d8cdb-0ff3-41a0-88e9-544c46cf4621@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/switch_off.png@f9941",
+    "value": {
+      "depends": [
+        "de4d8cdb-0ff3-41a0-88e9-544c46cf4621@6c48a"
+      ]
+    }
+  },
+  "2223c74d-8c44-4dc4-bf13-a510ecce3627@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/switch_on.png@f9941",
+    "value": {
+      "depends": [
+        "2223c74d-8c44-4dc4-bf13-a510ecce3627@6c48a"
+      ]
+    }
+  },
+  "900826c3-b6f4-4002-8a83-fc15ab5a3c45@f9941": {
+    "url": "db://assets/bundle/gui/setting/texture/setting_bg.png@f9941",
+    "value": {
+      "depends": [
+        "900826c3-b6f4-4002-8a83-fc15ab5a3c45@6c48a"
+      ]
+    }
+  },
+  "825674d0-249d-47a7-bb0d-6b0770be4a09": {
+    "url": "db://assets/script/game/main/setting.ts",
+    "value": {}
+  },
+  "8af87612-6d3b-4a76-98ac-ac04b6f5d5ab": {
+    "url": "db://assets/bundle/language/json/pt.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "d5111be3-2c5f-4081-b908-a7db2148c056": {
+    "url": "db://assets/bundle/language/texture/pt",
+    "value": {}
+  },
+  "e84a7686-e53d-4ded-be07-f3b34d78d254": {
+    "url": "db://assets/bundle/language/texture/pt/image.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "e84a7686-e53d-4ded-be07-f3b34d78d254@6c48a": {
+    "url": "db://assets/bundle/language/texture/pt/image.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e84a7686-e53d-4ded-be07-f3b34d78d254"
+      ]
+    }
+  },
+  "e84a7686-e53d-4ded-be07-f3b34d78d254@f9941": {
+    "url": "db://assets/bundle/language/texture/pt/image.jpg@f9941",
+    "value": {
+      "depends": [
+        "e84a7686-e53d-4ded-be07-f3b34d78d254@6c48a"
+      ]
+    }
+  },
+  "1b2dc7bb-d83a-467c-b03d-6036728e8cc1": {
+    "url": "db://assets/bundle/gui/start/protocol.prefab",
+    "value": {}
+  },
+  "08813125-3fde-44d1-9c35-4e3e7587c1dd": {
+    "url": "db://assets/script/game/start/protocol.ts",
+    "value": {}
+  },
+  "568c6932-7100-4333-b010-ede9348a5a10": {
+    "url": "db://assets/bundle/gui/start/private.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "c1fd8493-9ef6-4e5a-b9ca-40c03d2e0e1c",
+        "0e97de5e-c471-4a3b-8668-e6448ac74976@f9941",
+        "0e97de5e-c471-4a3b-8668-e6448ac74976@f9941",
+        "0e97de5e-c471-4a3b-8668-e6448ac74976@f9941",
+        "0e97de5e-c471-4a3b-8668-e6448ac74976@f9941",
+        "0e97de5e-c471-4a3b-8668-e6448ac74976@f9941",
+        "fbe164bd-089e-4d8e-901e-fe96028d8077@f9941"
+      ]
+    }
+  },
+  "fbe164bd-089e-4d8e-901e-fe96028d8077": {
+    "url": "db://assets/bundle/gui/common/texture/pop_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fbe164bd-089e-4d8e-901e-fe96028d8077@6c48a": {
+    "url": "db://assets/bundle/gui/common/texture/pop_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "fbe164bd-089e-4d8e-901e-fe96028d8077"
+      ]
+    }
+  },
+  "0e97de5e-c471-4a3b-8668-e6448ac74976": {
+    "url": "db://assets/bundle/gui/start/texture/btn_ok.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0e97de5e-c471-4a3b-8668-e6448ac74976@6c48a": {
+    "url": "db://assets/bundle/gui/start/texture/btn_ok.png@6c48a",
+    "value": {
+      "depends": [
+        "0e97de5e-c471-4a3b-8668-e6448ac74976"
+      ]
+    }
+  },
+  "0e97de5e-c471-4a3b-8668-e6448ac74976@f9941": {
+    "url": "db://assets/bundle/gui/start/texture/btn_ok.png@f9941",
+    "value": {
+      "depends": [
+        "0e97de5e-c471-4a3b-8668-e6448ac74976@6c48a"
+      ]
+    }
+  },
+  "fbe164bd-089e-4d8e-901e-fe96028d8077@f9941": {
+    "url": "db://assets/bundle/gui/common/texture/pop_bg.png@f9941",
+    "value": {
+      "depends": [
+        "fbe164bd-089e-4d8e-901e-fe96028d8077@6c48a"
+      ]
+    }
+  },
+  "2458d64e-bf2a-46bf-b198-9ef6503264a7": {
+    "url": "db://assets/bundle/gui/start/agreement.prefab",
+    "value": {}
+  },
+  "992a6bfb-9d6c-458c-be95-3777ef9bdca5": {
+    "url": "db://assets/bundle/gui/start/json",
+    "value": {}
+  },
+  "67d4b383-613d-4c13-8c0c-24ed88318122": {
+    "url": "db://assets/bundle/gui/start/json/agreement.json",
+    "value": {}
+  },
+  "15680353-9fb0-45dd-b498-b640f448dce5": {
+    "url": "db://assets/bundle/gui/start/folder",
+    "value": {}
+  },
+  "5440083d-244d-476d-bc65-7b07dbb14f51": {
+    "url": "db://assets/bundle/gui/start/json/PrivacyPolicy.html",
+    "value": {}
+  },
+  "b8baab1b-4768-46b3-83d0-0ab530d2579d": {
+    "url": "db://assets/bundle/privacypolicy",
+    "value": {}
+  },
+  "c346358a-aa73-4888-b82a-c4ccdf386dd6": {
+    "url": "db://assets/bundle/privacypolicy/PrivacyPolicy.html",
+    "value": {}
+  },
+  "7008f694-ee01-4255-8776-89ae3fb04740": {
+    "url": "db://assets/bundle/html/PrivacyPolicy.html",
+    "value": {}
+  },
+  "38745c1e-d601-40ce-a302-98c1a82a0abf": {
+    "url": "db://assets/bundle/html",
+    "value": {}
+  },
+  "b550d979-c080-43c3-9d89-28591f2578df": {
+    "url": "db://assets/script/game/common/prompt",
+    "value": {}
+  },
+  "9748eae2-11c2-4ea7-a392-76767faa1b39": {
+    "url": "db://assets/script/game/common/prompt/TipsManager.ts",
+    "value": {}
+  },
+  "d7944b59-d342-478b-ae25-354422dc9fec": {
+    "url": "db://assets/script/game/initialize/view/Hot.ts",
+    "value": {}
+  },
+  "43def4a8-4be7-48a3-a8f9-c297c1c472bc": {
+    "url": "db://assets/script/game/initialize/view/HotUpdate.ts",
+    "value": {}
+  },
+  "0726e4bc-d18c-40b2-97d4-223be65dc4cf": {
+    "url": "db://assets/resources/project.manifest",
+    "value": {}
+  },
+  "de0b1aea-022f-4617-ba17-0d19fa89d63a": {
+    "url": "db://assets/resources/version.manifest",
+    "value": {}
+  },
+  "ed633c98-8103-491a-9bb5-ed069412930c": {
+    "url": "db://assets/bundle/project.manifest",
+    "value": {}
+  },
+  "8c7938b1-d2b5-4b89-b1b1-6dbca67bf353": {
+    "url": "db://assets/bundle/version.manifest",
+    "value": {}
+  },
+  "7ebe7156-51ee-4f0c-8a27-e9742f5c84d4": {
+    "url": "db://assets/bundle/project.manifest",
+    "value": {
+      "depends": []
+    }
+  },
+  "01cb1535-404d-460c-b537-fe6c06927012": {
+    "url": "db://assets/bundle/version.manifest",
+    "value": {
+      "depends": []
+    }
+  },
+  "f1492c77-10f3-4f07-842e-20b5dd826ab1": {
+    "url": "db://assets/bundle/project.manifest",
+    "value": {
+      "depends": []
+    }
+  },
+  "25dca65c-1076-491c-bf5c-5e1d7e4d5596": {
+    "url": "db://assets/bundle/version.manifest",
+    "value": {
+      "depends": []
+    }
+  },
+  "cc1e99b4-831d-4ead-8e37-e656e747b682": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cc1e99b4-831d-4ead-8e37-e656e747b682@6c48a": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png@6c48a",
+    "value": {
+      "depends": [
+        "cc1e99b4-831d-4ead-8e37-e656e747b682"
+      ]
+    }
+  },
+  "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56": {
+    "url": "db://assets/bundle/common/texture/bg_window.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@6c48a": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png@6c48a",
+    "value": {
+      "depends": [
+        "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6"
+      ]
+    }
+  },
+  "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56@6c48a": {
+    "url": "db://assets/bundle/common/texture/bg_window.png@6c48a",
+    "value": {
+      "depends": [
+        "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56"
+      ]
+    }
+  },
+  "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56@f9941": {
+    "url": "db://assets/bundle/common/texture/bg_window.png@f9941",
+    "value": {
+      "depends": [
+        "3b2a9f0e-9014-4e8c-b6a8-d6d222226c56@6c48a"
+      ]
+    }
+  },
+  "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@f9941": {
+    "url": "db://assets/bundle/common/texture/btn_ok.png@f9941",
+    "value": {
+      "depends": [
+        "cdb8e360-0537-4e65-a6a3-0cd5883bd5b6@6c48a"
+      ]
+    }
+  }
+}
