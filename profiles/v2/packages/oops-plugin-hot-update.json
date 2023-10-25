@@ -81,9 +81,9 @@
       },
       "1690626019545": {
         "hotUpdateEnable": true,
-        "hotUpdateAddress": "http://192.168.8.17:8090/hotupdate",
+        "hotUpdateAddress": "http://192.168.8.88:8090/hotupdate",
         "hotUpdateVersion": "1.0.1",
-        "hotUpdateBuildNum": 3,
+        "hotUpdateBuildNum": 4,
         "__version__": "1.0.0"
       },
       "1696938856449": {
@@ -98,9 +98,9 @@
     "options": {
       "android": {
         "hotUpdateEnable": true,
-        "hotUpdateAddress": "http://192.168.8.17:8090/hotupdate",
+        "hotUpdateAddress": "http://192.168.8.88:8090/hotupdate",
         "hotUpdateVersion": "1.0.1",
-        "hotUpdateBuildNum": 3,
+        "hotUpdateBuildNum": 4,
         "__version__": "1.0.0"
       }
     }

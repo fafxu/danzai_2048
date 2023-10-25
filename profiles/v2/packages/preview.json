@@ -1,7 +1,7 @@
 {
   "preview": {
     "current": {
-      "platform": "browser"
+      "platform": "simulator"
     },
     "simulator_orientation": "portrait",
     "simulator_resolution": 1

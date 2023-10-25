@@ -39,6 +39,10 @@
     "url": "db://internal/default_ui",
     "value": {}
   },
+  "7825b695-4eed-444c-bf07-d33a772883b1": {
+    "url": "db://internal/dependencies",
+    "value": {}
+  },
   "3e2a0bb4-adfd-48e5-a381-3ea9b6349b8e": {
     "url": "db://internal/effects",
     "value": {}
@@ -49,6 +53,10 @@
   },
   "b80a0d17-b988-4ad3-b214-25df2694b0e7": {
     "url": "db://internal/physics",
+    "value": {}
+  },
+  "99317b62-549d-421a-9cd0-f575591bf3cd": {
+    "url": "db://internal/tools",
     "value": {}
   },
   "85f366b2-d149-4b14-aa1d-4634e3c28f69": {
@@ -93,6 +101,12 @@
   },
   "e0a8e34d-9242-4f0f-833b-f57e1ffbf285": {
     "url": "db://internal/default_file_content/animgraph",
+    "value": {
+      "depends": []
+    }
+  },
+  "eb9a3479-6087-45cb-82bc-d72e2aa6e9ef": {
+    "url": "db://internal/default_file_content/animgraphvari",
     "value": {
       "depends": []
     }
@@ -181,6 +195,12 @@
       "depends": []
     }
   },
+  "1d5e3139-1826-4b4a-8c4c-2e7b6874a474": {
+    "url": "db://internal/default_file_content/scene-quality",
+    "value": {
+      "depends": []
+    }
+  },
   "e7e9f9b7-58f3-44b4-b31c-7e7b0f601e92": {
     "url": "db://internal/default_file_content/stg",
     "value": {
@@ -251,20 +271,32 @@
     "url": "db://internal/default_prefab/ui",
     "value": {}
   },
-  "7318038e-8127-4c1b-9b93-e809f973ce6c": {
-    "url": "db://internal/effects/util/dcc",
-    "value": {}
-  },
-  "fee95e8e-1d8c-4859-9b40-1cab8e5acbd6": {
-    "url": "db://internal/effects/internal/editor",
-    "value": {}
-  },
-  "945524d6-2653-42b8-a8f7-c9deee89862f": {
-    "url": "db://internal/effects/pipeline",
+  "e846becb-4080-4ba3-9b67-75d45b7998d5": {
+    "url": "db://internal/dependencies/textures",
     "value": {}
   },
   "943258e0-bb7e-46a9-8995-31c983e3b692": {
     "url": "db://internal/effects/advanced",
+    "value": {}
+  },
+  "c183505b-b5a7-4984-b335-f0e72576ca78": {
+    "url": "db://internal/effects/for2d",
+    "value": {}
+  },
+  "0961841a-d572-45ff-af75-1a8f9c1a470c": {
+    "url": "db://internal/effects/internal",
+    "value": {}
+  },
+  "542f159e-9817-4290-8be0-3682570a3d7f": {
+    "url": "db://internal/effects/legacy",
+    "value": {}
+  },
+  "aa9d4d8a-579c-48e2-82d5-d97dddc28799": {
+    "url": "db://internal/effects/particles",
+    "value": {}
+  },
+  "945524d6-2653-42b8-a8f7-c9deee89862f": {
+    "url": "db://internal/effects/pipeline",
     "value": {}
   },
   "cb4eb4b7-2a23-4670-b4af-2e6275aa0e0d": {
@@ -297,6 +329,10 @@
   },
   "98420980-4268-402a-a26d-f66e6ee50a03": {
     "url": "db://internal/chunks/common/effect",
+    "value": {}
+  },
+  "8cab82a8-3634-48c2-8853-021f200cf799": {
+    "url": "db://internal/chunks/common/graph-expression",
     "value": {}
   },
   "a2ba2f72-737d-4b4b-84be-3e014d996327": {
@@ -369,6 +405,18 @@
   },
   "e0dda21b-408d-4e5c-a519-71fad239c854": {
     "url": "db://internal/chunks/surfaces/module-functions",
+    "value": {}
+  },
+  "f81bb320-88da-4db8-b210-75e4d7544f3e": {
+    "url": "db://internal/default_prefab/2d/ui",
+    "value": {}
+  },
+  "fee95e8e-1d8c-4859-9b40-1cab8e5acbd6": {
+    "url": "db://internal/effects/internal/editor",
+    "value": {}
+  },
+  "7318038e-8127-4c1b-9b93-e809f973ce6c": {
+    "url": "db://internal/effects/util/dcc",
     "value": {}
   },
   "2cf1e156-25bd-4e1c-8cda-d9f14512debf": {
@@ -459,6 +507,14 @@
     "url": "db://internal/chunks/legacy/output.chunk",
     "value": {}
   },
+  "fa7a90a4-9aa6-45b2-ad63-ec46c9826569": {
+    "url": "db://internal/chunks/legacy/sh-fs.chunk",
+    "value": {}
+  },
+  "ea51061e-deb7-48b9-a35a-c91be103f636": {
+    "url": "db://internal/chunks/legacy/sh-vs.chunk",
+    "value": {}
+  },
   "b2d386c6-615b-4375-accd-574405611e35": {
     "url": "db://internal/chunks/legacy/shading-cluster-additive.chunk",
     "value": {}
@@ -503,8 +559,20 @@
     "url": "db://internal/chunks/post-process/anti-aliasing.chunk",
     "value": {}
   },
+  "7dd16c65-64a1-48c0-a335-f613807810b4": {
+    "url": "db://internal/chunks/post-process/fxaa-hq.chunk",
+    "value": {}
+  },
   "0afb4a28-945f-48ac-91e5-6f483345f8ab": {
     "url": "db://internal/chunks/post-process/fxaa.chunk",
+    "value": {}
+  },
+  "ded549ec-b5b6-4d05-ba54-9b3ea427a58c": {
+    "url": "db://internal/effects/advanced/common-functions.chunk",
+    "value": {}
+  },
+  "bce797be-05d4-400e-8eb8-f2816147b869": {
+    "url": "db://internal/effects/advanced/eye.chunk",
     "value": {}
   },
   "02a04bf3-4c27-4596-81fd-dfc35224f1d1": {
@@ -513,6 +581,14 @@
   },
   "3adaa06a-e674-487c-9d49-42bc398c255b": {
     "url": "db://internal/chunks/builtin/functionalities/morph-animation.chunk",
+    "value": {}
+  },
+  "92ac3587-8a8c-4405-87b0-5cf026196c64": {
+    "url": "db://internal/chunks/builtin/functionalities/probe.chunk",
+    "value": {}
+  },
+  "c8728e39-6dca-4d22-a4ee-cc1aefb0198a": {
+    "url": "db://internal/chunks/builtin/functionalities/sh.chunk",
     "value": {}
   },
   "d4c26490-0a2d-4b6a-9a52-55b5741f18a4": {
@@ -599,6 +675,14 @@
     "url": "db://internal/chunks/builtin/uniforms/cc-morph.chunk",
     "value": {}
   },
+  "960cff1c-912a-47d1-a3d9-9a25a9568508": {
+    "url": "db://internal/chunks/builtin/uniforms/cc-reflection-probe.chunk",
+    "value": {}
+  },
+  "2c62fe23-f1f4-49f1-a08f-e5e6c650682f": {
+    "url": "db://internal/chunks/builtin/uniforms/cc-sh.chunk",
+    "value": {}
+  },
   "e8411010-e411-43ab-8f2e-4f4865dca4cf": {
     "url": "db://internal/chunks/builtin/uniforms/cc-shadow-map.chunk",
     "value": {}
@@ -623,6 +707,10 @@
     "url": "db://internal/chunks/common/color/gamma.chunk",
     "value": {}
   },
+  "077c9168-e907-405b-b7f6-b4d5f68ced4a": {
+    "url": "db://internal/chunks/common/color/tone-mapping.chunk",
+    "value": {}
+  },
   "73866dd2-eaf5-40af-a061-1b9d38782204": {
     "url": "db://internal/chunks/common/data/packing.chunk",
     "value": {}
@@ -639,12 +727,24 @@
     "url": "db://internal/chunks/common/effect/fog.chunk",
     "value": {}
   },
+  "a9f88e4b-6d43-4af4-8a58-f7d918adcb73": {
+    "url": "db://internal/chunks/common/effect/special-effects.chunk",
+    "value": {}
+  },
+  "4b4d0c0f-1d50-4d50-84e7-226c8d0dbd6f": {
+    "url": "db://internal/chunks/common/graph-expression/base.chunk",
+    "value": {}
+  },
   "077cca29-6f66-4aad-a3a7-4f0a7ecd523f": {
     "url": "db://internal/chunks/common/lighting/attenuation.chunk",
     "value": {}
   },
   "3a85eafd-0fd0-468f-8a2e-0c81493230c7": {
     "url": "db://internal/chunks/common/lighting/brdf.chunk",
+    "value": {}
+  },
+  "5c21fcb9-179d-4081-99f8-b119f1e6176e": {
+    "url": "db://internal/chunks/common/lighting/bxdf.chunk",
     "value": {}
   },
   "d360c347-a546-4967-bdd3-30cae323f123": {
@@ -679,6 +779,10 @@
     "url": "db://internal/chunks/common/mesh/material.chunk",
     "value": {}
   },
+  "1f9087ef-e3eb-44f2-8520-cfb117e8d618": {
+    "url": "db://internal/chunks/common/mesh/vat-animation.chunk",
+    "value": {}
+  },
   "cac4ba94-f412-4899-83b1-ce035b0c09e0": {
     "url": "db://internal/chunks/common/shadow/native-pcf.chunk",
     "value": {}
@@ -689,6 +793,10 @@
   },
   "d26f7be9-ac7f-4dfd-88ee-6657dfe3426e": {
     "url": "db://internal/chunks/common/texture/texture-lod.chunk",
+    "value": {}
+  },
+  "47e68d9d-c7b2-4cdf-adf9-faaeff9cb61a": {
+    "url": "db://internal/chunks/common/texture/texture-misc.chunk",
     "value": {}
   },
   "2cdcf2a6-42f3-4142-a340-eabfe530ccbf": {
@@ -707,12 +815,28 @@
     "url": "db://internal/chunks/lighting-models/data-structures/lighting-intermediate-data.chunk",
     "value": {}
   },
+  "f5326068-1588-43b4-9f15-c190688fc7c0": {
+    "url": "db://internal/chunks/lighting-models/data-structures/lighting-misc-data.chunk",
+    "value": {}
+  },
   "7646cc74-5fcc-47c4-970b-5958505c17e5": {
     "url": "db://internal/chunks/lighting-models/data-structures/lighting-result.chunk",
     "value": {}
   },
   "9ada82f2-4c4e-433f-8090-e8bfad31fcf2": {
     "url": "db://internal/chunks/lighting-models/default-functions/simple-skin.chunk",
+    "value": {}
+  },
+  "eec6f0f1-607d-4613-9285-e5ab22a89e87": {
+    "url": "db://internal/chunks/lighting-models/default-functions/standard.chunk",
+    "value": {}
+  },
+  "6845eadb-c3d5-4485-9699-de3361cf7aaa": {
+    "url": "db://internal/chunks/lighting-models/default-functions/toon.chunk",
+    "value": {}
+  },
+  "e0e29596-7cc0-45b0-80bc-5193f81e818f": {
+    "url": "db://internal/chunks/lighting-models/includes/common.chunk",
     "value": {}
   },
   "cc12f5ac-3dcf-4455-aea9-b9be2dd9071e": {
@@ -725,6 +849,10 @@
   },
   "41c84281-f2e7-43e2-88bd-6ffcaf1daf5a": {
     "url": "db://internal/chunks/lighting-models/lighting-flow/common-flow.chunk",
+    "value": {}
+  },
+  "5e057755-d68b-41d1-b089-ed7f7f65f2b8": {
+    "url": "db://internal/chunks/lighting-models/model-functions/standard-common.chunk",
     "value": {}
   },
   "4c24618b-1e1d-40e4-883a-cd3fd2304233": {
@@ -879,8 +1007,74 @@
     "url": "db://internal/chunks/shading-entries/main-functions/render-to-scene/pipeline/forward-fs.chunk",
     "value": {}
   },
-  "711ebe11-f673-4cd9-9a83-63c60ba54c5b": {
-    "url": "db://internal/effects/particles/builtin-billboard.effect",
+  "c8f66d17-351a-48da-a12c-0212d28575c4": {
+    "url": "db://internal/effects/builtin-standard.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "a0fd9f76-74fe-423c-92d9-298906c189ba": {
+    "url": "db://internal/effects/builtin-terrain.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "9b20a514-6cc3-49de-b216-b6b863046249": {
+    "url": "db://internal/effects/builtin-toon.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "a3cd009f-0ab0-420d-9278-b9fdab939bbc": {
+    "url": "db://internal/effects/builtin-unlit.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "f0475923-826e-45dc-85cc-b5d9c2b220e9": {
+    "url": "db://internal/effects/advanced/eye.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc0ce5f8-063d-42da-b13a-2fad25abb951": {
+    "url": "db://internal/effects/advanced/hair.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "472c676f-9f77-4c8d-b550-17825aa0176b": {
+    "url": "db://internal/effects/advanced/simple-skin.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "6308c013-7d49-4160-9516-562dd205b480": {
+    "url": "db://internal/effects/advanced/sky.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "113a72d8-20cd-42cd-ba96-37cc1046971a": {
+    "url": "db://internal/effects/advanced/water.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "c27215d8-6835-4b68-bfbb-bdeac6100c04": {
+    "url": "db://internal/effects/for2d/builtin-spine.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "6ef1defe-7997-477a-9b35-c18859ff8066": {
+    "url": "db://internal/effects/for2d/builtin-sprite-renderer.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "60f7195c-ec2a-45eb-ba94-8955f60e81d0": {
+    "url": "db://internal/effects/for2d/builtin-sprite.effect",
     "value": {
       "depends": []
     }
@@ -921,6 +1115,42 @@
       "depends": []
     }
   },
+  "99498f84-efe6-43a6-a9a7-e6e93eb845c1": {
+    "url": "db://internal/effects/internal/builtin-reflection-deferred.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "81127eb0-7556-453c-b147-670782dd5e53": {
+    "url": "db://internal/effects/internal/builtin-wireframe.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "1baf0fc9-befa-459c-8bdd-af1a450a0319": {
+    "url": "db://internal/effects/legacy/standard.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "1d08ef62-a503-4ce2-8b9a-46c90873f7d3": {
+    "url": "db://internal/effects/legacy/terrain.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "a7612b54-35e3-4238-a1a9-4a7b54635839": {
+    "url": "db://internal/effects/legacy/toon.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "711ebe11-f673-4cd9-9a83-63c60ba54c5b": {
+    "url": "db://internal/effects/particles/builtin-billboard.effect",
+    "value": {
+      "depends": []
+    }
+  },
   "971bdb23-3ff6-43eb-b422-1c30165a3663": {
     "url": "db://internal/effects/particles/builtin-particle-gpu.effect",
     "value": {
@@ -945,132 +1175,6 @@
       "depends": []
     }
   },
-  "99498f84-efe6-43a6-a9a7-e6e93eb845c1": {
-    "url": "db://internal/effects/internal/builtin-reflection-deferred.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "c27215d8-6835-4b68-bfbb-bdeac6100c04": {
-    "url": "db://internal/effects/for2d/builtin-spine.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "6ef1defe-7997-477a-9b35-c18859ff8066": {
-    "url": "db://internal/effects/for2d/builtin-sprite-renderer.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "60f7195c-ec2a-45eb-ba94-8955f60e81d0": {
-    "url": "db://internal/effects/for2d/builtin-sprite.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "1baf0fc9-befa-459c-8bdd-af1a450a0319": {
-    "url": "db://internal/effects/legacy/standard.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "1d08ef62-a503-4ce2-8b9a-46c90873f7d3": {
-    "url": "db://internal/effects/legacy/terrain.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "a7612b54-35e3-4238-a1a9-4a7b54635839": {
-    "url": "db://internal/effects/legacy/toon.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "a3cd009f-0ab0-420d-9278-b9fdab939bbc": {
-    "url": "db://internal/effects/builtin-unlit.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "81127eb0-7556-453c-b147-670782dd5e53": {
-    "url": "db://internal/effects/internal/builtin-wireframe.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "2ec11458-f855-4978-b14d-f3ed5cf697fa": {
-    "url": "db://internal/effects/util/dcc/imported-metallic-roughness.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "f648964e-8d32-41fc-9ac9-7a1e714dd17b": {
-    "url": "db://internal/effects/util/dcc/imported-specular-glossiness.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "994bae8e-8bfc-4bc4-a32d-ad924f9917d0": {
-    "url": "db://internal/effects/dcc/surfaces-imported-metallic-roughness.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "5b7d6814-90a6-4d9f-b7fd-410dca9de957": {
-    "url": "db://internal/effects/dcc/surfaces-imported-specular-glossiness.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "9d6c6bde-2fe2-44ee-883b-909608948b04": {
-    "url": "db://internal/effects/internal/editor/gizmo.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "cb2c332a-fa5e-4235-a129-f011634bb7ad": {
-    "url": "db://internal/effects/internal/editor/grid-2d.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "4736e978-c8fa-449f-9cf6-fe0158ded9d7": {
-    "url": "db://internal/effects/internal/editor/grid-stroke.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "ba35f02e-a81c-464c-bfc5-c788328da667": {
-    "url": "db://internal/effects/internal/editor/grid.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "e4e4cb19-8dd2-450d-ad20-1a818263b8d3": {
-    "url": "db://internal/effects/internal/editor/light.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "a3e72674-c38f-4336-a285-1826b1799cd7": {
-    "url": "db://internal/effects/internal/editor/terrain-circle-brush.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "7a115de7-2d94-4620-8b89-766d7f8cbff9": {
-    "url": "db://internal/effects/internal/editor/terrain-image-brush.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "9b4d3fa5-89bf-4715-b69a-dbbd1efaf6a5": {
-    "url": "db://internal/effects/internal/editor/terrain-select-brush.effect",
-    "value": {
-      "depends": []
-    }
-  },
   "28d6d6b8-3f66-4a73-9795-17a0852ba2d4": {
     "url": "db://internal/effects/pipeline/bloom.effect",
     "value": {
@@ -1079,6 +1183,12 @@
   },
   "5d45aa00-e064-4938-b314-4265f0c2258c": {
     "url": "db://internal/effects/pipeline/deferred-lighting.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "2df0a40b-26c2-47ce-be0d-4d3cd4164737": {
+    "url": "db://internal/effects/pipeline/fxaa-hq.effect",
     "value": {
       "depends": []
     }
@@ -1113,30 +1223,6 @@
       "depends": []
     }
   },
-  "6308c013-7d49-4160-9516-562dd205b480": {
-    "url": "db://internal/effects/advanced/sky.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "c8f66d17-351a-48da-a12c-0212d28575c4": {
-    "url": "db://internal/effects/builtin-standard.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "a0fd9f76-74fe-423c-92d9-298906c189ba": {
-    "url": "db://internal/effects/builtin-terrain.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "9b20a514-6cc3-49de-b216-b6b863046249": {
-    "url": "db://internal/effects/builtin-toon.effect",
-    "value": {
-      "depends": []
-    }
-  },
   "f1556893-88b6-4c65-8c16-a5256ef3ad25": {
     "url": "db://internal/effects/util/batched-unlit.effect",
     "value": {
@@ -1160,6 +1246,82 @@
     "value": {
       "depends": []
     }
+  },
+  "084eba38-5336-4444-8c8c-aebb75d5c627": {
+    "url": "db://internal/effects/internal/editor/box-height-light.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d6c6bde-2fe2-44ee-883b-909608948b04": {
+    "url": "db://internal/effects/internal/editor/gizmo.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2c332a-fa5e-4235-a129-f011634bb7ad": {
+    "url": "db://internal/effects/internal/editor/grid-2d.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "4736e978-c8fa-449f-9cf6-fe0158ded9d7": {
+    "url": "db://internal/effects/internal/editor/grid-stroke.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba35f02e-a81c-464c-bfc5-c788328da667": {
+    "url": "db://internal/effects/internal/editor/grid.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "5967a800-25ad-4c00-9872-5c4ba7840d17": {
+    "url": "db://internal/effects/internal/editor/light-probe-visualization.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "e4e4cb19-8dd2-450d-ad20-1a818263b8d3": {
+    "url": "db://internal/effects/internal/editor/light.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "a3e72674-c38f-4336-a285-1826b1799cd7": {
+    "url": "db://internal/effects/internal/editor/terrain-circle-brush.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "7a115de7-2d94-4620-8b89-766d7f8cbff9": {
+    "url": "db://internal/effects/internal/editor/terrain-image-brush.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "9b4d3fa5-89bf-4715-b69a-dbbd1efaf6a5": {
+    "url": "db://internal/effects/internal/editor/terrain-select-brush.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "2ec11458-f855-4978-b14d-f3ed5cf697fa": {
+    "url": "db://internal/effects/util/dcc/imported-metallic-roughness.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "f648964e-8d32-41fc-9ac9-7a1e714dd17b": {
+    "url": "db://internal/effects/util/dcc/imported-specular-glossiness.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594": {
+    "url": "db://internal/tools/debug-view-runtime-control.ts",
+    "value": {}
   },
   "2be36297-9abb-4fee-8049-9ed5e271da8a": {
     "url": "db://internal/default-video.mp4",
@@ -1189,18 +1351,18 @@
       "depends": []
     }
   },
+  "e049bea9-db6b-463b-8502-61bf426357a1": {
+    "url": "db://internal/default_cubemap/bottom.jpg",
+    "value": {
+      "depends": []
+    }
+  },
   "03721795-84b1-4dcd-8eb3-c8e6b88ee535@6c48a": {
     "url": "db://internal/default_cubemap/back.jpg@6c48a",
     "value": {
       "depends": [
         "03721795-84b1-4dcd-8eb3-c8e6b88ee535"
       ]
-    }
-  },
-  "e049bea9-db6b-463b-8502-61bf426357a1": {
-    "url": "db://internal/default_cubemap/bottom.jpg",
-    "value": {
-      "depends": []
     }
   },
   "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a": {
@@ -1217,6 +1379,12 @@
       "depends": []
     }
   },
+  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d": {
+    "url": "db://internal/default_cubemap/left.jpg",
+    "value": {
+      "depends": []
+    }
+  },
   "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a": {
     "url": "db://internal/default-terrain/default-layer-texture.jpg@6c48a",
     "value": {
@@ -1225,8 +1393,8 @@
       ]
     }
   },
-  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d": {
-    "url": "db://internal/default_cubemap/left.jpg",
+  "80aabd92-9942-4765-b685-8577a1c88b4e": {
+    "url": "db://internal/default_cubemap/right.jpg",
     "value": {
       "depends": []
     }
@@ -1239,23 +1407,17 @@
       ]
     }
   },
-  "80aabd92-9942-4765-b685-8577a1c88b4e": {
-    "url": "db://internal/default_cubemap/right.jpg",
-    "value": {
-      "depends": []
-    }
-  },
   "6c895e98-967e-4a6d-8c08-bf6b035fa2c1": {
     "url": "db://internal/default_cubemap/top.jpg",
     "value": {
       "depends": []
     }
   },
-  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d@6c48a": {
-    "url": "db://internal/default_cubemap/left.jpg@6c48a",
+  "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665@6c48a": {
+    "url": "db://internal/default_cubemap/front.jpg@6c48a",
     "value": {
       "depends": [
-        "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d"
+        "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665"
       ]
     }
   },
@@ -1275,11 +1437,19 @@
       ]
     }
   },
-  "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665@6c48a": {
-    "url": "db://internal/default_cubemap/front.jpg@6c48a",
+  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d@6c48a": {
+    "url": "db://internal/default_cubemap/left.jpg@6c48a",
     "value": {
       "depends": [
-        "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665"
+        "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d"
+      ]
+    }
+  },
+  "80aabd92-9942-4765-b685-8577a1c88b4e@6c48a": {
+    "url": "db://internal/default_cubemap/right.jpg@6c48a",
+    "value": {
+      "depends": [
+        "80aabd92-9942-4765-b685-8577a1c88b4e"
       ]
     }
   },
@@ -1331,6 +1501,14 @@
       ]
     }
   },
+  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1@6c48a": {
+    "url": "db://internal/default_cubemap/top.jpg@6c48a",
+    "value": {
+      "depends": [
+        "6c895e98-967e-4a6d-8c08-bf6b035fa2c1"
+      ]
+    }
+  },
   "081cab31-dccd-428e-8652-f2404cc81c47": {
     "url": "db://internal/default_materials/default-trail-material.mtl",
     "value": {
@@ -1344,14 +1522,6 @@
     "value": {
       "depends": [
         "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
-      ]
-    }
-  },
-  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1@6c48a": {
-    "url": "db://internal/default_cubemap/top.jpg@6c48a",
-    "value": {
-      "depends": [
-        "6c895e98-967e-4a6d-8c08-bf6b035fa2c1"
       ]
     }
   },
@@ -1369,14 +1539,6 @@
       "depends": [
         "d1346436-ac96-4271-b863-1f4fdead95b0",
         "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a"
-      ]
-    }
-  },
-  "80aabd92-9942-4765-b685-8577a1c88b4e@6c48a": {
-    "url": "db://internal/default_cubemap/right.jpg@6c48a",
-    "value": {
-      "depends": [
-        "80aabd92-9942-4765-b685-8577a1c88b4e"
       ]
     }
   },
@@ -1518,18 +1680,20 @@
       ]
     }
   },
+  "e17b4526-57a2-48d3-acc9-cf09f30aa138": {
+    "url": "db://internal/default_ui/atom_new.plist",
+    "value": {
+      "depends": [
+        "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941"
+      ]
+    }
+  },
   "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@6c48a": {
     "url": "db://internal/default_ui/atom.png@6c48a",
     "value": {
       "depends": [
         "24c419ea-63a8-4ea1-a9d0-7fc469489bbc"
       ]
-    }
-  },
-  "951249e0-9f16-456d-8b85-a6ca954da16b": {
-    "url": "db://internal/default_ui/default_btn_disabled.png",
-    "value": {
-      "depends": []
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@17020": {
@@ -1546,8 +1710,8 @@
       ]
     }
   },
-  "20835ba4-6145-4fbc-a58a-051ce700aa3e": {
-    "url": "db://internal/default_ui/default_btn_normal.png",
+  "951249e0-9f16-456d-8b85-a6ca954da16b": {
+    "url": "db://internal/default_ui/default_btn_disabled.png",
     "value": {
       "depends": []
     }
@@ -1558,12 +1722,10 @@
       "depends": []
     }
   },
-  "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a": {
-    "url": "db://internal/default_ui/default_btn_disabled.png@6c48a",
+  "20835ba4-6145-4fbc-a58a-051ce700aa3e": {
+    "url": "db://internal/default_ui/default_btn_normal.png",
     "value": {
-      "depends": [
-        "951249e0-9f16-456d-8b85-a6ca954da16b"
-      ]
+      "depends": []
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@2e76e": {
@@ -1572,11 +1734,11 @@
       "depends": []
     }
   },
-  "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a": {
-    "url": "db://internal/default_ui/default_btn_normal.png@6c48a",
+  "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a": {
+    "url": "db://internal/default_ui/default_btn_disabled.png@6c48a",
     "value": {
       "depends": [
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e"
+        "951249e0-9f16-456d-8b85-a6ca954da16b"
       ]
     }
   },
@@ -1600,18 +1762,12 @@
       "depends": []
     }
   },
-  "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941": {
-    "url": "db://internal/default_ui/default_btn_normal.png@f9941",
+  "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a": {
+    "url": "db://internal/default_ui/default_btn_normal.png@6c48a",
     "value": {
       "depends": [
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a"
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e"
       ]
-    }
-  },
-  "bd1bcaba-bd7d-4a71-b143-997c882383e4": {
-    "url": "db://internal/default_ui/default_editbox_bg.png",
-    "value": {
-      "depends": []
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@40ece": {
@@ -1634,18 +1790,38 @@
       ]
     }
   },
-  "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a": {
-    "url": "db://internal/default_ui/default_editbox_bg.png@6c48a",
-    "value": {
-      "depends": [
-        "bd1bcaba-bd7d-4a71-b143-997c882383e4"
-      ]
-    }
-  },
   "1263d74c-8167-4928-91a6-4e2672411f47@8abdc": {
     "url": "db://internal/primitives.fbx@8abdc",
     "value": {
       "depends": []
+    }
+  },
+  "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941": {
+    "url": "db://internal/default_ui/default_btn_normal.png@f9941",
+    "value": {
+      "depends": [
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a"
+      ]
+    }
+  },
+  "bd1bcaba-bd7d-4a71-b143-997c882383e4": {
+    "url": "db://internal/default_ui/default_editbox_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@a804a": {
+    "url": "db://internal/primitives.fbx@a804a",
+    "value": {
+      "depends": []
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@8d883": {
+    "url": "db://internal/primitives.fbx@8d883",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
     }
   },
   "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941": {
@@ -1660,34 +1836,6 @@
     "url": "db://internal/default_ui/default_panel.png",
     "value": {
       "depends": []
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@a804a": {
-    "url": "db://internal/primitives.fbx@a804a",
-    "value": {
-      "depends": []
-    }
-  },
-  "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941": {
-    "url": "db://internal/default_ui/default_editbox_bg.png@f9941",
-    "value": {
-      "depends": [
-        "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a"
-      ]
-    }
-  },
-  "24a704da-2867-446d-8d1a-5e920c75e09d": {
-    "url": "db://internal/default_ui/default_progressbar.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@8d883": {
-    "url": "db://internal/primitives.fbx@8d883",
-    "value": {
-      "depends": [
-        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
-      ]
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@aae0f": {
@@ -1713,10 +1861,18 @@
       ]
     }
   },
-  "9fd900dd-221b-4f89-8f2c-fba34243c835": {
-    "url": "db://internal/default_ui/default_progressbar_bg.png",
+  "24a704da-2867-446d-8d1a-5e920c75e09d": {
+    "url": "db://internal/default_ui/default_progressbar.png",
     "value": {
       "depends": []
+    }
+  },
+  "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a": {
+    "url": "db://internal/default_ui/default_editbox_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4"
+      ]
     }
   },
   "b730527c-3233-41c2-aaf7-7cdab58f9749@6c48a": {
@@ -1735,6 +1891,14 @@
       ]
     }
   },
+  "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941": {
+    "url": "db://internal/default_ui/default_editbox_bg.png@f9941",
+    "value": {
+      "depends": [
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a"
+      ]
+    }
+  },
   "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0": {
     "url": "db://internal/default_skybox/default_skybox.png@b47c0",
     "value": {
@@ -1746,6 +1910,12 @@
         "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
         "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f"
       ]
+    }
+  },
+  "9fd900dd-221b-4f89-8f2c-fba34243c835": {
+    "url": "db://internal/default_ui/default_progressbar_bg.png",
+    "value": {
+      "depends": []
     }
   },
   "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941": {
@@ -1760,14 +1930,6 @@
     "url": "db://internal/default_ui/default_radio_button_off.png",
     "value": {
       "depends": []
-    }
-  },
-  "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a": {
-    "url": "db://internal/default_ui/default_progressbar_bg.png@6c48a",
-    "value": {
-      "depends": [
-        "9fd900dd-221b-4f89-8f2c-fba34243c835"
-      ]
     }
   },
   "24a704da-2867-446d-8d1a-5e920c75e09d@f9941": {
@@ -1796,26 +1958,20 @@
       "depends": []
     }
   },
+  "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a": {
+    "url": "db://internal/default_ui/default_progressbar_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "9fd900dd-221b-4f89-8f2c-fba34243c835"
+      ]
+    }
+  },
   "f12a23c4-b924-4322-a260-3d982428f1e8@6c48a": {
     "url": "db://internal/default_ui/default_radio_button_off.png@6c48a",
     "value": {
       "depends": [
         "f12a23c4-b924-4322-a260-3d982428f1e8"
       ]
-    }
-  },
-  "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941": {
-    "url": "db://internal/default_ui/default_progressbar_bg.png@f9941",
-    "value": {
-      "depends": [
-        "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a"
-      ]
-    }
-  },
-  "0da256a2-21f6-481b-90b6-d3643a09179b": {
-    "url": "db://internal/default_ui/default_scrollbar.png",
-    "value": {
-      "depends": []
     }
   },
   "45828f25-b50d-4c52-a591-e19491a62b8c@6c48a": {
@@ -1832,22 +1988,22 @@
       "depends": []
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@7d38f",
+  "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941": {
+    "url": "db://internal/default_ui/default_progressbar_bg.png@f9941",
+    "value": {
+      "depends": [
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a"
+      ]
+    }
+  },
+  "0da256a2-21f6-481b-90b6-d3643a09179b": {
+    "url": "db://internal/default_ui/default_scrollbar.png",
     "value": {
       "depends": []
     }
   },
-  "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a": {
-    "url": "db://internal/default_ui/default_scrollbar.png@6c48a",
-    "value": {
-      "depends": [
-        "0da256a2-21f6-481b-90b6-d3643a09179b"
-      ]
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@e9a6d",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@7d38f",
     "value": {
       "depends": []
     }
@@ -1880,6 +2036,20 @@
       "depends": []
     }
   },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a": {
+    "url": "db://internal/default_ui/default_scrollbar.png@6c48a",
+    "value": {
+      "depends": [
+        "0da256a2-21f6-481b-90b6-d3643a09179b"
+      ]
+    }
+  },
   "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10": {
     "url": "db://internal/default_skybox/default_skybox.png@b47c0@40c10",
     "value": {
@@ -1888,20 +2058,6 @@
   },
   "ffb88a8f-af62-48f4-8f1d-3cb606443a43": {
     "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "0da256a2-21f6-481b-90b6-d3643a09179b@f9941": {
-    "url": "db://internal/default_ui/default_scrollbar.png@f9941",
-    "value": {
-      "depends": [
-        "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a"
-      ]
-    }
-  },
-  "57520716-48c8-4a19-8acf-41c9f8777fb0": {
-    "url": "db://internal/default_ui/default_sprite.png",
     "value": {
       "depends": []
     }
@@ -1922,39 +2078,26 @@
       ]
     }
   },
+  "0da256a2-21f6-481b-90b6-d3643a09179b@f9941": {
+    "url": "db://internal/default_ui/default_scrollbar.png@f9941",
+    "value": {
+      "depends": [
+        "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a"
+      ]
+    }
+  },
+  "57520716-48c8-4a19-8acf-41c9f8777fb0": {
+    "url": "db://internal/default_ui/default_sprite.png",
+    "value": {
+      "depends": []
+    }
+  },
   "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a": {
     "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@6c48a",
     "value": {
       "depends": [
         "ffb88a8f-af62-48f4-8f1d-3cb606443a43"
       ]
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0",
-    "value": {
-      "depends": [
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f"
-      ]
-    }
-  },
-  "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a": {
-    "url": "db://internal/default_ui/default_sprite.png@6c48a",
-    "value": {
-      "depends": [
-        "57520716-48c8-4a19-8acf-41c9f8777fb0"
-      ]
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@74afd",
-    "value": {
-      "depends": []
     }
   },
   "28765e2f-040a-4c65-8e8c-f9d0bb79d863@f9941": {
@@ -1971,16 +2114,12 @@
       "depends": []
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@8fd34",
+  "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a": {
+    "url": "db://internal/default_ui/default_sprite.png@6c48a",
     "value": {
-      "depends": []
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@bb97f",
-    "value": {
-      "depends": []
+      "depends": [
+        "57520716-48c8-4a19-8acf-41c9f8777fb0"
+      ]
     }
   },
   "afc47931-f066-46b0-90be-9fe61f213428@f9941": {
@@ -2033,10 +2172,12 @@
       "depends": []
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@7d38f",
+  "158e7e52-3220-4cd7-9694-713e0e6e8278@6c48a": {
+    "url": "db://internal/default_ui/default_toggle_checkmark.png@6c48a",
     "value": {
-      "depends": []
+      "depends": [
+        "158e7e52-3220-4cd7-9694-713e0e6e8278"
+      ]
     }
   },
   "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941": {
@@ -2047,24 +2188,10 @@
       ]
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@e9a6d",
-    "value": {
-      "depends": []
-    }
-  },
   "a04e994f-ee49-47b6-9d08-2f59e3773fcc": {
     "url": "db://internal/default_ui/default_toggle_pressed.png",
     "value": {
       "depends": []
-    }
-  },
-  "158e7e52-3220-4cd7-9694-713e0e6e8278@6c48a": {
-    "url": "db://internal/default_ui/default_toggle_checkmark.png@6c48a",
-    "value": {
-      "depends": [
-        "158e7e52-3220-4cd7-9694-713e0e6e8278"
-      ]
     }
   },
   "ca7e121b-293c-4763-829a-b7a5fa81f0d2@6c48a": {
@@ -2081,24 +2208,25 @@
       "depends": []
     }
   },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0",
+    "value": {
+      "depends": [
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f"
+      ]
+    }
+  },
   "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@6c48a": {
     "url": "db://internal/default_ui/default_toggle_normal.png@6c48a",
     "value": {
       "depends": [
         "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977"
       ]
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@40c10",
-    "value": {
-      "depends": []
-    }
-  },
-  "9cb543ba-d152-4809-8a44-8e7bd5712123": {
-    "url": "db://internal/gizmo/directional-light.png",
-    "value": {
-      "depends": []
     }
   },
   "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941": {
@@ -2109,8 +2237,8 @@
       ]
     }
   },
-  "55052bc6-9909-43c1-b2fc-8818060fb069": {
-    "url": "db://internal/gizmo/particle-system.png",
+  "9cb543ba-d152-4809-8a44-8e7bd5712123": {
+    "url": "db://internal/gizmo/directional-light.png",
     "value": {
       "depends": []
     }
@@ -2123,6 +2251,38 @@
       ]
     }
   },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "9cb543ba-d152-4809-8a44-8e7bd5712123@6c48a": {
+    "url": "db://internal/gizmo/directional-light.png@6c48a",
+    "value": {
+      "depends": [
+        "9cb543ba-d152-4809-8a44-8e7bd5712123"
+      ]
+    }
+  },
+  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8": {
+    "url": "db://internal/gizmo/light-probe.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
   "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941": {
     "url": "db://internal/default_ui/default_toggle_normal.png@f9941",
     "value": {
@@ -2131,11 +2291,43 @@
       ]
     }
   },
-  "9cb543ba-d152-4809-8a44-8e7bd5712123@6c48a": {
-    "url": "db://internal/gizmo/directional-light.png@6c48a",
+  "55052bc6-9909-43c1-b2fc-8818060fb069": {
+    "url": "db://internal/gizmo/particle-system.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@f9941": {
+    "url": "db://internal/default_ui/default_toggle_pressed.png@f9941",
     "value": {
       "depends": [
-        "9cb543ba-d152-4809-8a44-8e7bd5712123"
+        "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a"
+      ]
+    }
+  },
+  "dee6f7cc-ba21-4091-948f-4f508495f260": {
+    "url": "db://internal/gizmo/reflection-probe.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "bd373594-df84-486d-a34a-19d09ddaa973@6c48a": {
+    "url": "db://internal/gizmo/camera.png@6c48a",
+    "value": {
+      "depends": [
+        "bd373594-df84-486d-a34a-19d09ddaa973"
       ]
     }
   },
@@ -2153,22 +2345,14 @@
       "depends": []
     }
   },
-  "191b676f-175b-41fa-8283-ac539875bfd8": {
-    "url": "db://internal/gizmo/spot-light.png",
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@40c10",
     "value": {
       "depends": []
     }
   },
-  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@f9941": {
-    "url": "db://internal/default_ui/default_toggle_pressed.png@f9941",
-    "value": {
-      "depends": [
-        "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a"
-      ]
-    }
-  },
-  "b9f47df4-b2f0-4270-bd8a-07bb344a8253": {
-    "url": "db://internal/gizmo/webview.png",
+  "191b676f-175b-41fa-8283-ac539875bfd8": {
+    "url": "db://internal/gizmo/spot-light.png",
     "value": {
       "depends": []
     }
@@ -2181,17 +2365,31 @@
       ]
     }
   },
+  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8@6c48a": {
+    "url": "db://internal/gizmo/light-probe.png@6c48a",
+    "value": {
+      "depends": [
+        "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8"
+      ]
+    }
+  },
+  "b9f47df4-b2f0-4270-bd8a-07bb344a8253": {
+    "url": "db://internal/gizmo/webview.png",
+    "value": {
+      "depends": []
+    }
+  },
   "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91": {
     "url": "db://internal/gizmo/x.png",
     "value": {
       "depends": []
     }
   },
-  "bd373594-df84-486d-a34a-19d09ddaa973@6c48a": {
-    "url": "db://internal/gizmo/camera.png@6c48a",
+  "191b676f-175b-41fa-8283-ac539875bfd8@6c48a": {
+    "url": "db://internal/gizmo/spot-light.png@6c48a",
     "value": {
       "depends": [
-        "bd373594-df84-486d-a34a-19d09ddaa973"
+        "191b676f-175b-41fa-8283-ac539875bfd8"
       ]
     }
   },
@@ -2215,11 +2413,11 @@
       "depends": []
     }
   },
-  "191b676f-175b-41fa-8283-ac539875bfd8@6c48a": {
-    "url": "db://internal/gizmo/spot-light.png@6c48a",
+  "dee6f7cc-ba21-4091-948f-4f508495f260@6c48a": {
+    "url": "db://internal/gizmo/reflection-probe.png@6c48a",
     "value": {
       "depends": [
-        "191b676f-175b-41fa-8283-ac539875bfd8"
+        "dee6f7cc-ba21-4091-948f-4f508495f260"
       ]
     }
   },
@@ -2227,12 +2425,36 @@
     "url": "db://internal/physics/default-physics-material.pmtl",
     "value": {}
   },
-  "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@6c48a": {
-    "url": "db://internal/gizmo/x.png@6c48a",
+  "55052bc6-9909-43c1-b2fc-8818060fb069@6c48a": {
+    "url": "db://internal/gizmo/particle-system.png@6c48a",
     "value": {
       "depends": [
-        "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91"
+        "55052bc6-9909-43c1-b2fc-8818060fb069"
       ]
+    }
+  },
+  "7f4ddeab-efa9-4b76-bf6a-029520f68461": {
+    "url": "db://internal/tools/debug-view-runtime-control.prefab",
+    "value": {
+      "depends": [
+        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
+        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ]
+    }
+  },
+  "e6914174-8ecd-4c99-8e9b-9773a9d368df": {
+    "url": "db://internal/tools/parsed-effect-info.json",
+    "value": {
+      "depends": []
     }
   },
   "87c7bea4-faed-46d2-b01d-8d3f4dfb4666": {
@@ -2240,14 +2462,6 @@
     "value": {
       "depends": [
         "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941"
-      ]
-    }
-  },
-  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a": {
-    "url": "db://internal/gizmo/y.png@6c48a",
-    "value": {
-      "depends": [
-        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301"
       ]
     }
   },
@@ -2259,12 +2473,18 @@
       ]
     }
   },
-  "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a": {
-    "url": "db://internal/gizmo/z.png@6c48a",
+  "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@6c48a": {
+    "url": "db://internal/gizmo/x.png@6c48a",
     "value": {
       "depends": [
-        "389d5fee-e29c-4221-b397-a4934a0a5694"
+        "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91"
       ]
+    }
+  },
+  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png",
+    "value": {
+      "depends": []
     }
   },
   "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@f9941": {
@@ -2275,24 +2495,26 @@
       ]
     }
   },
-  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@f9941": {
-    "url": "db://internal/gizmo/y.png@f9941",
-    "value": {
-      "depends": [
-        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a"
-      ]
-    }
-  },
   "c903a495-69a9-4bb1-8266-c5d8a692ee6f": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png",
     "value": {
       "depends": []
+    }
+  },
+  "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a": {
+    "url": "db://internal/gizmo/z.png@6c48a",
+    "value": {
+      "depends": [
+        "389d5fee-e29c-4221-b397-a4934a0a5694"
+      ]
+    }
+  },
+  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a": {
+    "url": "db://internal/gizmo/y.png@6c48a",
+    "value": {
+      "depends": [
+        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301"
+      ]
     }
   },
   "92c25386-f55c-4016-b204-6ef59b156340": {
@@ -2303,11 +2525,11 @@
       ]
     }
   },
-  "55052bc6-9909-43c1-b2fc-8818060fb069@6c48a": {
-    "url": "db://internal/gizmo/particle-system.png@6c48a",
+  "389d5fee-e29c-4221-b397-a4934a0a5694@f9941": {
+    "url": "db://internal/gizmo/z.png@f9941",
     "value": {
       "depends": [
-        "55052bc6-9909-43c1-b2fc-8818060fb069"
+        "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a"
       ]
     }
   },
@@ -2317,19 +2539,19 @@
       "depends": []
     }
   },
-  "389d5fee-e29c-4221-b397-a4934a0a5694@f9941": {
-    "url": "db://internal/gizmo/z.png@f9941",
-    "value": {
-      "depends": [
-        "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a"
-      ]
-    }
-  },
   "5716f722-8eba-466c-980d-652f561353d8": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Regular.fnt",
     "value": {
       "depends": [
         "744d520a-8483-4fbc-a47b-ab57d28d6203@f9941"
+      ]
+    }
+  },
+  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@f9941": {
+    "url": "db://internal/gizmo/y.png@f9941",
+    "value": {
+      "depends": [
+        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a"
       ]
     }
   },
@@ -2377,18 +2599,18 @@
       ]
     }
   },
-  "b23391b6-52eb-46a6-8da1-6244d9d315fb": {
-    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttf",
-    "value": {
-      "depends": []
-    }
-  },
   "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@f9941",
     "value": {
       "depends": [
         "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a"
       ]
+    }
+  },
+  "b23391b6-52eb-46a6-8da1-6244d9d315fb": {
+    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttf",
+    "value": {
+      "depends": []
     }
   },
   "0ed97c56-390e-4dd1-96b7-e7f2d93a98ed": {
@@ -2419,18 +2641,18 @@
       ]
     }
   },
-  "3487d118-0158-4983-93fe-c3822790e7c5": {
-    "url": "db://internal/default_prefab/2d/Camera.prefab",
-    "value": {
-      "depends": []
-    }
-  },
   "744d520a-8483-4fbc-a47b-ab57d28d6203@f9941": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Regular_0.png@f9941",
     "value": {
       "depends": [
         "744d520a-8483-4fbc-a47b-ab57d28d6203@6c48a"
       ]
+    }
+  },
+  "3487d118-0158-4983-93fe-c3822790e7c5": {
+    "url": "db://internal/default_prefab/2d/Camera.prefab",
+    "value": {
+      "depends": []
     }
   },
   "73ce1f7f-d1f4-4942-ad93-66ca3b3041ab": {
@@ -2516,6 +2738,18 @@
   },
   "a0e9756d-9128-4f49-8097-e041c8b733b8": {
     "url": "db://internal/default_prefab/light/Directional Light.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "50dfda40-7c45-4868-a876-2fe2a4c782f4": {
+    "url": "db://internal/default_prefab/light/Light Probe Group.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8b49b64-cfba-4cfa-be53-1e469547b28b": {
+    "url": "db://internal/default_prefab/light/Reflection Probe.prefab",
     "value": {
       "depends": []
     }
@@ -2744,252 +2978,6 @@
         "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
         "20a5d8cb-ccad-4543-a937-fccd98c9f3de"
       ]
-    }
-  },
-  "7825b695-4eed-444c-bf07-d33a772883b1": {
-    "url": "db://internal/dependencies",
-    "value": {}
-  },
-  "99317b62-549d-421a-9cd0-f575591bf3cd": {
-    "url": "db://internal/tools",
-    "value": {}
-  },
-  "eb9a3479-6087-45cb-82bc-d72e2aa6e9ef": {
-    "url": "db://internal/default_file_content/animgraphvari",
-    "value": {
-      "depends": []
-    }
-  },
-  "1d5e3139-1826-4b4a-8c4c-2e7b6874a474": {
-    "url": "db://internal/default_file_content/scene-quality",
-    "value": {
-      "depends": []
-    }
-  },
-  "e846becb-4080-4ba3-9b67-75d45b7998d5": {
-    "url": "db://internal/dependencies/textures",
-    "value": {}
-  },
-  "c183505b-b5a7-4984-b335-f0e72576ca78": {
-    "url": "db://internal/effects/for2d",
-    "value": {}
-  },
-  "0961841a-d572-45ff-af75-1a8f9c1a470c": {
-    "url": "db://internal/effects/internal",
-    "value": {}
-  },
-  "542f159e-9817-4290-8be0-3682570a3d7f": {
-    "url": "db://internal/effects/legacy",
-    "value": {}
-  },
-  "aa9d4d8a-579c-48e2-82d5-d97dddc28799": {
-    "url": "db://internal/effects/particles",
-    "value": {}
-  },
-  "8cab82a8-3634-48c2-8853-021f200cf799": {
-    "url": "db://internal/chunks/common/graph-expression",
-    "value": {}
-  },
-  "f81bb320-88da-4db8-b210-75e4d7544f3e": {
-    "url": "db://internal/default_prefab/2d/ui",
-    "value": {}
-  },
-  "fa7a90a4-9aa6-45b2-ad63-ec46c9826569": {
-    "url": "db://internal/chunks/legacy/sh-fs.chunk",
-    "value": {}
-  },
-  "ea51061e-deb7-48b9-a35a-c91be103f636": {
-    "url": "db://internal/chunks/legacy/sh-vs.chunk",
-    "value": {}
-  },
-  "7dd16c65-64a1-48c0-a335-f613807810b4": {
-    "url": "db://internal/chunks/post-process/fxaa-hq.chunk",
-    "value": {}
-  },
-  "ded549ec-b5b6-4d05-ba54-9b3ea427a58c": {
-    "url": "db://internal/effects/advanced/common-functions.chunk",
-    "value": {}
-  },
-  "bce797be-05d4-400e-8eb8-f2816147b869": {
-    "url": "db://internal/effects/advanced/eye.chunk",
-    "value": {}
-  },
-  "92ac3587-8a8c-4405-87b0-5cf026196c64": {
-    "url": "db://internal/chunks/builtin/functionalities/probe.chunk",
-    "value": {}
-  },
-  "c8728e39-6dca-4d22-a4ee-cc1aefb0198a": {
-    "url": "db://internal/chunks/builtin/functionalities/sh.chunk",
-    "value": {}
-  },
-  "960cff1c-912a-47d1-a3d9-9a25a9568508": {
-    "url": "db://internal/chunks/builtin/uniforms/cc-reflection-probe.chunk",
-    "value": {}
-  },
-  "2c62fe23-f1f4-49f1-a08f-e5e6c650682f": {
-    "url": "db://internal/chunks/builtin/uniforms/cc-sh.chunk",
-    "value": {}
-  },
-  "077c9168-e907-405b-b7f6-b4d5f68ced4a": {
-    "url": "db://internal/chunks/common/color/tone-mapping.chunk",
-    "value": {}
-  },
-  "a9f88e4b-6d43-4af4-8a58-f7d918adcb73": {
-    "url": "db://internal/chunks/common/effect/special-effects.chunk",
-    "value": {}
-  },
-  "4b4d0c0f-1d50-4d50-84e7-226c8d0dbd6f": {
-    "url": "db://internal/chunks/common/graph-expression/base.chunk",
-    "value": {}
-  },
-  "5c21fcb9-179d-4081-99f8-b119f1e6176e": {
-    "url": "db://internal/chunks/common/lighting/bxdf.chunk",
-    "value": {}
-  },
-  "1f9087ef-e3eb-44f2-8520-cfb117e8d618": {
-    "url": "db://internal/chunks/common/mesh/vat-animation.chunk",
-    "value": {}
-  },
-  "47e68d9d-c7b2-4cdf-adf9-faaeff9cb61a": {
-    "url": "db://internal/chunks/common/texture/texture-misc.chunk",
-    "value": {}
-  },
-  "f5326068-1588-43b4-9f15-c190688fc7c0": {
-    "url": "db://internal/chunks/lighting-models/data-structures/lighting-misc-data.chunk",
-    "value": {}
-  },
-  "eec6f0f1-607d-4613-9285-e5ab22a89e87": {
-    "url": "db://internal/chunks/lighting-models/default-functions/standard.chunk",
-    "value": {}
-  },
-  "6845eadb-c3d5-4485-9699-de3361cf7aaa": {
-    "url": "db://internal/chunks/lighting-models/default-functions/toon.chunk",
-    "value": {}
-  },
-  "e0e29596-7cc0-45b0-80bc-5193f81e818f": {
-    "url": "db://internal/chunks/lighting-models/includes/common.chunk",
-    "value": {}
-  },
-  "5e057755-d68b-41d1-b089-ed7f7f65f2b8": {
-    "url": "db://internal/chunks/lighting-models/model-functions/standard-common.chunk",
-    "value": {}
-  },
-  "f0475923-826e-45dc-85cc-b5d9c2b220e9": {
-    "url": "db://internal/effects/advanced/eye.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "fc0ce5f8-063d-42da-b13a-2fad25abb951": {
-    "url": "db://internal/effects/advanced/hair.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "472c676f-9f77-4c8d-b550-17825aa0176b": {
-    "url": "db://internal/effects/advanced/simple-skin.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "113a72d8-20cd-42cd-ba96-37cc1046971a": {
-    "url": "db://internal/effects/advanced/water.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "2df0a40b-26c2-47ce-be0d-4d3cd4164737": {
-    "url": "db://internal/effects/pipeline/fxaa-hq.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "084eba38-5336-4444-8c8c-aebb75d5c627": {
-    "url": "db://internal/effects/internal/editor/box-height-light.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "5967a800-25ad-4c00-9872-5c4ba7840d17": {
-    "url": "db://internal/effects/internal/editor/light-probe-visualization.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594": {
-    "url": "db://internal/tools/debug-view-runtime-control.ts",
-    "value": {}
-  },
-  "e17b4526-57a2-48d3-acc9-cf09f30aa138": {
-    "url": "db://internal/default_ui/atom_new.plist",
-    "value": {
-      "depends": [
-        "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941"
-      ]
-    }
-  },
-  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8": {
-    "url": "db://internal/gizmo/light-probe.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "dee6f7cc-ba21-4091-948f-4f508495f260": {
-    "url": "db://internal/gizmo/reflection-probe.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8@6c48a": {
-    "url": "db://internal/gizmo/light-probe.png@6c48a",
-    "value": {
-      "depends": [
-        "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8"
-      ]
-    }
-  },
-  "dee6f7cc-ba21-4091-948f-4f508495f260@6c48a": {
-    "url": "db://internal/gizmo/reflection-probe.png@6c48a",
-    "value": {
-      "depends": [
-        "dee6f7cc-ba21-4091-948f-4f508495f260"
-      ]
-    }
-  },
-  "7f4ddeab-efa9-4b76-bf6a-029520f68461": {
-    "url": "db://internal/tools/debug-view-runtime-control.prefab",
-    "value": {
-      "depends": [
-        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
-        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
-        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
-        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
-        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
-        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
-        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
-      ]
-    }
-  },
-  "e6914174-8ecd-4c99-8e9b-9773a9d368df": {
-    "url": "db://internal/tools/parsed-effect-info.json",
-    "value": {
-      "depends": []
-    }
-  },
-  "50dfda40-7c45-4868-a876-2fe2a4c782f4": {
-    "url": "db://internal/default_prefab/light/Light Probe Group.prefab",
-    "value": {
-      "depends": []
-    }
-  },
-  "d8b49b64-cfba-4cfa-be53-1e469547b28b": {
-    "url": "db://internal/default_prefab/light/Reflection Probe.prefab",
-    "value": {
-      "depends": []
     }
   },
   "b078dcad-656d-4ba3-b76e-70c88e63e045": {

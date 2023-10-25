@@ -42,7 +42,7 @@ export class LoadingViewComp extends CCVMParentComp {
     }
 
     start() {
-        this.enter();
+        // this.enter();
     }
 
     enter() {
